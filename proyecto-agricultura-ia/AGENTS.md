@@ -1,6 +1,6 @@
 # Instrucciones para agentes de AgroRota Ecuador
 
-Sigue las [reglas de datos](../REGLAS.md) y la [guía de trabajo](GUIA_AGENTES.md).
+Sigue las [reglas de datos](../REGLAS.md) y la [guía de trabajo](docs/GUIA_AGENTES.md).
 
 - El piloto cubre Babahoyo, Los Ríos. Compara arroz → arroz como referencia, arroz → soya como alternativa prioritaria y arroz → maíz amarillo duro como segunda alternativa.
 - Mantén la lógica agronómica, las consultas y los cálculos en el backend. El frontend presenta resultados, procedencia, limitaciones y motivos de cada alternativa.
