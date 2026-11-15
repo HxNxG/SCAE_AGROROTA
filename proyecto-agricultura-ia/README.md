@@ -55,7 +55,7 @@ La preparación genera primero el límite cantonal desde los datos del repositor
 
 La demostración estática muestra el diagnóstico interactivo de Pimocha con una respuesta guardada. Usa la instalación local para consultar otros escenarios, explorar las capas del mapa o enviar observaciones.
 
-La publicación está preparada en el workflow **BioTinder Pages**. Cuando GitHub permita activar Pages en este repositorio, elige **Settings → Pages → GitHub Actions** y ejecuta el workflow sobre `main`. La dirección prevista es `https://hxnxg.github.io/SCAE_AGROROTA/`.
+Abre la [demo pública de BioTinder](https://hxnxg.github.io/SCAE_AGROROTA/). Para volver a publicarla, ejecuta el [workflow BioTinder Pages](https://github.com/HxNxG/SCAE_AGROROTA/actions/workflows/pages.yml) sobre `main`.
 
 Abrir <http://127.0.0.1:5173>. Si ese puerto está ocupado, configura `$env:PORT` antes de iniciar Node.js. Seleccionar un punto en el mapa o ingresar longitud y latitud. Por ejemplo, usar longitud `-79.526` y latitud `-1.802`. Tras aceptar el punto, la ficha muestra la serie IMERG de enero de 2010 a septiembre de 2025. La lluvia se resume a escala cantonal. Una ubicación fuera de Babahoyo deja la ficha sin resultados.
 

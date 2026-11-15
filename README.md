@@ -7,6 +7,7 @@ Rice growers deciding what to plant after harvest need to weigh seasonal rain, d
 | Start here | What you will find |
 | --- | --- |
 | [Run the full prototype](proyecto-agricultura-ia/README.md#ejecutar-biotinder-localmente) | The browser viewer and its two local FastAPI services |
+| [Open the public demo](https://hxnxg.github.io/SCAE_AGROROTA/) | Interactive example saved for Pimocha under a drought scenario |
 | [Data and model evidence](docs/data_and_model.md) | Provenance, reproducible checks and limits of the reported metrics |
 | [Repository audit](docs/reorganization_audit.md) | Inventory, placeholders and paths kept stable |
 | [Verification and handoff](docs/reorganization_report.md) | Tests, file changes and remaining work |
@@ -17,7 +18,7 @@ Rice growers deciding what to plant after harvest need to weigh seasonal rain, d
 - **Rotation comparison.** Enter the growing sector, current practice, start month, summer water source, terrain, goal and scenario. Inspect three strategy cards and their 18-month calendars.
 - **Optional local layers.** Download parish boundaries and flood susceptibility with the documented setup command. Susceptibility classes describe terrain exposure. They do not show active flooding.
 - **Field observations.** Submit notes to a local file marked pending review. A review interface, production authentication and multi-user storage remain pending.
-- **Static preview.** GitHub Pages packaging exists for the saved Pimocha example. Public deployment has not been activated.
+- **Static preview.** GitHub Pages serves the saved Pimocha example. Live scenario queries and field observations require the local FastAPI services.
 
 ## Architecture
 
@@ -99,4 +100,8 @@ The model artifact holds five MLP regressors with hidden layers of 64 and 32 uni
 
 Next evidence to collect includes source request manifests and units, time-and-location holdouts, field measurements and dated crop costs. See the [Spanish operating guide](proyecto-agricultura-ia/README.md) and [data inventory](INVENTARIO_PRIORIZADO.md).
 
-Contributor history is available through Git. Team credits, a project-wide license and an AI-use disclosure have not been confirmed. Individual data and library terms still apply.
+Contributor history is available through Git. Team credits and an AI-use disclosure have not been confirmed.
+
+## License
+
+Original project software and its associated documentation are available under the [MIT License](LICENSE). Third-party libraries and data, including satellite products, geographic boundaries, cartography and derived assets, are subject to their respective source terms. See the source-specific notices before redistribution.
