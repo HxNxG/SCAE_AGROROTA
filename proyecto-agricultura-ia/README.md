@@ -1,9 +1,10 @@
 # BioTinder
 
-Sistema web de apoyo a la rotación agrícola en Babahoyo, Los Ríos. Combina datos ambientales, referencias agronómicas ecuatorianas y observaciones del agricultor para comparar arroz, soya y maíz amarillo duro después de un ciclo de arroz.
+BioTinder, prototipo de AgroRota Ecuador, permite explorar condiciones ambientales y comparar el manejo arrocero actual con dos alternativas de rotación en Babahoyo, Los Ríos. El motor usa clima simulado y reglas agronómicas, y guarda las observaciones por separado para revisión.
 
 - [Instrucciones para agentes](AGENTS.md)
-- [Guía de trabajo y alcance](docs/GUIA_AGENTES.md)
+- [Guía de trabajo y alcance previsto](docs/GUIA_AGENTES.md)
+- [Auditoría de datos, modelo y límites](../docs/data_and_model.md)
 - [Reglas de los datos del repositorio](../REGLAS.md)
 
 El visor local de Babahoyo muestra la precipitación mensual por celda IMERG y abre la ficha del cantón al seleccionar una ubicación.
@@ -12,17 +13,18 @@ El visor local de Babahoyo muestra la precipitación mensual por celda IMERG y a
 
 | Ruta | Responsabilidad |
 | --- | --- |
-| [backend/app](backend/app/) | API, contratos de datos, configuración, persistencia y evaluación agronómica. |
-| [backend/models_ml](backend/models_ml/) | Referencias a modelos. Los pesos voluminosos se gestionan fuera de Git. |
+| [backend/app](backend/app/) | API de validación geográfica y capas de clima del visor. |
+| [API de recomendaciones](../backend/app.py) | Inferencia de escenarios, reglas de rotación y observaciones locales. |
+| [Entrenamiento y auditoría del modelo](../backend/ml/) | Entrenador y relectura del modelo versionado de la API de recomendaciones. |
 | [frontend/src](frontend/src/) | Mapa, cuestionario, diagnóstico, comparación y retroalimentación. |
 | [docs](docs/) | Guía de implementación y verificación del piloto. |
-| [docker-compose.yml](docker-compose.yml) | Plantilla para la futura ejecución conjunta. |
+| [docker-compose.yml](docker-compose.yml) | Plantilla vacía. El arranque actual se realiza con los comandos de esta guía. |
 
-El inventario y los insumos se consultan desde el [índice del repositorio](../README.md#datos-y-evidencia).
+El inventario y los insumos se consultan desde la [sección de datos del repositorio](../README.md#data-in-the-prototype).
 
 ## Ejecutar BioTinder localmente
 
-Usa Node.js 22 o posterior y Python 3.11 o posterior. Ejecuta los siguientes bloques en tres terminales, cada una desde la raíz del repositorio.
+Usa Node.js 22 o posterior y Python 3.11–3.13. Ejecuta los siguientes bloques en tres terminales, cada una desde la raíz del repositorio.
 
 ```powershell
 python -m pip install -r requirements.txt
