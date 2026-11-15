@@ -1,0 +1,264 @@
+{
+  "fecha_ejecucion": "2026-11-14",
+  "intervalo_solicitado": "2010-01-01T00:00:00Z/2026-11-14T23:59:59Z",
+  "catalogo": "https://planetarycomputer.microsoft.com/api/stac/v1/search",
+  "limites_EPSG_4326": "01_suelos_y_salud_del_suelo\\SMAP\\geografia\\costa_provincias_referencia_2019.geojson",
+  "justificacion": "Verificar bandas, calidad e indices con un recorte interior por provincia y sensor.",
+  "bytes_libres_antes": 354023944192,
+  "bytes_estimados": 839216,
+  "recortes": [
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "13",
+        "DPA_DESPRO": "MANABÍ"
+      },
+      "lon": -80.05770952842988,
+      "lat": -0.7828446055554649,
+      "sensor": "l30",
+      "ultima_escena_catalogo": "2026-10-30T15:32:33.845392Z",
+      "primera_escena": "2017-10-13T15:32:46.337664Z",
+      "escena": "HLS.L30.T17MPV.2026279T153231.v2.0",
+      "fecha": "2026-10-06T15:32:31.368153Z",
+      "archivo": "00_HLS.L30.T17MPV.2026279T153231.v2.0.tif",
+      "pixeles_validos": 3,
+      "bytes": 2101,
+      "sha256": "af32fd7f2995cd34179ceea874e4a3a0bdb3c0c1d011e389621474dd3b4be840"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "13",
+        "DPA_DESPRO": "MANABÍ"
+      },
+      "lon": -80.05770952842988,
+      "lat": -0.7828446055554649,
+      "sensor": "s30",
+      "ultima_escena_catalogo": "2026-11-04T15:53:24.813820Z",
+      "primera_escena": "2020-01-10T15:53:15.335300Z",
+      "escena": "HLS.S30.T17MNV.2026268T155219.v2.0",
+      "fecha": "2026-09-25T15:53:23.552730Z",
+      "archivo": "01_HLS.S30.T17MNV.2026268T155219.v2.0.tif",
+      "pixeles_validos": 80,
+      "bytes": 4755,
+      "sha256": "8d94601ee7661d74eb82ba353bb692497652d7d79d9a327199b66457987e8aee"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "09",
+        "DPA_DESPRO": "GUAYAS"
+      },
+      "lon": -79.92613010851912,
+      "lat": -1.9543496343562343,
+      "sensor": "l30",
+      "ultima_escena_catalogo": "2026-10-30T15:32:57.761824Z",
+      "primera_escena": "2017-10-13T15:33:10.258353Z",
+      "escena": "HLS.L30.T17MPT.2026271T153257.v2.0",
+      "fecha": "2026-09-28T15:32:57.672205Z",
+      "archivo": "02_HLS.L30.T17MPT.2026271T153257.v2.0.tif",
+      "pixeles_validos": 11,
+      "bytes": 2352,
+      "sha256": "00992c322b843ebff734a227463b149a5fb8a4a750c932e56f85934ba45ba475"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "09",
+        "DPA_DESPRO": "GUAYAS"
+      },
+      "lon": -79.92613010851912,
+      "lat": -1.9543496343562343,
+      "sensor": "s30",
+      "ultima_escena_catalogo": "2026-11-04T15:53:48.721840Z",
+      "primera_escena": "2020-01-02T15:43:49.238530Z",
+      "escena": "HLS.S30.T17MPT.2026298T155219.v2.0",
+      "fecha": "2026-10-25T15:53:48.277110Z",
+      "archivo": "03_HLS.S30.T17MPT.2026298T155219.v2.0.tif",
+      "pixeles_validos": 7,
+      "bytes": 2476,
+      "sha256": "656ee0e510ff6ecab8eee579391928df9f654edc3f103c6911beb990b20737e8"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "24",
+        "DPA_DESPRO": "SANTA ELENA"
+      },
+      "lon": -80.52408874026719,
+      "lat": -2.0876417415087216,
+      "sensor": "l30",
+      "ultima_escena_catalogo": "2026-10-30T15:32:57.761824Z",
+      "primera_escena": "2017-08-26T15:33:22.464886Z",
+      "escena": "HLS.L30.T17MNT.2026127T153228.v2.0",
+      "fecha": "2026-05-07T15:32:28.470611Z",
+      "archivo": "04_HLS.L30.T17MNT.2026127T153228.v2.0.tif",
+      "pixeles_validos": 10,
+      "bytes": 2480,
+      "sha256": "b501125b2d8a4ab74e93e4c266c4f8fe8e6dedacee17d6383b622112b0f49bb4"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "24",
+        "DPA_DESPRO": "SANTA ELENA"
+      },
+      "lon": -80.52408874026719,
+      "lat": -2.0876417415087216,
+      "sensor": "s30",
+      "ultima_escena_catalogo": "2026-10-25T15:53:53.240040Z",
+      "primera_escena": "2020-01-05T15:53:47.437130Z",
+      "escena": "HLS.S30.T17MNT.2026178T155219.v2.0",
+      "fecha": "2026-06-27T15:53:50.806220Z",
+      "archivo": "05_HLS.S30.T17MNT.2026178T155219.v2.0.tif",
+      "pixeles_validos": 769,
+      "bytes": 25425,
+      "sha256": "9886262b0279ef64609c3f7abc340373038dd73bb14dd9566105374da195239b"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "07",
+        "DPA_DESPRO": "EL ORO"
+      },
+      "lon": -79.84202885874919,
+      "lat": -3.468563543205164,
+      "sensor": "l30",
+      "ultima_escena_catalogo": "2026-10-31T15:27:13.254662Z",
+      "primera_escena": "2017-08-19T15:27:10.184139Z",
+      "escena": "HLS.L30.T17MPS.2026136T152631.v2.0",
+      "fecha": "2026-05-16T15:26:31.121272Z",
+      "archivo": "06_HLS.L30.T17MPS.2026136T152631.v2.0.tif",
+      "pixeles_validos": 1079,
+      "bytes": 36849,
+      "sha256": "a1fba08d3e8787cb93508bb63f18e2b48ea3d9e44ee4256a93fabe36237b4543"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "07",
+        "DPA_DESPRO": "EL ORO"
+      },
+      "lon": -79.84202885874919,
+      "lat": -3.468563543205164,
+      "sensor": "s30",
+      "ultima_escena_catalogo": "2026-11-01T15:44:09.882720Z",
+      "primera_escena": "2020-01-02T15:44:03.669430Z",
+      "escena": "HLS.S30.T17MPS.2026220T153631.v2.0",
+      "fecha": "2026-08-08T15:44:09.049070Z",
+      "archivo": "07_HLS.S30.T17MPS.2026220T153631.v2.0.tif",
+      "pixeles_validos": 522,
+      "bytes": 18241,
+      "sha256": "16ba0001c57848ab8a6676a776f0982b68e225620fc55bee00b1fae40b16d3a2"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "12",
+        "DPA_DESPRO": "LOS RÍOS"
+      },
+      "lon": -79.53785464828208,
+      "lat": -1.3354659656819092,
+      "sensor": "l30",
+      "ultima_escena_catalogo": "2026-10-30T15:32:57.761824Z",
+      "primera_escena": "2017-08-19T15:26:46.263448Z",
+      "escena": "HLS.L30.T17MPU.2026296T152648.v2.0",
+      "fecha": "2026-10-23T15:26:48.198100Z",
+      "archivo": "08_HLS.L30.T17MPU.2026296T152648.v2.0.tif",
+      "pixeles_validos": 202,
+      "bytes": 9247,
+      "sha256": "0037a7ce09fe9c970d538b0281bfd41cb728268e0ad0b7a3a6982e380b39dc0e"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "12",
+        "DPA_DESPRO": "LOS RÍOS"
+      },
+      "lon": -79.53785464828208,
+      "lat": -1.3354659656819092,
+      "sensor": "s30",
+      "ultima_escena_catalogo": "2026-11-01T15:43:40.932190Z",
+      "primera_escena": "2020-01-02T15:43:34.695770Z",
+      "escena": "HLS.S30.T17MPU.2026300T153621.v2.0",
+      "fecha": "2026-10-27T15:43:38.516350Z",
+      "archivo": "09_HLS.S30.T17MPU.2026300T153621.v2.0.tif",
+      "pixeles_validos": 1089,
+      "bytes": 35941,
+      "sha256": "b581a4b996d4fb7bbfdee0fc6c57a7cda312cf0a6e58cab49689c5eec7208d3f"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "08",
+        "DPA_DESPRO": "ESMERALDAS"
+      },
+      "lon": -79.30367596276778,
+      "lat": 0.7149803822462397,
+      "sensor": "l30",
+      "ultima_escena_catalogo": "2026-10-30T15:32:33.845392Z",
+      "primera_escena": "2017-10-13T15:32:46.337664Z",
+      "escena": "HLS.L30.T17NPA.2026295T153206.v2.0",
+      "fecha": "2026-10-22T15:32:06.282555Z",
+      "archivo": "10_HLS.L30.T17NPA.2026295T153206.v2.0.tif",
+      "pixeles_validos": 623,
+      "bytes": 20999,
+      "sha256": "3d5eae4af99d6ed91184d5ef8c00965e41bda064657a56b62ebe244818bc6806"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "08",
+        "DPA_DESPRO": "ESMERALDAS"
+      },
+      "lon": -79.30367596276778,
+      "lat": 0.7149803822462397,
+      "sensor": "s30",
+      "ultima_escena_catalogo": "2026-11-01T15:53:11.886440Z",
+      "primera_escena": "2020-01-02T15:43:05.231980Z",
+      "escena": "HLS.S30.T17NPA.2026300T153621.v2.0",
+      "fecha": "2026-10-27T15:43:09.036260Z",
+      "archivo": "11_HLS.S30.T17NPA.2026300T153621.v2.0.tif",
+      "pixeles_validos": 592,
+      "bytes": 19552,
+      "sha256": "f95a0b3c8249fee47d64122ec5310fb27ff36bf43793d8efbfad34493bbcc176"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "23",
+        "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS"
+      },
+      "lon": -79.17476839774456,
+      "lat": -0.33695703235644614,
+      "sensor": "l30",
+      "ultima_escena_catalogo": "2026-10-31T15:26:25.413277Z",
+      "primera_escena": "2017-08-19T15:26:22.342757Z",
+      "escena": "HLS.L30.T17MQV.2026280T152625.v2.0",
+      "fecha": "2026-10-07T15:26:25.956630Z",
+      "archivo": "12_HLS.L30.T17MQV.2026280T152625.v2.0.tif",
+      "pixeles_validos": 801,
+      "bytes": 26919,
+      "sha256": "b71bb03764b576c69ba29e654573432d85a82c152291a69e133d6f1c5875e1bb"
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "23",
+        "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS"
+      },
+      "lon": -79.17476839774456,
+      "lat": -0.33695703235644614,
+      "sensor": "s30",
+      "ultima_escena_catalogo": "2026-11-01T15:43:26.254900Z",
+      "primera_escena": "2020-01-02T15:43:17.081600Z",
+      "escena": "HLS.S30.T17MPV.2026300T153621.v2.0",
+      "fecha": "2026-10-27T15:43:23.837540Z",
+      "archivo": "13_HLS.S30.T17MPV.2026300T153621.v2.0.tif",
+      "pixeles_validos": 1089,
+      "bytes": 34176,
+      "sha256": "838621734662de272fd596af03d796212927153ddaaea2b29bec80922e41594b"
+    }
+  ],
+  "errores": []
+}

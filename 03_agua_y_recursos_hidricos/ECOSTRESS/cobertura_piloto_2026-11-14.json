@@ -1,0 +1,343 @@
+{
+  "catalogo": "https://cmr.earthdata.nasa.gov/search/granules.json",
+  "geometria_epsg_4326": "01_suelos_y_salud_del_suelo/SMAP/geografia/costa_provincias_referencia_2019.geojson",
+  "metodo": "Un punto interior por provincia; solo huellas de catalogo.",
+  "resultados": [
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "13",
+        "DPA_DESPRO": "MANABÍ"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L2T_LSTE",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-80.057710,-0.782845",
+        "page_size": 1
+      },
+      "granulos": 881,
+      "primero": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_01084_020_17MPV_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_47341_014_17MPV_20261110T093658_0713_02",
+        "time_start": "2026-11-10T09:36:58.494Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "13",
+        "DPA_DESPRO": "MANABÍ"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L3T_JET",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-80.057710,-0.782845",
+        "page_size": 1
+      },
+      "granulos": 344,
+      "primero": {
+        "producer_granule_id": "ECOv002_L3T_JET_01084_020_17MPV_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L3T_JET_46782_001_17MPV_20261005T115729_0713_01",
+        "time_start": "2026-10-05T11:57:29.423Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "09",
+        "DPA_DESPRO": "GUAYAS"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L2T_LSTE",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.926130,-1.954350",
+        "page_size": 1
+      },
+      "granulos": 660,
+      "primero": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_01084_020_17MPT_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_47326_015_17MPT_20261109T102457_0713_01",
+        "time_start": "2026-11-09T10:24:57.601Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "09",
+        "DPA_DESPRO": "GUAYAS"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L3T_JET",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.926130,-1.954350",
+        "page_size": 1
+      },
+      "granulos": 237,
+      "primero": {
+        "producer_granule_id": "ECOv002_L3T_JET_01084_020_17MPT_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L3T_JET_46658_029_17MPT_20260927T150014_0713_02",
+        "time_start": "2026-09-27T15:00:14.882Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "24",
+        "DPA_DESPRO": "SANTA ELENA"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L2T_LSTE",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-80.524089,-2.087642",
+        "page_size": 1
+      },
+      "granulos": 590,
+      "primero": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_01084_020_17MNT_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_47326_015_17MNT_20261109T102457_0713_01",
+        "time_start": "2026-11-09T10:24:57.601Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "24",
+        "DPA_DESPRO": "SANTA ELENA"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L3T_JET",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-80.524089,-2.087642",
+        "page_size": 1
+      },
+      "granulos": 206,
+      "primero": {
+        "producer_granule_id": "ECOv002_L3T_JET_01084_020_17MNT_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L3T_JET_46658_029_17MNT_20260927T150014_0713_01",
+        "time_start": "2026-09-27T15:00:14.882Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "07",
+        "DPA_DESPRO": "EL ORO"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L2T_LSTE",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.842029,-3.468564",
+        "page_size": 1
+      },
+      "granulos": 760,
+      "primero": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_01084_020_17MPS_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_47326_015_17MPS_20261109T102457_0713_01",
+        "time_start": "2026-11-09T10:24:57.601Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "07",
+        "DPA_DESPRO": "EL ORO"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L3T_JET",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.842029,-3.468564",
+        "page_size": 1
+      },
+      "granulos": 268,
+      "primero": {
+        "producer_granule_id": "ECOv002_L3T_JET_01084_020_17MPS_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L3T_JET_46658_029_17MPS_20260927T150014_0713_02",
+        "time_start": "2026-09-27T15:00:14.882Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "12",
+        "DPA_DESPRO": "LOS RÍOS"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L2T_LSTE",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.537855,-1.335466",
+        "page_size": 1
+      },
+      "granulos": 523,
+      "primero": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_01084_020_17MPU_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_47272_028_17MPU_20261105T233325_0713_02",
+        "time_start": "2026-11-05T23:33:25.768Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "12",
+        "DPA_DESPRO": "LOS RÍOS"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L3T_JET",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.537855,-1.335466",
+        "page_size": 1
+      },
+      "granulos": 189,
+      "primero": {
+        "producer_granule_id": "ECOv002_L3T_JET_01084_020_17MPU_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L3T_JET_46658_029_17MPU_20260927T150014_0713_02",
+        "time_start": "2026-09-27T15:00:14.882Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "08",
+        "DPA_DESPRO": "ESMERALDAS"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L2T_LSTE",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.303676,0.714980",
+        "page_size": 1
+      },
+      "granulos": 388,
+      "primero": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_01145_013_17NPA_20180918T113410_0712_01",
+        "time_start": "2018-09-18T11:34:10.361Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_47334_001_17NPA_20261109T220044_0713_02",
+        "time_start": "2026-11-09T22:00:44.464Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "08",
+        "DPA_DESPRO": "ESMERALDAS"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L3T_JET",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.303676,0.714980",
+        "page_size": 1
+      },
+      "granulos": 166,
+      "primero": {
+        "producer_granule_id": "ECOv002_L3T_JET_01145_013_17NPA_20180918T113410_0712_01",
+        "time_start": "2018-09-18T11:34:10.361Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L3T_JET_46782_001_17NPA_20261005T115729_0713_01",
+        "time_start": "2026-10-05T11:57:29.423Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "23",
+        "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L2T_LSTE",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.174768,-0.336957",
+        "page_size": 1
+      },
+      "granulos": 1039,
+      "primero": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_01084_020_17MPV_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L2T_LSTE_47341_014_17MPV_20261110T093658_0713_02",
+        "time_start": "2026-11-10T09:36:58.494Z"
+      }
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "23",
+        "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS"
+      },
+      "parametros": {
+        "provider": "LPCLOUD",
+        "short_name": "ECO_L3T_JET",
+        "version": "002",
+        "temporal": "2010-01-01T00:00:00Z,2026-11-14T23:59:59Z",
+        "point": "-79.174768,-0.336957",
+        "page_size": 1
+      },
+      "granulos": 380,
+      "primero": {
+        "producer_granule_id": "ECOv002_L3T_JET_01084_020_17MPV_20180914T132607_0712_01",
+        "time_start": "2018-09-14T13:26:07.141Z"
+      },
+      "ultimo": {
+        "producer_granule_id": "ECOv002_L3T_JET_46782_001_17MQV_20261005T115729_0713_01",
+        "time_start": "2026-10-05T11:57:29.423Z"
+      }
+    }
+  ]
+}

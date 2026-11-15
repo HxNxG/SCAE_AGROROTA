@@ -1,0 +1,12 @@
+{
+  "url": "https://erddap.marine.usf.edu/erddap/griddap/IMERG_monthly_global_precip.csv?precipitation[(2010-01-01T00:00:00Z):1:(2014-12-01T00:00:00Z)][(-3.89):1:(1.47)][(-81.02):1:(-78.42)],precipitationQualityIndex[(2010-01-01T00:00:00Z):1:(2014-12-01T00:00:00Z)][(-3.89):1:(1.47)][(-81.02):1:(-78.42)],randomError[(2010-01-01T00:00:00Z):1:(2014-12-01T00:00:00Z)][(-3.89):1:(1.47)][(-81.02):1:(-78.42)]",
+  "estimated_bytes": 16000000,
+  "free_bytes": 353189449728,
+  "consulta": "2026-11-14",
+  "proposito": "Completar el hist?rico de precipitaci?n mensual desde 2010 en la malla de la Costa",
+  "bytes": 7929972,
+  "sha256": "59ae6da1e680f5ff2ef63e9140137caec5e564b322ba3b2335a067e72bc518f5",
+  "meses": 60,
+  "celdas_por_mes": 1458,
+  "ultimo_mes_erddap": "2025-09"
+}

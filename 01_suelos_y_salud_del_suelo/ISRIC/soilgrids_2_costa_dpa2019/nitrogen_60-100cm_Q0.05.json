@@ -1,0 +1,18 @@
+{
+  "query": "https://files.isric.org/soilgrids/latest/data/nitrogen/nitrogen_60-100cm_Q0.05.vrt",
+  "coverage": "nitrogen_60-100cm_Q0.05",
+  "nodata": -32768.0,
+  "unit": "g/kg",
+  "divide_stored_value_by": 100,
+  "valid_pixels": 1087623,
+  "min": 0,
+  "max": 40,
+  "crs_wkt": "PROJCS[\"Interrupted_Goode_Homolosine\",GEOGCS[\"GCS_WGS_1984 ellipse\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Interrupted_Goode_Homolosine\"],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "bounds": [
+    -9016500.0,
+    -433250.0,
+    -8730500.0,
+    163750.0
+  ],
+  "sha256": "013a900ce0980b80076b48b714299871208025e4db23499448bdaa744e57cf7e"
+}

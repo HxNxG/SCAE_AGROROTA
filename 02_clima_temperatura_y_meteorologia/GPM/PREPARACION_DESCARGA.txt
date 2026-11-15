@@ -1,0 +1,5 @@
+﻿Fecha de consulta local: 2026-11-14
+Espacio libre previo (bytes): 354340990976
+Estimación CSV: hasta 32 MB (129 meses, aproximadamente 1.500 celdas por mes, hasta 150 bytes por fila).
+Justificación: comparar acumulados mensuales y anomalías en la Costa preservando malla, índice de calidad y error aleatorio.
+Consulta: https://erddap.marine.usf.edu/erddap/griddap/IMERG_monthly_global_precip.csv?precipitation[(2015-01-01T00:00:00Z):1:(2025-09-01T00:00:00Z)][(-3.89):1:(1.47)][(-81.02):1:(-78.42)],precipitationQualityIndex[(2015-01-01T00:00:00Z):1:(2025-09-01T00:00:00Z)][(-3.89):1:(1.47)][(-81.02):1:(-78.42)],randomError[(2015-01-01T00:00:00Z):1:(2025-09-01T00:00:00Z)][(-3.89):1:(1.47)][(-81.02):1:(-78.42)]

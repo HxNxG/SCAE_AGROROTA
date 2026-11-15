@@ -1,0 +1,17 @@
+{
+  "reference_year": 2019,
+  "provinces_count": 7,
+  "los_rios_cantons_count": 13,
+  "province_geometries_repaired": [],
+  "bounding_box_wgs84": [
+    -81.01134561049669,
+    -3.8899490826071004,
+    -78.42638916359947,
+    1.4695806000963956
+  ],
+  "los_rios_area_km2": 7238.946007971958,
+  "los_rios_area_outside_canton_union_km2": 0.0,
+  "canton_union_outside_los_rios_km2": 0.0,
+  "canton_overlap_area_km2": 1.71661376953125e-11,
+  "limitations": "Validacion de referencia DPA 2019; no confirma limites actuales ni cobertura de celdas o humedad SMAP."
+}

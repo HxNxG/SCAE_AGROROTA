@@ -1,0 +1,14 @@
+{
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/2025/Tabulados_excel_2025.xlsx": {
+    "estimated_bytes": 10607495,
+    "free_bytes": 353469964288,
+    "bytes": 10607495,
+    "sha256": "58405ea2aedd7957269baf1b795c5a02137f261417335e71b56b900a3ffd22a6"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Encuestas_Ambientales/Modulo_Ambiental_ESPAC/2025/TABULADOS_MOD_AMB_ESPAC.xlsx": {
+    "estimated_bytes": 330697,
+    "free_bytes": 353475653632,
+    "bytes": 330697,
+    "sha256": "ab745d8bcbd10225ba7af0dab6499f83e13c1f54e7273c904efe57e940e5cdb5"
+  }
+}

@@ -1,0 +1,1121 @@
+{
+  "download_date": "2026-11-14",
+  "area": "CONALI 2024, categor\u00eda 115",
+  "collection": "MapBiomas Ecuador 4.0",
+  "license": "CC BY 4.0",
+  "exports": [
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/7a571409-ead3-4414-a709-ca0bd5966e1c/download?tenantId=mapbiomas",
+      "years": [
+        2015
+      ],
+      "bytes": 1066453
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/6f08a410-e9a4-4f8d-b1ce-6f17636fba89/download?tenantId=mapbiomas",
+      "years": [
+        2016
+      ],
+      "bytes": 1068758
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/d7401523-f5d1-4a1e-9c95-0054840d347b/download?tenantId=mapbiomas",
+      "years": [
+        2017
+      ],
+      "bytes": 1078623
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/4f4811d5-0cdb-4a5d-8730-3fd4f91a1e00/download?tenantId=mapbiomas",
+      "years": [
+        2018
+      ],
+      "bytes": 1087966
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/b2b7bc3b-f301-402a-bc10-d2740899c359/download?tenantId=mapbiomas",
+      "years": [
+        2019
+      ],
+      "bytes": 1090564
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/41bd063a-1054-40cd-852f-b9d30c3073a8/download?tenantId=mapbiomas",
+      "years": [
+        2020
+      ],
+      "bytes": 1092591
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/e931a004-b3dd-4e10-a89d-93c492417089/download?tenantId=mapbiomas",
+      "years": [
+        2021
+      ],
+      "bytes": 1089009
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/7619c355-5a03-4a2c-ae78-303c8a7958b2/download?tenantId=mapbiomas",
+      "years": [
+        2022
+      ],
+      "bytes": 1087481
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/10fd9b30-55c1-4dc2-8fd4-3531f211404e/download?tenantId=mapbiomas",
+      "years": [
+        2023
+      ],
+      "bytes": 1082682
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/8240c975-2700-4238-ac15-9d25bdd4a173/download?tenantId=mapbiomas",
+      "years": [
+        2024
+      ],
+      "bytes": 1083923
+    },
+    {
+      "code": "07",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/a5a0f336-f44d-41e4-b9df-361af9f14ba3/download?tenantId=mapbiomas",
+      "years": [
+        2025
+      ],
+      "bytes": 1105475
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/cd6fee7c-9ee7-435c-b4e1-d8f5a638f1e1/download?tenantId=mapbiomas",
+      "years": [
+        2015
+      ],
+      "bytes": 1777657
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/5748384e-b94e-49c0-9faa-91184440347c/download?tenantId=mapbiomas",
+      "years": [
+        2016
+      ],
+      "bytes": 1793834
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/7ce982ac-8f47-4b92-9215-2d7b47cbc5b9/download?tenantId=mapbiomas",
+      "years": [
+        2017
+      ],
+      "bytes": 1815942
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/4b5ae775-7164-4c5f-95ea-d6c238cfbd4a/download?tenantId=mapbiomas",
+      "years": [
+        2018
+      ],
+      "bytes": 1822307
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/0550958b-ca32-40e7-ab0e-07db68320ac0/download?tenantId=mapbiomas",
+      "years": [
+        2019
+      ],
+      "bytes": 1836754
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/c2d324d6-7c9d-4658-ba09-99fbcbff3bb5/download?tenantId=mapbiomas",
+      "years": [
+        2020
+      ],
+      "bytes": 1885752
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/d6660ef5-7c26-4dd4-92c2-66e347f5e65a/download?tenantId=mapbiomas",
+      "years": [
+        2021
+      ],
+      "bytes": 1863574
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/02a10199-4ce0-4d85-87d9-a0803783f1e0/download?tenantId=mapbiomas",
+      "years": [
+        2022
+      ],
+      "bytes": 1835337
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/98ceae5e-879a-4deb-a370-eae8d9310735/download?tenantId=mapbiomas",
+      "years": [
+        2023
+      ],
+      "bytes": 1830205
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/4689d64b-01c5-44d0-87dd-9bab01ff23e0/download?tenantId=mapbiomas",
+      "years": [
+        2024
+      ],
+      "bytes": 1804943
+    },
+    {
+      "code": "08",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/2fe4b1be-c384-49c5-89cb-36cb828c6eb2/download?tenantId=mapbiomas",
+      "years": [
+        2025
+      ],
+      "bytes": 1857293
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/3ece08ac-14af-474f-b6c6-d988df85cfef/download?tenantId=mapbiomas",
+      "years": [
+        2015
+      ],
+      "bytes": 1878615
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/6c695d85-008b-4522-932b-0d002a345c78/download?tenantId=mapbiomas",
+      "years": [
+        2016
+      ],
+      "bytes": 1866095
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/ff32fb91-6c02-4687-b9f5-3a435e54bfd2/download?tenantId=mapbiomas",
+      "years": [
+        2017
+      ],
+      "bytes": 1869245
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/2f79bfcc-64e3-4310-aa39-cc3f9c5f62a2/download?tenantId=mapbiomas",
+      "years": [
+        2018
+      ],
+      "bytes": 1877384
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/db903c01-cdbe-47b5-a628-97910a09f133/download?tenantId=mapbiomas",
+      "years": [
+        2019
+      ],
+      "bytes": 1886564
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/302901fb-b3bb-47f0-8514-8f663907f02c/download?tenantId=mapbiomas",
+      "years": [
+        2020
+      ],
+      "bytes": 1892780
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/e22803c4-f36a-4105-83bc-9af1c49ab2f4/download?tenantId=mapbiomas",
+      "years": [
+        2021
+      ],
+      "bytes": 1892935
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/1ddac16a-6c7a-4955-963b-9f09d3bab3f7/download?tenantId=mapbiomas",
+      "years": [
+        2022
+      ],
+      "bytes": 1906351
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/5fff390f-a64d-4f48-adcf-e95ad6ea001a/download?tenantId=mapbiomas",
+      "years": [
+        2023
+      ],
+      "bytes": 1923088
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/cc374f16-200b-4746-9c16-2294344032ee/download?tenantId=mapbiomas",
+      "years": [
+        2024
+      ],
+      "bytes": 1937662
+    },
+    {
+      "code": "09",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/e931a100-5442-41a5-a9aa-947169d9634b/download?tenantId=mapbiomas",
+      "years": [
+        2025
+      ],
+      "bytes": 1961624
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/83d9bdb0-23cb-4a52-9484-51295e60eaf6/download?tenantId=mapbiomas",
+      "years": [
+        2015
+      ],
+      "bytes": 611406
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/336e0dfa-8063-4edc-8961-fb8cc9aa406b/download?tenantId=mapbiomas",
+      "years": [
+        2016
+      ],
+      "bytes": 602191
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/84eda171-78dd-41f4-8761-1736b1de49c3/download?tenantId=mapbiomas",
+      "years": [
+        2017
+      ],
+      "bytes": 598073
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/87dcab00-8818-436c-8189-ac30433d1b37/download?tenantId=mapbiomas",
+      "years": [
+        2018
+      ],
+      "bytes": 595736
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/64753019-2caf-4d73-a198-83a968bafed4/download?tenantId=mapbiomas",
+      "years": [
+        2019
+      ],
+      "bytes": 585867
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/8729bfd1-043c-4a11-823b-f74e88f4617c/download?tenantId=mapbiomas",
+      "years": [
+        2020
+      ],
+      "bytes": 584775
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/6429217b-4557-4c64-b3be-7bdfe94a1956/download?tenantId=mapbiomas",
+      "years": [
+        2021
+      ],
+      "bytes": 579653
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/c207e518-93bd-4eb3-a2d4-e6fe4ffb586a/download?tenantId=mapbiomas",
+      "years": [
+        2022
+      ],
+      "bytes": 576520
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/10a4b40c-d331-4fdb-bcc2-aea3741c108d/download?tenantId=mapbiomas",
+      "years": [
+        2023
+      ],
+      "bytes": 574989
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/8b0f9628-ebbd-46d5-bfef-c6e1f81d77c3/download?tenantId=mapbiomas",
+      "years": [
+        2024
+      ],
+      "bytes": 580568
+    },
+    {
+      "code": "12",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/7b4a5c30-4578-45e1-9964-034eb2298028/download?tenantId=mapbiomas",
+      "years": [
+        2025
+      ],
+      "bytes": 608495
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/ae6f5cfd-7475-4071-ae33-8609b60737c4/download?tenantId=mapbiomas",
+      "years": [
+        2015
+      ],
+      "bytes": 2916694
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/52cbb3f7-1202-4ac1-a348-10c1295962cd/download?tenantId=mapbiomas",
+      "years": [
+        2016
+      ],
+      "bytes": 2933982
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/6c6013a3-f4c0-418b-9508-9d28236106ac/download?tenantId=mapbiomas",
+      "years": [
+        2017
+      ],
+      "bytes": 2960570
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/51465660-3ff2-43db-9ade-d369dc127a6e/download?tenantId=mapbiomas",
+      "years": [
+        2018
+      ],
+      "bytes": 2953078
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/e5ed5b19-ed28-4461-bd66-8630e43bef56/download?tenantId=mapbiomas",
+      "years": [
+        2019
+      ],
+      "bytes": 2995326
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/ac4ed9a8-5fec-4e23-bb7b-9c11fc4a9ce5/download?tenantId=mapbiomas",
+      "years": [
+        2020
+      ],
+      "bytes": 2998629
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/1e0b78d6-4204-4218-86d7-b14a4088b549/download?tenantId=mapbiomas",
+      "years": [
+        2021
+      ],
+      "bytes": 2975666
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/f847c856-5d82-46d3-a798-ed1f3c2b880e/download?tenantId=mapbiomas",
+      "years": [
+        2022
+      ],
+      "bytes": 2984678
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/3bb44a66-1a88-46cf-9586-a1224ee8c147/download?tenantId=mapbiomas",
+      "years": [
+        2023
+      ],
+      "bytes": 2999551
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/13d7ea71-74fe-43ff-acae-f50316598c3f/download?tenantId=mapbiomas",
+      "years": [
+        2024
+      ],
+      "bytes": 3000034
+    },
+    {
+      "code": "13",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/b95ab8da-ac53-4782-bc1b-5a46072487c3/download?tenantId=mapbiomas",
+      "years": [
+        2025
+      ],
+      "bytes": 3118807
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/39ce8876-5b94-4491-908d-207c1e303bb2/download?tenantId=mapbiomas",
+      "years": [
+        2015
+      ],
+      "bytes": 475793
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/57a0f202-861b-4d58-97e9-e12fabb07002/download?tenantId=mapbiomas",
+      "years": [
+        2016
+      ],
+      "bytes": 473456
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/a377f32d-dac7-4e45-92e5-56bdc12e247b/download?tenantId=mapbiomas",
+      "years": [
+        2017
+      ],
+      "bytes": 476804
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/34ea08b0-6f3d-4350-8ffb-9205fc28b0f4/download?tenantId=mapbiomas",
+      "years": [
+        2018
+      ],
+      "bytes": 475872
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/dfeccfeb-8910-48d1-8e82-98650947c5d9/download?tenantId=mapbiomas",
+      "years": [
+        2019
+      ],
+      "bytes": 478380
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/24056779-f6ff-470b-b0be-5de1c8e1ac0f/download?tenantId=mapbiomas",
+      "years": [
+        2020
+      ],
+      "bytes": 477132
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/6c73f31c-eac4-48c2-aec4-b17d3b0d2538/download?tenantId=mapbiomas",
+      "years": [
+        2021
+      ],
+      "bytes": 466468
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/cae6b351-fc57-4d18-a08a-4b0795a09fca/download?tenantId=mapbiomas",
+      "years": [
+        2022
+      ],
+      "bytes": 461888
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/2bfd5bf2-05d4-402a-9fc3-2d32e83cf294/download?tenantId=mapbiomas",
+      "years": [
+        2023
+      ],
+      "bytes": 461595
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/6da44590-ea0e-40eb-8068-f79dc1526503/download?tenantId=mapbiomas",
+      "years": [
+        2024
+      ],
+      "bytes": 445096
+    },
+    {
+      "code": "23",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/bc4f0597-fff6-4526-8ee6-3a0747c17215/download?tenantId=mapbiomas",
+      "years": [
+        2025
+      ],
+      "bytes": 445838
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/8688814c-e2a1-48a7-b709-fe710d49de50/download?tenantId=mapbiomas",
+      "years": [
+        2015
+      ],
+      "bytes": 474981
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/5ce74f2a-0ac9-4a5b-9c52-5e732eebaa77/download?tenantId=mapbiomas",
+      "years": [
+        2016
+      ],
+      "bytes": 473323
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/f8b12f31-19ef-4629-895d-0c23fe2cab9d/download?tenantId=mapbiomas",
+      "years": [
+        2017
+      ],
+      "bytes": 472942
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/f569fc67-2ff0-44ce-93f9-01e396b6c76a/download?tenantId=mapbiomas",
+      "years": [
+        2018
+      ],
+      "bytes": 472289
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/8cf8afd8-8d3a-4795-8207-4e3b7b2b17ae/download?tenantId=mapbiomas",
+      "years": [
+        2019
+      ],
+      "bytes": 471709
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/d4e5a923-57ff-4b1f-8465-72e6a55df261/download?tenantId=mapbiomas",
+      "years": [
+        2020
+      ],
+      "bytes": 470977
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/7544339a-ea34-42a2-b7ca-542ba91fca37/download?tenantId=mapbiomas",
+      "years": [
+        2021
+      ],
+      "bytes": 469211
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/86644b6d-c4d7-4ad7-8239-5d8dcee92b82/download?tenantId=mapbiomas",
+      "years": [
+        2022
+      ],
+      "bytes": 470365
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/699cc32a-3092-4df3-9574-bb1ea3f7e37e/download?tenantId=mapbiomas",
+      "years": [
+        2023
+      ],
+      "bytes": 471458
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/4f324856-7440-41c9-a531-1161790bbe8d/download?tenantId=mapbiomas",
+      "years": [
+        2024
+      ],
+      "bytes": 470935
+    },
+    {
+      "code": "24",
+      "url": "https://prd.plataforma.mapbiomas.org/api/v1/ecuador/maps/exports/b672845a-0b83-4ca4-85aa-0901f061adbc/download?tenantId=mapbiomas",
+      "years": [
+        2025
+      ],
+      "bytes": 472397
+    }
+  ],
+  "files": [
+    {
+      "year": 2015,
+      "file": "costa_conali2024_col4_2015.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 25235680,
+        "4": 7101195,
+        "5": 1576097,
+        "6": 65144,
+        "9": 123404,
+        "11": 9081,
+        "12": 2057,
+        "13": 751148,
+        "21": 39475875,
+        "23": 52811,
+        "24": 861446,
+        "25": 701646,
+        "29": 178,
+        "30": 7416,
+        "31": 1416935,
+        "33": 1180436,
+        "68": 1148,
+        "74": 1712929,
+        "81": 239566,
+        "82": 1401
+      },
+      "sha256": "bdf8ef1fc61f0e935203446fd38e5fd1e0621694f91d57ea9cf08874d34c9398",
+      "bytes": 6231305
+    },
+    {
+      "year": 2016,
+      "file": "costa_conali2024_col4_2016.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24972887,
+        "4": 7100632,
+        "5": 1596793,
+        "6": 65074,
+        "9": 131748,
+        "11": 11359,
+        "12": 1830,
+        "13": 755414,
+        "21": 39690847,
+        "23": 52267,
+        "24": 875910,
+        "25": 659211,
+        "29": 178,
+        "30": 9072,
+        "31": 1456722,
+        "33": 1180200,
+        "68": 1184,
+        "74": 1712554,
+        "81": 240420,
+        "82": 1291
+      },
+      "sha256": "165cae2979ba90bdd46dfe0cb605e241c1313b0661eedf8164b3096e40d1870d",
+      "bytes": 6239747
+    },
+    {
+      "year": 2017,
+      "file": "costa_conali2024_col4_2017.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24799984,
+        "4": 7247128,
+        "5": 1586529,
+        "6": 65159,
+        "9": 127969,
+        "11": 9312,
+        "12": 2187,
+        "13": 724963,
+        "21": 39711445,
+        "23": 51387,
+        "24": 893109,
+        "25": 661111,
+        "29": 176,
+        "30": 11883,
+        "31": 1491025,
+        "33": 1177035,
+        "68": 1123,
+        "74": 1712431,
+        "81": 240455,
+        "82": 1182
+      },
+      "sha256": "934a333ed34fe4e0707cde80044a912c990f0d10a2e5583ce655522ea26e9fff",
+      "bytes": 6283231
+    },
+    {
+      "year": 2018,
+      "file": "costa_conali2024_col4_2018.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24664148,
+        "4": 7220397,
+        "5": 1584773,
+        "6": 63819,
+        "9": 154690,
+        "11": 9795,
+        "12": 1679,
+        "13": 718321,
+        "21": 39825220,
+        "23": 51899,
+        "24": 906900,
+        "25": 684676,
+        "29": 176,
+        "30": 10267,
+        "31": 1500225,
+        "33": 1167146,
+        "68": 1119,
+        "74": 1712328,
+        "81": 237300,
+        "82": 715
+      },
+      "sha256": "38a1095bb66cad96994a9886449987366c3414134077c9f20828d057672a7b3d",
+      "bytes": 6287701
+    },
+    {
+      "year": 2019,
+      "file": "costa_conali2024_col4_2019.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24599943,
+        "4": 7416864,
+        "5": 1583794,
+        "6": 63668,
+        "9": 152128,
+        "11": 11872,
+        "12": 1758,
+        "13": 701088,
+        "21": 39636491,
+        "23": 52228,
+        "24": 922359,
+        "25": 675924,
+        "29": 178,
+        "30": 8972,
+        "31": 1548903,
+        "33": 1169620,
+        "68": 1149,
+        "74": 1735114,
+        "81": 232810,
+        "82": 730
+      },
+      "sha256": "eeadce302930ef23b0fe0a58fde7fb965d8ef9b2b37fdaeee096f64b3018ed91",
+      "bytes": 6331593
+    },
+    {
+      "year": 2020,
+      "file": "costa_conali2024_col4_2020.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24452844,
+        "4": 7213855,
+        "5": 1587886,
+        "6": 61223,
+        "9": 353476,
+        "11": 10778,
+        "12": 2551,
+        "13": 710720,
+        "21": 39725487,
+        "23": 53448,
+        "24": 936048,
+        "25": 682905,
+        "29": 178,
+        "30": 10849,
+        "31": 1589294,
+        "33": 1158260,
+        "68": 1161,
+        "74": 1735356,
+        "81": 228434,
+        "82": 840
+      },
+      "sha256": "e10fe4ac3c9f7f6f7bebae1f2163d1cda31edd1dd975840abe54b6d6a2fb42ab",
+      "bytes": 6367299
+    },
+    {
+      "year": 2021,
+      "file": "costa_conali2024_col4_2021.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24296310,
+        "4": 7178989,
+        "5": 1591137,
+        "6": 60664,
+        "9": 347976,
+        "11": 8057,
+        "12": 2067,
+        "13": 696137,
+        "21": 39893274,
+        "23": 54113,
+        "24": 948759,
+        "25": 681382,
+        "29": 179,
+        "30": 13860,
+        "31": 1622536,
+        "33": 1158321,
+        "68": 1101,
+        "74": 1735417,
+        "81": 225058,
+        "82": 256
+      },
+      "sha256": "2601feab985bb173a1c2d142b6ef7adf2a68c61de69a003907187378287860c7",
+      "bytes": 6321483
+    },
+    {
+      "year": 2022,
+      "file": "costa_conali2024_col4_2022.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24278116,
+        "4": 7235582,
+        "5": 1596209,
+        "6": 59255,
+        "9": 351267,
+        "11": 7719,
+        "12": 3504,
+        "13": 685339,
+        "21": 39805548,
+        "23": 55453,
+        "24": 963517,
+        "25": 713925,
+        "29": 181,
+        "30": 15789,
+        "31": 1620636,
+        "33": 1162621,
+        "68": 1152,
+        "74": 1735388,
+        "81": 224109,
+        "82": 283
+      },
+      "sha256": "808731b65439a60d394b5ab66989f4a62b007f580f5501399beb8ca766e0ea08",
+      "bytes": 6313283
+    },
+    {
+      "year": 2023,
+      "file": "costa_conali2024_col4_2023.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24385938,
+        "4": 7280265,
+        "5": 1598753,
+        "6": 59400,
+        "9": 355893,
+        "11": 9150,
+        "12": 2812,
+        "13": 681715,
+        "21": 39605208,
+        "23": 55621,
+        "24": 975699,
+        "25": 708668,
+        "29": 181,
+        "30": 17124,
+        "31": 1650938,
+        "33": 1168585,
+        "68": 1358,
+        "74": 1735094,
+        "81": 222970,
+        "82": 221
+      },
+      "sha256": "3ae157d35a514dd0f4278cac08e4e5311bf1bde8fd7a79efb7cb9817471fa3f7",
+      "bytes": 6326221
+    },
+    {
+      "year": 2024,
+      "file": "costa_conali2024_col4_2024.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24028094,
+        "4": 7227281,
+        "5": 1614668,
+        "6": 62546,
+        "9": 585840,
+        "11": 7523,
+        "12": 3112,
+        "13": 673121,
+        "21": 39760993,
+        "23": 56282,
+        "24": 979967,
+        "25": 724035,
+        "29": 181,
+        "30": 24529,
+        "31": 1638301,
+        "33": 1173697,
+        "68": 1318,
+        "74": 1735485,
+        "81": 218503,
+        "82": 117
+      },
+      "sha256": "fdc29879136d6caaae2dc54afb34da954545f08571cdb6426cd4f7a4b5ec5dea",
+      "bytes": 6310147
+    },
+    {
+      "year": 2025,
+      "file": "costa_conali2024_col4_2025.tif",
+      "crs": "EPSG:4326",
+      "resolution": [
+        0.00026949458523585647,
+        0.00026949458523585647
+      ],
+      "bounds": [
+        -81.08957322454303,
+        -3.895005240413833,
+        -78.42184632529329,
+        1.474135381240135
+      ],
+      "dimensions": [
+        9899,
+        19923
+      ],
+      "nodata": 0.0,
+      "class_counts": {
+        "0": 116702184,
+        "3": 24069798,
+        "4": 7545151,
+        "5": 1612916,
+        "6": 63454,
+        "9": 672408,
+        "11": 9061,
+        "12": 3794,
+        "13": 688555,
+        "21": 39206772,
+        "23": 57789,
+        "24": 985965,
+        "25": 687699,
+        "29": 179,
+        "30": 42758,
+        "31": 1754170,
+        "33": 1175911,
+        "68": 1353,
+        "74": 1735692,
+        "81": 202115,
+        "82": 53
+      },
+      "sha256": "d555a7c15e4ab1d81b97c9bb71780af816f783032a3b9a5f653541455bcd7a18",
+      "bytes": 6482283
+    }
+  ]
+}

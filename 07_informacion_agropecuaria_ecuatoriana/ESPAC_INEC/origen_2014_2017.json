@@ -1,0 +1,26 @@
+{
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/espac_2014-2015/2014/Indice%20de%20publicacion%20ESPAC-2014.xlsx": {
+    "estimated_bytes": 4099203,
+    "free_bytes": 353339039744,
+    "bytes": 4099203,
+    "sha256": "55905329bc3e6b383131c1c16e4ddba29620688974a56ffb6cd6be2ab869be6a"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/espac_2014-2015/2015/Indice%20de%20publicacion%20ESPAC%202015.xlsx": {
+    "estimated_bytes": 5333049,
+    "free_bytes": 353337815040,
+    "bytes": 5333049,
+    "sha256": "f20ea22c69ad56d54b3598522ba1f24d5558867c835af9cd8b5b2d1d64a8e80b"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/espac-2016/Indice%20de%20publicacion%20ESPAC%202016.xlsx": {
+    "estimated_bytes": 6913132,
+    "free_bytes": 353336676352,
+    "bytes": 6913132,
+    "sha256": "16f88a5a56c6e93fcebadfccadb8c440b18faeb7011ddaddff4515985831e9b8"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/espac_2017/Indice_de%20publicacion_ESPAC_2017.xlsx": {
+    "estimated_bytes": 7774805,
+    "free_bytes": 353334480896,
+    "bytes": 7774805,
+    "sha256": "5c8d4ebd3070b608f78bb29ae7809aa1550cf1aeb62a6f1f776cf9d3a34533b9"
+  }
+}

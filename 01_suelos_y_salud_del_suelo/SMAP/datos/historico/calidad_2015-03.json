@@ -1,0 +1,19 @@
+{
+  "source_granules": [
+    "SMAP_L4_SM_gph_20150331T013000_Vv8010_001.h5",
+    "SMAP_L4_SM_gph_20150331T043000_Vv8010_001.h5",
+    "SMAP_L4_SM_gph_20150331T073000_Vv8010_001.h5",
+    "SMAP_L4_SM_gph_20150331T103000_Vv8010_001.h5",
+    "SMAP_L4_SM_gph_20150331T133000_Vv8010_001.h5",
+    "SMAP_L4_SM_gph_20150331T163000_Vv8010_001.h5",
+    "SMAP_L4_SM_gph_20150331T193000_Vv8010_001.h5",
+    "SMAP_L4_SM_gph_20150331T223000_Vv8010_001.h5"
+  ],
+  "n_intervals": 8,
+  "rows": 8360,
+  "missing_surface": 128,
+  "missing_rootzone": 128,
+  "bytes_received": 347564,
+  "bytes_csv_gz": 102975,
+  "sha256": "710c698388488b5b93de6dbb4e6214405451cd75ed470a45d8b853ae8032e7fd"
+}
