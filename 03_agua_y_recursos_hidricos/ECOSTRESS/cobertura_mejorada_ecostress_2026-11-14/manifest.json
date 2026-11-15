@@ -1,0 +1,87 @@
+{
+  "fecha_ejecucion": "2026-11-14",
+  "catalogo": "https://cmr.earthdata.nasa.gov/search/granules.json",
+  "consulta_base": "cobertura_piloto_2026-11-14.json",
+  "bytes_libres_antes": 352955817984,
+  "bytes_estimados_maximo": 10000000,
+  "lado_pixeles": 33,
+  "justificacion": "Validar temperatura y ET de una misma adquisición por provincia",
+  "recortes": [
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "24",
+        "DPA_DESPRO": "SANTA ELENA"
+      },
+      "punto": [
+        -80.524089,
+        -2.087642
+      ],
+      "adquisicion": "20260714T204129",
+      "granulos": [
+        "ECOv002_L2T_LSTE_45494_017_17MNT_20260714T204129_0713_01",
+        "ECOv002_L3T_JET_45494_017_17MNT_20260714T204129_0713_01"
+      ],
+      "pixeles_validos": 583,
+      "pixeles_totales": 1089,
+      "crs": "EPSG:32717",
+      "archivos": [
+        {
+          "archivo": "24_20260714T204129_L2_LST.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_45494_017_17MNT_20260714T204129_0713_01/ECOv002_L2T_LSTE_45494_017_17MNT_20260714T204129_0713_01_LST.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 2691,
+          "sha256": "ac490e0ebaaee74d892472dd1d3441b394b26ae9093f2b80ef3e8de99ad8d4dd"
+        },
+        {
+          "archivo": "24_20260714T204129_L2_QC.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_45494_017_17MNT_20260714T204129_0713_01/ECOv002_L2T_LSTE_45494_017_17MNT_20260714T204129_0713_01_QC.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1261,
+          "sha256": "c6df6836a80bba83fb820cb01deab3683506066a7009a09226e0894a84d7e917"
+        },
+        {
+          "archivo": "24_20260714T204129_L2_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_45494_017_17MNT_20260714T204129_0713_01/ECOv002_L2T_LSTE_45494_017_17MNT_20260714T204129_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 975,
+          "sha256": "09756fc7103112ff3398708b7963a2a632be2e3f9e0ac0fd6c8d2d9dad862f33"
+        },
+        {
+          "archivo": "24_20260714T204129_L3_PTJPLSMinst.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_45494_017_17MNT_20260714T204129_0713_01/ECOv002_L3T_JET_45494_017_17MNT_20260714T204129_0713_01_PTJPLSMinst.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 4337,
+          "sha256": "124d645dbd055495367bd6b7732e94406a2a286dcdd1c38d5323be005ecb4d3c"
+        },
+        {
+          "archivo": "24_20260714T204129_L3_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_45494_017_17MNT_20260714T204129_0713_01/ECOv002_L3T_JET_45494_017_17MNT_20260714T204129_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 975,
+          "sha256": "09756fc7103112ff3398708b7963a2a632be2e3f9e0ac0fd6c8d2d9dad862f33"
+        }
+      ]
+    }
+  ],
+  "errores": [
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "23",
+        "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS"
+      },
+      "tipo": "RuntimeError"
+    }
+  ]
+}

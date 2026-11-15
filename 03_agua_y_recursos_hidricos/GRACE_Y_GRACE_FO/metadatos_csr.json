@@ -1,0 +1,67 @@
+{
+  "urls": [
+    "https://download.csr.utexas.edu/outgoing/grace/RL0603_mascons/CSR_GRACE_GRACE-FO_RL0603_Mascons_all-corrections.nc",
+    "https://download.csr.utexas.edu/outgoing/grace/RL0603_mascons/CSR_GRACE_GRACE-FO_RL06_Mascons_v02_LandMask.nc"
+  ],
+  "estimated_output_bytes": 5000000,
+  "free_bytes": 353436897280,
+  "boundary": "costa_provincias_referencia_2019.geojson",
+  "boundary_sha256": "dea4bcd25600a313f73080a4b6b9d4edced07620efca2eddc95481c6ed3ca753",
+  "purpose": "Contexto regional de anomalías de almacenamiento de agua y sequía.",
+  "source_bytes": 113954516,
+  "source_attributes": {
+    "time_coverage_start": "2002-04-05T00:00:00Z",
+    "time_coverage_end": "2026-09-30T23:59:59Z",
+    "time_mean_removed": "2004.000 to 2009.999",
+    "license": "https://science.nasa.gov/earth-science/earth-science-data/data-information-policy",
+    "geospatial_lat_resolution": "0.25 degree grid; however the mascons are estimated on a 1-degree equal area mascons and the native resolution of the GRACE/GRACE-FO data is roughly 300km",
+    "label": "RL0603rc24cE",
+    "date_created": "2026-11-09T11:31:40Z",
+    "user_note_1": "The accelerometer on the GRACE-B spacecraft was turned off after August 2016.  After this date, the accelerometer on GRACE-A was used to derive the non-gravitational accelerations acting on GRACE-B using a transplant procedure.  This has led to a subsequent degradation in the quality of the gravity fields derived.",
+    "user_note_2": "The accelerometer on the GRACE-FO 2 spacecraft has underperformed since after launch.  The accelerometer on GRACE-FO 1 was used to derive the non-gravitational accelerations acting on GRACE-FO 2 using a transplant procedure. This has led to a degradation in the quality of the gravity fields derived."
+  },
+  "csr_rl063_costa_celdas.csv": {
+    "sha256": "83c8f8d3739d1f7f4d165f668c14856878431ff5ddc831ecc973e1582a574979",
+    "rows": 22401
+  },
+  "csr_rl063_costa_mensual.csv": {
+    "sha256": "a54cd044ef8b55f82ac21b9327eeba0ce508e512f825d3235b48fccfecc6fecf",
+    "rows": 171
+  },
+  "first_month": "2010-01",
+  "last_month": "2026-09",
+  "missing_months": [
+    "2011-01",
+    "2011-06",
+    "2011-11",
+    "2012-05",
+    "2012-10",
+    "2013-03",
+    "2013-08",
+    "2013-09",
+    "2014-02",
+    "2014-07",
+    "2014-12",
+    "2015-05",
+    "2015-06",
+    "2015-10",
+    "2015-11",
+    "2016-04",
+    "2016-09",
+    "2016-10",
+    "2017-02",
+    "2017-07",
+    "2017-08",
+    "2017-09",
+    "2017-10",
+    "2017-11",
+    "2017-12",
+    "2018-01",
+    "2018-02",
+    "2018-03",
+    "2018-04",
+    "2018-05",
+    "2018-08",
+    "2018-09"
+  ]
+}

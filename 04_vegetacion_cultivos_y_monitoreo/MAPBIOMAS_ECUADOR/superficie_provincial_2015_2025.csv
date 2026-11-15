@@ -1,0 +1,1233 @@
+﻿codigo_provincia,provincia,anio,clase_id,clase_nivel_0,clase_nivel_1,clase_nivel_2,clase_nivel_3,clase_nivel_4,superficie_ha
+07,El Oro,2015,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,157370.9439428181
+07,El Oro,2015,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,105830.8128131164
+07,El Oro,2015,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,16868.32931169477
+07,El Oro,2015,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,205.0594897827142
+07,El Oro,2015,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,1.338318322753907
+07,El Oro,2015,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2337.735006225607
+07,El Oro,2015,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,175545.1622119875
+07,El Oro,2015,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",159.7469103027345
+07,El Oro,2015,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,7553.339667309681
+07,El Oro,2015,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,11466.97547499399
+07,El Oro,2015,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2015,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,64.14810319824218
+07,El Oro,2015,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,28010.22952860074
+07,El Oro,2015,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13462.87483970352
+07,El Oro,2015,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,0
+07,El Oro,2015,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47953.24690349349
+07,El Oro,2015,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,21361.45837640413
+07,El Oro,2015,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,113.2454245300294
+07,El Oro,2016,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,152979.406435673
+07,El Oro,2016,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,105546.989330971
+07,El Oro,2016,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,17414.00679315845
+07,El Oro,2016,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,212.8219103332515
+07,El Oro,2016,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,1.338318322753907
+07,El Oro,2016,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2696.860813964868
+07,El Oro,2016,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,179276.4798078601
+07,El Oro,2016,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",153.5900739562989
+07,El Oro,2016,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,7648.831230249029
+07,El Oro,2016,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,10068.69372185673
+07,El Oro,2016,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2016,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,73.2500940002441
+07,El Oro,2016,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,29270.95659034441
+07,El Oro,2016,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13478.66904739398
+07,El Oro,2016,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,0
+07,El Oro,2016,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47953.69393554304
+07,El Oro,2016,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,21424.11245275295
+07,El Oro,2016,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,104.9457661071776
+07,El Oro,2017,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,151676.9720439415
+07,El Oro,2017,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,107189.532903253
+07,El Oro,2017,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,17332.07612014823
+07,El Oro,2017,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,196.9376766784663
+07,El Oro,2017,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,6.602300146484373
+07,El Oro,2017,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2536.173794781508
+07,El Oro,2017,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,179260.9592675481
+07,El Oro,2017,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",137.1692889709472
+07,El Oro,2017,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,7785.907606219474
+07,El Oro,2017,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,9792.129927539108
+07,El Oro,2017,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2017,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,108.0474622375489
+07,El Oro,2017,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,29320.81204949318
+07,El Oro,2017,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13509.46265650044
+07,El Oro,2017,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,0
+07,El Oro,2017,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47940.48396255713
+07,El Oro,2017,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,21413.93048925227
+07,El Oro,2017,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,97.44877321777341
+07,El Oro,2018,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,152402.0134039318
+07,El Oro,2018,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,105144.9946849561
+07,El Oro,2018,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,17345.4644240484
+07,El Oro,2018,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,235.7559021545402
+07,El Oro,2018,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,17.2195346252441
+07,El Oro,2018,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2601.197795709248
+07,El Oro,2018,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,180214.8675153924
+07,El Oro,2018,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",133.6903138305665
+07,El Oro,2018,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,7874.876969158828
+07,El Oro,2018,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,10084.66943933722
+07,El Oro,2018,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2018,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,111.8846882019044
+07,El Oro,2018,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,29560.6328285469
+07,El Oro,2018,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13452.96024118671
+07,El Oro,2018,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,0
+07,El Oro,2018,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47925.93247820649
+07,El Oro,2018,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,21141.37444987239
+07,El Oro,2018,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,57.111653326416
+07,El Oro,2019,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,152940.1296214887
+07,El Oro,2019,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,103047.8478980339
+07,El Oro,2019,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,17316.19336842702
+07,El Oro,2019,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,251.5501839294428
+07,El Oro,2019,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,17.6656413024902
+07,El Oro,2019,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2576.397575793475
+07,El Oro,2019,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,182254.8232861057
+07,El Oro,2019,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",122.2671766723632
+07,El Oro,2019,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,7961.97018532707
+07,El Oro,2019,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,10165.32489301138
+07,El Oro,2019,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2019,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,98.94810540161136
+07,El Oro,2019,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,29403.83318557164
+07,El Oro,2019,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13411.4609551026
+07,El Oro,2019,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,0
+07,El Oro,2019,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47935.84139084077
+07,El Oro,2019,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,20742.6565169805
+07,El Oro,2019,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,57.73633849487302
+07,El Oro,2020,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,158324.5904865811
+07,El Oro,2020,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,93785.29069189988
+07,El Oro,2020,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,17649.00338905078
+07,El Oro,2020,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,864.372690460203
+07,El Oro,2020,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,17.48720132446285
+07,El Oro,2020,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2690.886184753439
+07,El Oro,2020,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,185431.8245020691
+07,El Oro,2020,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",120.3037328735352
+07,El Oro,2020,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,8027.025202874667
+07,El Oro,2020,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,10162.27926570443
+07,El Oro,2020,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2020,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,105.1048081054688
+07,El Oro,2020,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,29344.09998022506
+07,El Oro,2020,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13419.8514164368
+07,El Oro,2020,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,0
+07,El Oro,2020,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47931.28880421964
+07,El Oro,2020,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,20364.31038687166
+07,El Oro,2020,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,66.92757904663081
+07,El Oro,2021,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,159586.5143951693
+07,El Oro,2021,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,91222.41189631188
+07,El Oro,2021,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,17828.12510213681
+07,El Oro,2021,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,899.2628991699206
+07,El Oro,2021,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,17.13032136840816
+07,El Oro,2021,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2403.900153515639
+07,El Oro,2021,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,186676.1793019564
+07,El Oro,2021,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",122.2683533874511
+07,El Oro,2021,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,8074.239118774314
+07,El Oro,2021,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,10365.55467706909
+07,El Oro,2021,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2021,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,137.8526766113283
+07,El Oro,2021,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,29530.44188099413
+07,El Oro,2021,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13439.84229609376
+07,El Oro,2021,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,0
+07,El Oro,2021,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47927.62995387775
+07,El Oro,2021,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,20053.39368573664
+07,El Oro,2021,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,19.89961031494142
+07,El Oro,2022,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,157896.7108639235
+07,El Oro,2022,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,93208.06731593108
+07,El Oro,2022,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,17808.13457650817
+07,El Oro,2022,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,918.092696673584
+07,El Oro,2022,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,16.68421516113278
+07,El Oro,2022,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2333.421095513928
+07,El Oro,2022,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,186082.4647993995
+07,El Oro,2022,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",126.0174199951171
+07,El Oro,2022,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,8180.610322161742
+07,El Oro,2022,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,11317.15126389142
+07,El Oro,2022,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2022,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,154.0941228088379
+07,El Oro,2022,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,28937.10654374443
+07,El Oro,2022,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13425.5595114136
+07,El Oro,2022,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,0
+07,El Oro,2022,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47917.72234286695
+07,El Oro,2022,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,19960.94598849535
+07,El Oro,2022,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,21.86324400024414
+07,El Oro,2023,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,155340.9382171047
+07,El Oro,2023,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,95870.91455352367
+07,El Oro,2023,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,17730.48480316215
+07,El Oro,2023,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,892.5749893066403
+07,El Oro,2023,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,16.41655479736324
+07,El Oro,2023,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2168.176365802016
+07,El Oro,2023,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,185876.9666603
+07,El Oro,2023,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",133.951549658203
+07,El Oro,2023,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,8249.515834997288
+07,El Oro,2023,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,11233.94936965316
+07,El Oro,2023,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2023,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,174.8832606628418
+07,El Oro,2023,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,29350.23733717086
+07,El Oro,2023,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13480.09053900763
+07,El Oro,2023,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,16.0578436767578
+07,El Oro,2023,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47885.68213058693
+07,El Oro,2023,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,19867.29710867357
+07,El Oro,2023,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,16.50920441284179
+07,El Oro,2024,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,154027.8471468104
+07,El Oro,2024,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,92577.8831701865
+07,El Oro,2024,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,18055.27406373348
+07,El Oro,2024,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1369.29876848755
+07,El Oro,2024,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,16.50577477416989
+07,El Oro,2024,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2056.875914355469
+07,El Oro,2024,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,190555.8148576221
+07,El Oro,2024,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",145.106058416748
+07,El Oro,2024,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,8118.2533997801
+07,El Oro,2024,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,11385.92485222162
+07,El Oro,2024,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2024,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,383.8552367675775
+07,El Oro,2024,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,28794.22410091551
+07,El Oro,2024,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13458.76737295537
+07,El Oro,2024,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,16.14705209960936
+07,El Oro,2024,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47856.85943664803
+07,El Oro,2024,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,19478.69160637838
+07,El Oro,2024,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,7.317510345458987
+07,El Oro,2025,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,155592.171869462
+07,El Oro,2025,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,89679.85430015057
+07,El Oro,2025,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,18044.11653256283
+07,El Oro,2025,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1660.703071026618
+07,El Oro,2025,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,24.62906789550778
+07,El Oro,2025,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,3092.163407745372
+07,El Oro,2025,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,189741.6539304956
+07,El Oro,2025,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",158.0372109741211
+07,El Oro,2025,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,8163.492264953396
+07,El Oro,2025,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,10760.39259519035
+07,El Oro,2025,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+07,El Oro,2025,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,700.1762964965845
+07,El Oro,2025,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,30925.27297548197
+07,El Oro,2025,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",13909.07536400786
+07,El Oro,2025,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,14.45200920410156
+07,El Oro,2025,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,47816.78371916781
+07,El Oro,2025,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,18016.94234868158
+07,El Oro,2025,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,4.72935899658203
+08,Esmeraldas,2015,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,1034528.56029436
+08,Esmeraldas,2015,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,18.05658894042968
+08,Esmeraldas,2015,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,18919.83599506814
+08,Esmeraldas,2015,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5822.2399323058
+08,Esmeraldas,2015,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2409.396369848641
+08,Esmeraldas,2015,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,105.9994210632323
+08,Esmeraldas,2015,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,160.9056131164555
+08,Esmeraldas,2015,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,5.363245410156246
+08,Esmeraldas,2015,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,484504.4726838749
+08,Esmeraldas,2015,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",998.0167658996584
+08,Esmeraldas,2015,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,3537.33657071534
+08,Esmeraldas,2015,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,2358.263049737556
+08,Esmeraldas,2015,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2015,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,108.2457984680174
+08,Esmeraldas,2015,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7345.128032977402
+08,Esmeraldas,2015,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27140.49771610156
+08,Esmeraldas,2015,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,42.19159215087893
+08,Esmeraldas,2015,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,183.890198278806
+08,Esmeraldas,2015,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,0.6257052429199219
+08,Esmeraldas,2015,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,10.3689237548828
+08,Esmeraldas,2016,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,1031159.002832481
+08,Esmeraldas,2016,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,12.87249218139648
+08,Esmeraldas,2016,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,18920.11000809909
+08,Esmeraldas,2016,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5815.981257989426
+08,Esmeraldas,2016,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2837.755264282238
+08,Esmeraldas,2016,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,105.3739430847167
+08,Esmeraldas,2016,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,143.4755074340822
+08,Esmeraldas,2016,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,4.111845245361327
+08,Esmeraldas,2016,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,487116.6143208474
+08,Esmeraldas,2016,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",906.3938831054687
+08,Esmeraldas,2016,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,3645.583797326675
+08,Esmeraldas,2016,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,2108.248691961677
+08,Esmeraldas,2016,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2016,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,102.4356848999022
+08,Esmeraldas,2016,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7573.612868829396
+08,Esmeraldas,2016,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27505.56081241487
+08,Esmeraldas,2016,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,44.42630895385747
+08,Esmeraldas,2016,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,187.5554858337377
+08,Esmeraldas,2016,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,0.5363187622070313
+08,Esmeraldas,2016,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,9.743173596191399
+08,Esmeraldas,2017,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,1033336.689348498
+08,Esmeraldas,2017,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,11.97856611328124
+08,Esmeraldas,2017,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,18642.6793848447
+08,Esmeraldas,2017,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5823.577570953274
+08,Esmeraldas,2017,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2749.524961877445
+08,Esmeraldas,2017,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,92.50404979248033
+08,Esmeraldas,2017,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,187.7169547607424
+08,Esmeraldas,2017,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.860414105224608
+08,Esmeraldas,2017,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,485219.0579278034
+08,Esmeraldas,2017,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",909.4328638183587
+08,Esmeraldas,2017,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,3727.287530285656
+08,Esmeraldas,2017,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,2050.417894183356
+08,Esmeraldas,2017,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2017,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,102.4360931579591
+08,Esmeraldas,2017,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7564.4825868958
+08,Esmeraldas,2017,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27542.47627857697
+08,Esmeraldas,2017,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,43.26425315551761
+08,Esmeraldas,2017,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,185.4993481811495
+08,Esmeraldas,2017,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,0
+08,Esmeraldas,2017,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,7.508470336914064
+08,Esmeraldas,2018,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,1030257.419562601
+08,Esmeraldas,2018,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,13.05143402709961
+08,Esmeraldas,2018,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,18473.31155057957
+08,Esmeraldas,2018,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5703.813194964539
+08,Esmeraldas,2018,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3106.629412152121
+08,Esmeraldas,2018,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,52.82129403686523
+08,Esmeraldas,2018,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,142.3129055175786
+08,Esmeraldas,2018,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.324086431884764
+08,Esmeraldas,2018,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,488311.0569381361
+08,Esmeraldas,2018,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",945.4570757507313
+08,Esmeraldas,2018,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,3799.782879193127
+08,Esmeraldas,2018,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,2172.878303143314
+08,Esmeraldas,2018,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2018,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,113.3410328125
+08,Esmeraldas,2018,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7540.435978796404
+08,Esmeraldas,2018,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27333.76126550329
+08,Esmeraldas,2018,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,45.14143376464849
+08,Esmeraldas,2018,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,179.6885230773896
+08,Esmeraldas,2018,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,0
+08,Esmeraldas,2018,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,6.167626867675789
+08,Esmeraldas,2019,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,1025885.992211003
+08,Esmeraldas,2019,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,247.4433514709466
+08,Esmeraldas,2019,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,18405.03293598606
+08,Esmeraldas,2019,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5690.316932482851
+08,Esmeraldas,2019,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3118.16601450807
+08,Esmeraldas,2019,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,65.33364261474608
+08,Esmeraldas,2019,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,152.8598979431156
+08,Esmeraldas,2019,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,1.43020693359375
+08,Esmeraldas,2019,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,491848.4409384687
+08,Esmeraldas,2019,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1056.919296832274
+08,Esmeraldas,2019,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,3887.915553546147
+08,Esmeraldas,2019,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,2236.338233856204
+08,Esmeraldas,2019,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2019,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,141.4969433166503
+08,Esmeraldas,2019,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7951.373080407822
+08,Esmeraldas,2019,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27278.17563438759
+08,Esmeraldas,2019,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,44.60508657836918
+08,Esmeraldas,2019,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,180.1355093933072
+08,Esmeraldas,2019,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,0
+08,Esmeraldas,2019,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,7.419027636718758
+08,Esmeraldas,2020,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,1017365.827102206
+08,Esmeraldas,2020,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,260.2239595581048
+08,Esmeraldas,2020,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,18480.21765068942
+08,Esmeraldas,2020,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5471.787261938469
+08,Esmeraldas,2020,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,11430.39534351202
+08,Esmeraldas,2020,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,74.89808026733398
+08,Esmeraldas,2020,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,222.7569357177738
+08,Esmeraldas,2020,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,1.43020693359375
+08,Esmeraldas,2020,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,492361.1620168764
+08,Esmeraldas,2020,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1128.608232403564
+08,Esmeraldas,2020,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,3910.533505981448
+08,Esmeraldas,2020,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,2100.563888653566
+08,Esmeraldas,2020,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2020,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,228.5584594909676
+08,Esmeraldas,2020,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7760.432619580092
+08,Esmeraldas,2020,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27169.21391360509
+08,Esmeraldas,2020,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,43.88999594726564
+08,Esmeraldas,2020,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,180.1355093933072
+08,Esmeraldas,2020,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,0.7150865234375
+08,Esmeraldas,2020,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,8.044728106689462
+08,Esmeraldas,2021,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,998963.3475758462
+08,Esmeraldas,2021,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,246.2798130432121
+08,Esmeraldas,2021,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,18623.13207095924
+08,Esmeraldas,2021,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5421.824664086884
+08,Esmeraldas,2021,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,11187.6783270325
+08,Esmeraldas,2021,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,71.94751130981444
+08,Esmeraldas,2021,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,179.8547455383303
+08,Esmeraldas,2021,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,4.64819625854492
+08,Esmeraldas,2021,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,510795.6852334493
+08,Esmeraldas,2021,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1322.85714099121
+08,Esmeraldas,2021,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,3990.262255358892
+08,Esmeraldas,2021,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,2022.54027001343
+08,Esmeraldas,2021,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2021,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,360.8472775451667
+08,Esmeraldas,2021,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7715.463826178001
+08,Esmeraldas,2021,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27057.46862217441
+08,Esmeraldas,2021,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,43.62190354003904
+08,Esmeraldas,2021,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,184.2477829223601
+08,Esmeraldas,2021,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,4.737506774902347
+08,Esmeraldas,2021,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.949774346923829
+08,Esmeraldas,2022,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,993707.8967612024
+08,Esmeraldas,2022,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,231.8880949645992
+08,Esmeraldas,2022,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,19092.08959486671
+08,Esmeraldas,2022,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5295.894417175285
+08,Esmeraldas,2022,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,11256.7719880493
+08,Esmeraldas,2022,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,81.59989571533188
+08,Esmeraldas,2022,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,220.0775277770998
+08,Esmeraldas,2022,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,4.11186519165039
+08,Esmeraldas,2022,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,515765.1459770604
+08,Esmeraldas,2022,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1389.895250354007
+08,Esmeraldas,2022,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,3984.721091247561
+08,Esmeraldas,2022,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,1878.251633996588
+08,Esmeraldas,2022,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2022,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,398.2099212890627
+08,Esmeraldas,2022,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7550.463469122246
+08,Esmeraldas,2022,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27100.2941948735
+08,Esmeraldas,2022,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,43.80068395996091
+08,Esmeraldas,2022,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,189.1646319519009
+08,Esmeraldas,2022,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,5.72076936645508
+08,Esmeraldas,2022,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,3.396729229736328
+08,Esmeraldas,2023,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,999291.6347658873
+08,Esmeraldas,2023,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,207.5730422424313
+08,Esmeraldas,2023,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,19481.78794053388
+08,Esmeraldas,2023,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5308.853601507562
+08,Esmeraldas,2023,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,11413.90508618162
+08,Esmeraldas,2023,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,113.1494975646971
+08,Esmeraldas,2023,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,178.6040590820315
+08,Esmeraldas,2023,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,4.11186519165039
+08,Esmeraldas,2023,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,509182.5341095114
+08,Esmeraldas,2023,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1408.0387336731
+08,Esmeraldas,2023,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4036.922307519532
+08,Esmeraldas,2023,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,1958.516053082282
+08,Esmeraldas,2023,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2023,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,536.4893606140139
+08,Esmeraldas,2023,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7725.515413684163
+08,Esmeraldas,2023,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27111.82106901288
+08,Esmeraldas,2023,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,42.63870637207031
+08,Esmeraldas,2023,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,189.1646319519009
+08,Esmeraldas,2023,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,4.916274554443363
+08,Esmeraldas,2023,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,3.217979211425782
+08,Esmeraldas,2024,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,971132.8920567121
+08,Esmeraldas,2024,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,18.14639422607421
+08,Esmeraldas,2024,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,20260.90384254134
+08,Esmeraldas,2024,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5590.027230426012
+08,Esmeraldas,2024,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,19734.59166335452
+08,Esmeraldas,2024,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,47.72691118164064
+08,Esmeraldas,2024,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,208.0111961181643
+08,Esmeraldas,2024,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,4.11186519165039
+08,Esmeraldas,2024,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,528447.9037336743
+08,Esmeraldas,2024,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1377.992940277098
+08,Esmeraldas,2024,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4078.851277569588
+08,Esmeraldas,2024,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,1845.532685046396
+08,Esmeraldas,2024,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2024,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,452.7364519592284
+08,Esmeraldas,2024,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7569.260736090062
+08,Esmeraldas,2024,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",27188.53246503943
+08,Esmeraldas,2024,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,40.31451254882813
+08,Esmeraldas,2024,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,197.0315932189912
+08,Esmeraldas,2024,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,1.698352801513672
+08,Esmeraldas,2024,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,3.128589373779298
+08,Esmeraldas,2025,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,951337.3184330958
+08,Esmeraldas,2025,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,294.1774507019046
+08,Esmeraldas,2025,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,20052.92543503405
+08,Esmeraldas,2025,6,Natural,1. Natural forest,1.4. Flooded forest,1.4. Flooded forest,1.4. Flooded forest,5671.178932019035
+08,Esmeraldas,2025,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,22793.96880933219
+08,Esmeraldas,2025,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,182.15285012207
+08,Esmeraldas,2025,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,325.8162377990726
+08,Esmeraldas,2025,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,11.71021559448243
+08,Esmeraldas,2025,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,543172.7594512386
+08,Esmeraldas,2025,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1466.326100036619
+08,Esmeraldas,2025,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4090.740674951179
+08,Esmeraldas,2025,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,3051.923338153081
+08,Esmeraldas,2025,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+08,Esmeraldas,2025,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,1178.633236309822
+08,Esmeraldas,2025,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,7332.550016851815
+08,Esmeraldas,2025,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",26993.34165551183
+08,Esmeraldas,2025,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,42.90663862304688
+08,Esmeraldas,2025,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,200.4286897827122
+08,Esmeraldas,2025,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,0.5363322387695313
+08,Esmeraldas,2025,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+09,Guayas,2015,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,113614.0563197676
+09,Guayas,2015,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,218082.7546912792
+09,Guayas,2015,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,102065.305700084
+09,Guayas,2015,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1560.757338934328
+09,Guayas,2015,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,34.67356178588867
+09,Guayas,2015,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,1.071916735839844
+09,Guayas,2015,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,7190.856940411382
+09,Guayas,2015,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,917762.0103102899
+09,Guayas,2015,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1833.953518103033
+09,Guayas,2015,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,33974.0243329289
+09,Guayas,2015,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,34335.12248077377
+09,Guayas,2015,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,15.88901915283203
+09,Guayas,2015,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,180.0160272949216
+09,Guayas,2015,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,73963.81587905165
+09,Guayas,2015,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",41354.69336426981
+09,Guayas,2015,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46600.56487844815
+09,Guayas,2016,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,110901.6090990587
+09,Guayas,2016,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,218660.1890827942
+09,Guayas,2016,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,103353.0277974238
+09,Guayas,2016,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1323.733905157471
+09,Guayas,2016,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,45.22023981933594
+09,Guayas,2016,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+09,Guayas,2016,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,7236.757252508549
+09,Guayas,2016,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,918218.0609669164
+09,Guayas,2016,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1859.853954620365
+09,Guayas,2016,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,34586.1659009094
+09,Guayas,2016,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,32400.11546517316
+09,Guayas,2016,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,15.88901915283203
+09,Guayas,2016,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,252.2902592712403
+09,Guayas,2016,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,75824.01268909736
+09,Guayas,2016,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",41299.6639955321
+09,Guayas,2016,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46592.97665186125
+09,Guayas,2017,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,106938.0702495167
+09,Guayas,2017,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,223041.0147794453
+09,Guayas,2017,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,102977.8063768662
+09,Guayas,2017,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1102.818054583739
+09,Guayas,2017,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,26.63033721313476
+09,Guayas,2017,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0.5360245056152344
+09,Guayas,2017,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,7611.74045883786
+09,Guayas,2017,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,912995.0998731827
+09,Guayas,2017,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1808.677571032714
+09,Guayas,2017,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,35436.2363790708
+09,Guayas,2017,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,33694.56824839473
+09,Guayas,2017,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,15.710491015625
+09,Guayas,2017,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,379.8613733276362
+09,Guayas,2017,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,78577.01743749285
+09,Guayas,2017,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",41369.01782636101
+09,Guayas,2017,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46594.76079844945
+09,Guayas,2018,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,109194.7897833156
+09,Guayas,2018,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,223075.4531281656
+09,Guayas,2018,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,102991.6559492042
+09,Guayas,2018,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1092.898805834961
+09,Guayas,2018,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,56.03170436401367
+09,Guayas,2018,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0.5360245056152344
+09,Guayas,2018,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,7671.521248144483
+09,Guayas,2018,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,907956.5303805934
+09,Guayas,2018,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1837.795592303467
+09,Guayas,2018,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,35917.39931523524
+09,Guayas,2018,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,35848.26887014177
+09,Guayas,2018,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,15.710491015625
+09,Guayas,2018,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,303.294234655761
+09,Guayas,2018,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,79227.89877853842
+09,Guayas,2018,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",40794.30718183574
+09,Guayas,2018,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46585.47479146093
+09,Guayas,2019,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,106804.7233720551
+09,Guayas,2019,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,227127.5414930296
+09,Guayas,2019,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,103058.468320719
+09,Guayas,2019,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1061.379646093748
+09,Guayas,2019,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,42.18365124511719
+09,Guayas,2019,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0.5360245056152344
+09,Guayas,2019,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,7410.570490185597
+09,Guayas,2019,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,902809.76015303
+09,Guayas,2019,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1839.312414489746
+09,Guayas,2019,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,36448.35477026457
+09,Guayas,2019,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,35399.69128247076
+09,Guayas,2019,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,15.88901906738282
+09,Guayas,2019,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,249.5077419555666
+09,Guayas,2019,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,82876.01740370861
+09,Guayas,2019,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",40831.40390803207
+09,Guayas,2019,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46594.22658846414
+09,Guayas,2020,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,108900.1065736047
+09,Guayas,2020,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,224627.3515140486
+09,Guayas,2020,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,102944.0219725624
+09,Guayas,2020,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1672.164795843507
+09,Guayas,2020,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,31.99461607666017
+09,Guayas,2020,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0.5360245056152344
+09,Guayas,2020,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,8891.448078173711
+09,Guayas,2020,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,896399.958088705
+09,Guayas,2020,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1846.899573248288
+09,Guayas,2020,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,36848.13212776003
+09,Guayas,2020,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,36102.66516815774
+09,Guayas,2020,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,15.88901906738282
+09,Guayas,2020,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,284.6981004638673
+09,Guayas,2020,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,87045.14927934286
+09,Guayas,2020,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",40358.78939788186
+09,Guayas,2020,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46599.76194987162
+09,Guayas,2021,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,108553.1161018385
+09,Guayas,2021,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,228228.7820590034
+09,Guayas,2021,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,102809.6071981614
+09,Guayas,2021,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1721.840788623049
+09,Guayas,2021,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,11.43945386962891
+09,Guayas,2021,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+09,Guayas,2021,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,8663.00696195076
+09,Guayas,2021,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,889253.6937754683
+09,Guayas,2021,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1759.885184149161
+09,Guayas,2021,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,37475.06329795635
+09,Guayas,2021,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,37253.52776591192
+09,Guayas,2021,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,15.9782831237793
+09,Guayas,2021,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,332.8479073425298
+09,Guayas,2021,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,89473.11690608748
+09,Guayas,2021,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",40414.7751007505
+09,Guayas,2021,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46602.88549508039
+09,Guayas,2022,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,109470.1591152861
+09,Guayas,2022,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,228648.488271475
+09,Guayas,2022,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,102767.7921880291
+09,Guayas,2022,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1822.661220440676
+09,Guayas,2022,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,11.52887711791992
+09,Guayas,2022,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,6.431928509521486
+09,Guayas,2022,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,8858.23413074948
+09,Guayas,2022,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,884137.6523457083
+09,Guayas,2022,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1785.696625042718
+09,Guayas,2022,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,37987.65807595837
+09,Guayas,2022,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,38850.218316534
+09,Guayas,2022,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,16.15681205444336
+09,Guayas,2022,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,396.0061325744632
+09,Guayas,2022,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,90706.40140063773
+09,Guayas,2022,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",40494.45239041735
+09,Guayas,2022,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46610.02844877305
+09,Guayas,2023,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,107805.9066950815
+09,Guayas,2023,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,229055.4659803181
+09,Guayas,2023,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,102455.6900531115
+09,Guayas,2023,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1830.087243383791
+09,Guayas,2023,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,93.5633736694335
+09,Guayas,2023,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,5.895913000488282
+09,Guayas,2023,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,8579.16940264894
+09,Guayas,2023,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,883318.4623214368
+09,Guayas,2023,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1787.841843365476
+09,Guayas,2023,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,38555.26245076983
+09,Guayas,2023,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,38829.19988026686
+09,Guayas,2023,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,16.15681205444336
+09,Guayas,2023,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,419.2343597656246
+09,Guayas,2023,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,92599.22000453706
+09,Guayas,2023,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",40592.66694428695
+09,Guayas,2023,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46625.7430016112
+09,Guayas,2024,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,107202.9733997529
+09,Guayas,2024,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,228955.330152366
+09,Guayas,2024,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,102530.9251437173
+09,Guayas,2024,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,4011.391133050554
+09,Guayas,2024,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,57.64081422729498
+09,Guayas,2024,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,5.270548120117189
+09,Guayas,2024,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,7907.295183947829
+09,Guayas,2024,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,880181.9300658073
+09,Guayas,2024,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1839.569983416745
+09,Guayas,2024,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,38630.06640175796
+09,Guayas,2024,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,40515.07160847758
+09,Guayas,2024,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,16.15681205444336
+09,Guayas,2024,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,935.7199574462912
+09,Guayas,2024,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,92498.70024941697
+09,Guayas,2024,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",40613.45910218467
+09,Guayas,2024,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46668.06572354111
+09,Guayas,2025,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,104985.2327874941
+09,Guayas,2025,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,241094.2360584188
+09,Guayas,2025,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,102591.4854040629
+09,Guayas,2025,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,5671.036480267366
+09,Guayas,2025,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,87.66248764038089
+09,Guayas,2025,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,9.112026000976565
+09,Guayas,2025,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,8225.507723449724
+09,Guayas,2025,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,864993.1408722032
+09,Guayas,2025,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1892.641110479728
+09,Guayas,2025,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,38751.04224685056
+09,Guayas,2025,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,34446.37861245692
+09,Guayas,2025,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,15.97828395996093
+09,Guayas,2025,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,1450.68057197267
+09,Guayas,2025,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,101127.2033392133
+09,Guayas,2025,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",40499.89686361673
+09,Guayas,2025,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,46728.33141116926
+12,Los Ríos,2015,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,37763.3861078856
+12,Los Ríos,2015,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2015,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1489.7492374939
+12,Los Ríos,2015,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,58.72239216308599
+12,Los Ríos,2015,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,21.89457860717772
+12,Los Ríos,2015,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,7.68540244140626
+12,Los Ríos,2015,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,614566.9527502818
+12,Los Ríos,2015,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",293.0469889282224
+12,Los Ríos,2015,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,5878.524356103602
+12,Los Ríos,2015,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,1096.809019726563
+12,Los Ríos,2015,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,9.474518548583987
+12,Los Ríos,2015,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2015,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4703.122716339099
+12,Los Ríos,2015,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57993.60024697881
+12,Los Ríos,2015,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,8.491194519042967
+12,Los Ríos,2015,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0.5361927001953125
+12,Los Ríos,2016,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,35853.83787951614
+12,Los Ríos,2016,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2016,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1448.815209124762
+12,Los Ríos,2016,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,90.186959411621
+12,Los Ríos,2016,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,20.10716455078124
+12,Los Ríos,2016,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,4.289536285400389
+12,Los Ríos,2016,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,616294.964839974
+12,Los Ríos,2016,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",292.8685594055174
+12,Los Ríos,2016,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6071.573573193465
+12,Los Ríos,2016,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,1276.188854333496
+12,Los Ríos,2016,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,12.42389233398438
+12,Los Ríos,2016,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2016,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4546.101972790509
+12,Los Ríos,2016,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57964.63816470357
+12,Los Ríos,2016,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,15.46290438232421
+12,Los Ríos,2016,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0.5361927001953125
+12,Los Ríos,2017,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,35519.57698798793
+12,Los Ríos,2017,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2017,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,1434.964479339608
+12,Los Ríos,2017,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,60.86867241210943
+12,Los Ríos,2017,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,7.238538330078121
+12,Los Ríos,2017,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,1.608577368164063
+12,Los Ríos,2017,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,616856.4017132479
+12,Los Ríos,2017,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",304.131168017578
+12,Los Ríos,2017,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6092.493661065763
+12,Los Ríos,2017,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,1270.652506323243
+12,Los Ríos,2017,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,18.50090548706056
+12,Los Ríos,2017,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2017,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4338.216593829322
+12,Los Ríos,2017,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57957.21948347802
+12,Los Ríos,2017,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,29.58622310791016
+12,Los Ríos,2017,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0.5361927001953125
+12,Los Ríos,2018,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,33203.75444554384
+12,Los Ríos,2018,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2018,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2761.576939056426
+12,Los Ríos,2018,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,72.48932154541025
+12,Los Ríos,2018,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,7.238538330078121
+12,Los Ríos,2018,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,1.608577368164063
+12,Los Ríos,2018,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,617953.4497405294
+12,Los Ríos,2018,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",293.0479805725097
+12,Los Ríos,2018,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6163.816706329454
+12,Los Ríos,2018,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,1238.031771191407
+12,Los Ríos,2018,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,21.27188577270508
+12,Los Ríos,2018,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2018,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4187.921188378898
+12,Los Ríos,2018,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57964.54952177759
+12,Los Ríos,2018,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,22.70289359130859
+12,Los Ríos,2018,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0.5361927001953125
+12,Los Ríos,2019,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,32099.27646343349
+12,Los Ríos,2019,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2019,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2642.593193127467
+12,Los Ríos,2019,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,86.52357312622074
+12,Los Ríos,2019,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,3.753278662109373
+12,Los Ríos,2019,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,0.8042853088378907
+12,Los Ríos,2019,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,619270.2684528955
+12,Los Ríos,2019,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",229.6744239440917
+12,Los Ríos,2019,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6259.721133795261
+12,Los Ríos,2019,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,950.1708526184077
+12,Los Ríos,2019,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,11.35189815063476
+12,Los Ríos,2019,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2019,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4327.276513562013
+12,Los Ríos,2019,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57986.89467496971
+12,Los Ríos,2019,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,23.68695911865235
+12,Los Ríos,2019,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+12,Los Ríos,2020,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,30159.84328150599
+12,Los Ríos,2020,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2020,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3703.481157739253
+12,Los Ríos,2020,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,88.13280828857427
+12,Los Ríos,2020,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,4.736249957275388
+12,Los Ríos,2020,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,0.8042853088378907
+12,Los Ríos,2020,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,620212.1684282788
+12,Los Ríos,2020,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",228.9593732177734
+12,Los Ríos,2020,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6430.342251898302
+12,Los Ríos,2020,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,817.0034572204586
+12,Los Ríos,2020,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,12.33505225219726
+12,Los Ríos,2020,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2020,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4223.071229168698
+12,Los Ríos,2020,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57998.51487951679
+12,Los Ríos,2020,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,12.60324836425781
+12,Los Ríos,2020,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+12,Los Ríos,2021,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,29431.26006339089
+12,Los Ríos,2021,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2021,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3454.71661786501
+12,Los Ríos,2021,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,39.95203894653319
+12,Los Ríos,2021,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,4.91489769897461
+12,Los Ríos,2021,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,0.8042853088378907
+12,Los Ríos,2021,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,621103.6332906397
+12,Los Ríos,2021,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",195.6198519409179
+12,Los Ríos,2021,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6547.592805755728
+12,Los Ríos,2021,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,612.5075538696293
+12,Los Ríos,2021,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,19.93188828735352
+12,Los Ríos,2021,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2021,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4470.212470251452
+12,Los Ríos,2021,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,58000.48185747703
+12,Los Ríos,2021,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,10.36808128051758
+12,Los Ríos,2021,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+12,Los Ríos,2022,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,27956.73624985282
+12,Los Ríos,2022,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,1.161766534423828
+12,Los Ríos,2022,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3286.137010192903
+12,Los Ríos,2022,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,38.78992891845702
+12,Los Ríos,2022,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,86.680438708496
+12,Los Ríos,2022,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,12.33219511718749
+12,Los Ríos,2022,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,622479.6487947047
+12,Los Ríos,2022,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",195.7984418151854
+12,Los Ríos,2022,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6621.147856250102
+12,Los Ríos,2022,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,659.1845878906247
+12,Los Ríos,2022,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,21.45114493408204
+12,Los Ríos,2022,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2022,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4521.452557336434
+12,Los Ríos,2022,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57995.02953383203
+12,Los Ríos,2022,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,16.44519663696288
+12,Los Ríos,2022,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+12,Los Ríos,2023,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,27448.75233740209
+12,Los Ríos,2023,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2023,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3150.544848846464
+12,Los Ríos,2023,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,42.18621907958984
+12,Los Ríos,2023,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,66.84156751708983
+12,Los Ríos,2023,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,10.27680797729492
+12,Los Ríos,2023,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,623169.1408610492
+12,Los Ríos,2023,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",188.4691118713378
+12,Los Ríos,2023,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6662.266041388036
+12,Los Ríos,2023,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,571.2345184875492
+12,Los Ríos,2023,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,7.686518737792969
+12,Los Ríos,2023,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2023,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4574.383328131127
+12,Los Ríos,2023,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57990.11389016139
+12,Los Ríos,2023,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,10.09965206909179
+12,Los Ríos,2023,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+12,Los Ríos,2024,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,26759.51282287589
+12,Los Ríos,2024,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2024,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3756.014247045917
+12,Los Ríos,2024,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,41.02481906127928
+12,Los Ríos,2024,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,64.87553421020506
+12,Los Ríos,2024,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,9.472512054443362
+12,Los Ríos,2024,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,623012.9178357825
+12,Los Ríos,2024,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",203.3073799682616
+12,Los Ríos,2024,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6717.324564904898
+12,Los Ríos,2024,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,635.2354116882334
+12,Los Ríos,2024,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,14.21175004272462
+12,Los Ríos,2024,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2024,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4672.610744567901
+12,Los Ríos,2024,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57996.72914078391
+12,Los Ríos,2024,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,8.758939739990232
+12,Los Ríos,2024,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+12,Los Ríos,2025,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,28116.55875998504
+12,Los Ríos,2025,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,0
+12,Los Ríos,2025,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3988.122871710198
+12,Los Ríos,2025,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,34.85652233886717
+12,Los Ríos,2025,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,4.200071166992187
+12,Los Ríos,2025,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,9.472512054443362
+12,Los Ríos,2025,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,621032.7325436634
+12,Los Ríos,2025,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",200.1797248352049
+12,Los Ríos,2025,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6778.809001879999
+12,Los Ríos,2025,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,976.4847654968274
+12,Los Ríos,2025,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,21.27247656860352
+12,Los Ríos,2025,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,0
+12,Los Ríos,2025,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",4730.253314355474
+12,Los Ríos,2025,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,57992.3501091677
+12,Los Ríos,2025,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,6.703029498291013
+12,Los Ríos,2025,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+13,Manabí,2015,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,741923.6411037291
+13,Manabí,2015,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,136752.7382273383
+13,Manabí,2015,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,2892.25633104245
+13,Manabí,2015,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3342.628820568852
+13,Manabí,2015,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,610.9710422424318
+13,Manabí,2015,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,878.4141694152856
+13,Manabí,2015,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,1016253.665422364
+13,Manabí,2015,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",901.4314160034168
+13,Manabí,2015,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,16104.68025071451
+13,Manabí,2015,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4747.921406463624
+13,Manabí,2015,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,183.5956907348628
+13,Manabí,2015,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,12614.16574956049
+13,Manabí,2015,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",17304.36678153061
+13,Manabí,2015,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,53.45251416015626
+13,Manabí,2016,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,732705.2608637831
+13,Manabí,2016,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,136502.6346469869
+13,Manabí,2016,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,2903.69645739132
+13,Manabí,2016,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3912.348159643559
+13,Manabí,2016,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,773.2120135070841
+13,Manabí,2016,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,662.9162340271046
+13,Manabí,2016,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,1025099.324094011
+13,Manabí,2016,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",907.688143414306
+13,Manabí,2016,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,16232.49788762804
+13,Manabí,2016,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4632.159592761222
+13,Manabí,2016,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,204.7786496582024
+13,Manabí,2016,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,12799.56528968486
+13,Manabí,2016,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",17173.1429493041
+13,Manabí,2016,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,54.70394409179688
+13,Manabí,2017,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,721724.6333710816
+13,Manabí,2017,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,142468.5858734353
+13,Manabí,2017,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,2721.508544720446
+13,Manabí,2017,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3766.315474298095
+13,Manabí,2017,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,645.7439278991723
+13,Manabí,2017,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,568.3485452575701
+13,Manabí,2017,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,1030834.258724807
+13,Manabí,2017,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",898.127890362548
+13,Manabí,2017,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,16567.69295486439
+13,Manabí,2017,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4347.827754736317
+13,Manabí,2017,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,203.2588734680173
+13,Manabí,2017,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,12975.31840158077
+13,Manabí,2017,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",16791.89496059558
+13,Manabí,2017,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,50.41362882690428
+13,Manabí,2018,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,713408.3735252001
+13,Manabí,2018,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,142278.6205554213
+13,Manabí,2018,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,2706.579418530261
+13,Manabí,2018,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,4092.833886334231
+13,Manabí,2018,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,676.9420954834014
+13,Manabí,2018,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,548.5067601318375
+13,Manabí,2018,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,1038845.38803615
+13,Manabí,2018,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",900.273694152831
+13,Manabí,2018,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,16894.38997556181
+13,Manabí,2018,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4410.680301721187
+13,Manabí,2018,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,164.2872513977052
+13,Manabí,2018,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,12878.85834851069
+13,Manabí,2018,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",16710.01589254756
+13,Manabí,2018,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,48.17918472290037
+13,Manabí,2019,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,715686.6544212489
+13,Manabí,2019,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,156990.3158427159
+13,Manabí,2019,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,2649.009701403791
+13,Manabí,2019,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,4201.002511486822
+13,Manabí,2019,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,846.1537037353585
+13,Manabí,2019,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,544.1254708435077
+13,Manabí,2019,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,1020734.668646409
+13,Manabí,2019,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",908.2309291503893
+13,Manabí,2019,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,17291.51925809974
+13,Manabí,2019,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4341.298519262687
+13,Manabí,2019,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,156.1533783203127
+13,Manabí,2019,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,13303.03351851201
+13,Manabí,2019,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",16860.36640999754
+13,Manabí,2019,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,51.39661457519528
+13,Manabí,2020,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,707047.5717999492
+13,Manabí,2020,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,151905.2330950861
+13,Manabí,2020,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,2721.331187499971
+13,Manabí,2020,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,10667.5681302185
+13,Manabí,2020,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,749.5241811035183
+13,Manabí,2020,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,577.1055866333026
+13,Manabí,2020,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,1027764.986671604
+13,Manabí,2020,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",952.7461872009266
+13,Manabí,2020,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,17709.12162675784
+13,Manabí,2020,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4712.192915722642
+13,Manabí,2020,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,175.5502142211914
+13,Manabí,2020,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,13054.95092026348
+13,Manabí,2020,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",16473.3983781006
+13,Manabí,2020,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,52.64803139038082
+13,Manabí,2021,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,713864.0882053884
+13,Manabí,2021,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,148198.5968209756
+13,Manabí,2021,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,2821.182512841773
+13,Manabí,2021,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,10855.34501112671
+13,Manabí,2021,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,577.4499280883821
+13,Manabí,2021,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,784.7355213256844
+13,Manabí,2021,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,1024429.304125277
+13,Manabí,2021,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",951.3147908264149
+13,Manabí,2021,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,17992.10920374164
+13,Manabí,2021,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4281.054107666022
+13,Manabí,2021,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,189.1364642761229
+13,Manabí,2021,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,13426.36663043186
+13,Manabí,2021,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",16143.9941214172
+13,Manabí,2021,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,49.2514823913574
+13,Manabí,2022,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,721297.9502330715
+13,Manabí,2022,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,150148.6564407925
+13,Manabí,2022,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,2867.220480139132
+13,Manabí,2022,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,11133.21345592653
+13,Manabí,2022,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,541.3369898498559
+13,Manabí,2022,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,850.6080323669435
+13,Manabí,2022,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,1014060.05198971
+13,Manabí,2022,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",983.3171767272935
+13,Manabí,2022,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,18398.80768332447
+13,Manabí,2022,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4816.787557366966
+13,Manabí,2022,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,214.2531871276854
+13,Manabí,2022,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,12841.36168493025
+13,Manabí,2022,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",16356.73275037833
+13,Manabí,2022,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,53.63126403808592
+13,Manabí,2023,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,730470.9286544195
+13,Manabí,2023,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,150935.9540021626
+13,Manabí,2023,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,3094.460636437955
+13,Manabí,2023,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,11412.27934281619
+13,Manabí,2023,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,552.5100777587911
+13,Manabí,2023,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,1499.527732391352
+13,Manabí,2023,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,1002165.876205879
+13,Manabí,2023,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1000.567522888182
+13,Manabí,2023,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,18621.73291724872
+13,Manabí,2023,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4967.855863287374
+13,Manabí,2023,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,210.7672064514157
+13,Manabí,2023,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,13223.34357133788
+13,Manabí,2023,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",16350.11448922726
+13,Manabí,2023,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,58.01070341796872
+13,Manabí,2024,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,734391.1736739802
+13,Manabí,2024,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,150189.3593625939
+13,Manabí,2024,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,3337.34585347897
+13,Manabí,2024,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,19390.6765647829
+13,Manabí,2024,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,505.6691328063962
+13,Manabí,2024,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,954.8076688720705
+13,Manabí,2024,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,991406.1707087948
+13,Manabí,2024,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1003.873746185301
+13,Manabí,2024,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,18893.47468914814
+13,Manabí,2024,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4522.752031866433
+13,Manabí,2024,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,287.1004355407704
+13,Manabí,2024,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,13064.14238988029
+13,Manabí,2024,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",16560.08734005125
+13,Manabí,2024,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,57.29532791137694
+13,Manabí,2025,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,756091.6662941697
+13,Manabí,2025,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,167101.4689395942
+13,Manabí,2025,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,3339.312454614229
+13,Manabí,2025,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,21382.11176936046
+13,Manabí,2025,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,476.2598952880863
+13,Manabí,2025,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,1397.342526879882
+13,Manabí,2025,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,947697.0994155783
+13,Manabí,2025,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",1020.951480383301
+13,Manabí,2025,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,19057.58959290792
+13,Manabí,2025,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,7322.827596704198
+13,Manabí,2025,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,323.9265030761701
+13,Manabí,2025,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,12955.61894608126
+13,Manabí,2025,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",16337.86608468012
+13,Manabí,2025,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,59.88742651977537
+23,Santo Domingo de los Tsáchilas,2015,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,90546.49031048482
+23,Santo Domingo de los Tsáchilas,2015,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2011.570131274437
+23,Santo Domingo de los Tsáchilas,2015,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,0
+23,Santo Domingo de los Tsáchilas,2015,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2015,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,280154.8088399782
+23,Santo Domingo de los Tsáchilas,2015,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",31.28909512329103
+23,Santo Domingo de los Tsáchilas,2015,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4126.551912518145
+23,Santo Domingo de los Tsáchilas,2015,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,487.6585746215759
+23,Santo Domingo de los Tsáchilas,2015,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,3.665268139648438
+23,Santo Domingo de los Tsáchilas,2015,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",536.7384153564539
+23,Santo Domingo de los Tsáchilas,2015,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,3.844087939453124
+23,Santo Domingo de los Tsáchilas,2015,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,6.257748107910152
+23,Santo Domingo de los Tsáchilas,2015,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0.8939488342285156
+23,Santo Domingo de los Tsáchilas,2016,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,88460.24395401974
+23,Santo Domingo de los Tsáchilas,2016,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2029.090993408231
+23,Santo Domingo de los Tsáchilas,2016,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,0
+23,Santo Domingo de los Tsáchilas,2016,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2016,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,281942.8292116078
+23,Santo Domingo de los Tsáchilas,2016,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",33.16645141601563
+23,Santo Domingo de los Tsáchilas,2016,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4214.071501104729
+23,Santo Domingo de los Tsáchilas,2016,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,691.661071087643
+23,Santo Domingo de los Tsáchilas,2016,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,4.559252978515625
+23,Santo Domingo de los Tsáchilas,2016,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",517.3393575500564
+23,Santo Domingo de los Tsáchilas,2016,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,3.844087939453124
+23,Santo Domingo de los Tsáchilas,2016,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,12.96245123291015
+23,Santo Domingo de los Tsáchilas,2016,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+23,Santo Domingo de los Tsáchilas,2017,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,87454.9710271239
+23,Santo Domingo de los Tsáchilas,2017,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2177.038893817134
+23,Santo Domingo de los Tsáchilas,2017,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,0
+23,Santo Domingo de los Tsáchilas,2017,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2017,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,282831.6222265515
+23,Santo Domingo de los Tsáchilas,2017,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",31.02085650634767
+23,Santo Domingo de los Tsáchilas,2017,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4215.322962683078
+23,Santo Domingo de los Tsáchilas,2017,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,700.7792681335419
+23,Santo Domingo de los Tsáchilas,2017,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,6.704798266601562
+23,Santo Domingo de los Tsáchilas,2017,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",476.7533294433633
+23,Santo Domingo de los Tsáchilas,2017,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2.860717083740234
+23,Santo Domingo de los Tsáchilas,2017,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,12.6942526977539
+23,Santo Domingo de los Tsáchilas,2017,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+23,Santo Domingo de los Tsáchilas,2018,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,85525.00380506924
+23,Santo Domingo de los Tsáchilas,2018,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2510.305661926237
+23,Santo Domingo de los Tsáchilas,2018,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,0
+23,Santo Domingo de los Tsáchilas,2018,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2018,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,284341.5183369298
+23,Santo Domingo de los Tsáchilas,2018,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",27.98134346923831
+23,Santo Domingo de los Tsáchilas,2018,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4318.129256152422
+23,Santo Domingo de los Tsáchilas,2018,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,725.7209066039984
+23,Santo Domingo de los Tsáchilas,2018,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,7.151785089111328
+23,Santo Domingo de los Tsáchilas,2018,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",442.7827368042002
+23,Santo Domingo de los Tsáchilas,2018,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,0.6257823974609376
+23,Santo Domingo de los Tsáchilas,2018,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,10.5487179321289
+23,Santo Domingo de los Tsáchilas,2018,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+23,Santo Domingo de los Tsáchilas,2019,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,84834.44642986177
+23,Santo Domingo de los Tsáchilas,2019,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2299.065991265863
+23,Santo Domingo de los Tsáchilas,2019,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,3.30764282836914
+23,Santo Domingo de los Tsáchilas,2019,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2019,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,285265.0393450897
+23,Santo Domingo de los Tsáchilas,2019,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",23.60084799194341
+23,Santo Domingo de los Tsáchilas,2019,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4295.601053417964
+23,Santo Domingo de los Tsáchilas,2019,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,729.8328854247984
+23,Santo Domingo de los Tsáchilas,2019,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,9.386716961669919
+23,Santo Domingo de los Tsáchilas,2019,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",441.2629872131401
+23,Santo Domingo de los Tsáchilas,2019,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,0.6257823974609376
+23,Santo Domingo de los Tsáchilas,2019,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,7.598649945068357
+23,Santo Domingo de los Tsáchilas,2019,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+23,Santo Domingo de los Tsáchilas,2020,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,83041.62844995338
+23,Santo Domingo de los Tsáchilas,2020,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2985.974077148404
+23,Santo Domingo de los Tsáchilas,2020,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,1.340948333740234
+23,Santo Domingo de los Tsáchilas,2020,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2020,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,286389.9016739043
+23,Santo Domingo de los Tsáchilas,2020,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",19.30982040405278
+23,Santo Domingo de los Tsáchilas,2020,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4342.444748516909
+23,Santo Domingo de los Tsáchilas,2020,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,654.0245457641576
+23,Santo Domingo de los Tsáchilas,2020,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,8.403326867675776
+23,Santo Domingo de los Tsáchilas,2020,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",460.3042168029839
+23,Santo Domingo de los Tsáchilas,2020,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,0.6257823974609376
+23,Santo Domingo de los Tsáchilas,2020,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,5.810742291259766
+23,Santo Domingo de los Tsáchilas,2020,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+23,Santo Domingo de los Tsáchilas,2021,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,80189.88199077667
+23,Santo Domingo de los Tsáchilas,2021,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2718.77353256225
+23,Santo Domingo de los Tsáchilas,2021,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,2.234913861083983
+23,Santo Domingo de los Tsáchilas,2021,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2021,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,289472.1069673383
+23,Santo Domingo de los Tsáchilas,2021,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",13.32020089111331
+23,Santo Domingo de los Tsáchilas,2021,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4371.945603338781
+23,Santo Domingo de los Tsáchilas,2021,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,530.38950498047
+23,Santo Domingo de los Tsáchilas,2021,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,11.8004096496582
+23,Santo Domingo de los Tsáchilas,2021,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",585.0117830017152
+23,Santo Domingo de los Tsáchilas,2021,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,0.6257823974609376
+23,Santo Domingo de los Tsáchilas,2021,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,13.67764356689453
+23,Santo Domingo de los Tsáchilas,2021,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+23,Santo Domingo de los Tsáchilas,2022,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,78611.40993419258
+23,Santo Domingo de los Tsáchilas,2022,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2717.075555279534
+23,Santo Domingo de los Tsáchilas,2022,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,0
+23,Santo Domingo de los Tsáchilas,2022,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2022,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,290966.456138711
+23,Santo Domingo de los Tsáchilas,2022,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",10.0125182739258
+23,Santo Domingo de los Tsáchilas,2022,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4423.527407800482
+23,Santo Domingo de los Tsáchilas,2022,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,483.3669785034186
+23,Santo Domingo de los Tsáchilas,2022,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,9.92309173583984
+23,Santo Domingo de los Tsáchilas,2022,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",671.3690082519599
+23,Santo Domingo de los Tsáchilas,2022,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2.2349349609375
+23,Santo Domingo de los Tsáchilas,2022,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,14.3927646484375
+23,Santo Domingo de los Tsáchilas,2022,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+23,Santo Domingo de los Tsáchilas,2023,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,78060.37055020021
+23,Santo Domingo de los Tsáchilas,2023,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,2832.573368310531
+23,Santo Domingo de los Tsáchilas,2023,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,0
+23,Santo Domingo de los Tsáchilas,2023,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2023,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,291330.0332402447
+23,Santo Domingo de los Tsáchilas,2023,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",9.476133868408217
+23,Santo Domingo de los Tsáchilas,2023,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4553.867620746014
+23,Santo Domingo de los Tsáchilas,2023,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,402.9103195007319
+23,Santo Domingo de los Tsáchilas,2023,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,6.347200585937496
+23,Santo Domingo de los Tsáchilas,2023,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",698.4561765808174
+23,Santo Domingo de los Tsáchilas,2023,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2.2349349609375
+23,Santo Domingo de los Tsáchilas,2023,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,13.49878735961914
+23,Santo Domingo de los Tsáchilas,2023,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+23,Santo Domingo de los Tsáchilas,2024,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,72412.7007478374
+23,Santo Domingo de los Tsáchilas,2024,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,3794.90867295529
+23,Santo Domingo de los Tsáchilas,2024,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,3.84392705688477
+23,Santo Domingo de los Tsáchilas,2024,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2024,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,295785.8862668442
+23,Santo Domingo de los Tsáchilas,2024,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",14.39294523315433
+23,Santo Domingo de los Tsáchilas,2024,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4647.465676495533
+23,Santo Domingo de los Tsáchilas,2024,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,455.1183441467264
+23,Santo Domingo de los Tsáchilas,2024,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,4.469865472412112
+23,Santo Domingo de los Tsáchilas,2024,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",779.1815694641148
+23,Santo Domingo de los Tsáchilas,2024,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,3.844087939453124
+23,Santo Domingo de los Tsáchilas,2024,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,7.956228887939456
+23,Santo Domingo de los Tsáchilas,2024,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+23,Santo Domingo de los Tsáchilas,2025,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,74340.52769726871
+23,Santo Domingo de los Tsáchilas,2025,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,4204.243734759586
+23,Santo Domingo de los Tsáchilas,2025,11,Natural,2. Non-forest natural formation,2.1. Non forest wetland,2.1. Non forest wetland,2.1. Non forest wetland,4.290973968505861
+23,Santo Domingo de los Tsáchilas,2025,12,Natural,2. Non-forest natural formation,2.2. Grassland,2.2. Grassland,2.2. Grassland,0
+23,Santo Domingo de los Tsáchilas,2025,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,293174.4566945217
+23,Santo Domingo de los Tsáchilas,2025,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",12.15805819091799
+23,Santo Domingo de los Tsáchilas,2025,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,4691.44879089373
+23,Santo Domingo de los Tsáchilas,2025,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,535.7547306640572
+23,Santo Domingo de los Tsáchilas,2025,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,12.24743058471678
+23,Santo Domingo de los Tsáchilas,2025,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",920.3367837646508
+23,Santo Domingo de los Tsáchilas,2025,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,3.844087939453124
+23,Santo Domingo de los Tsáchilas,2025,81,Natural,2. Non-forest natural formation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,2.5. Andinean Herbaceous and Shrubby Vegetation,10.45934984130859
+23,Santo Domingo de los Tsáchilas,2025,82,Natural,2. Non-forest natural formation,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,2.6. Flooded Andinean Herbaceous,0
+24,Santa Elena,2015,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,79642.10553804295
+24,Santa Elena,2015,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,173586.8410562538
+24,Santa Elena,2015,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,24.48007759399416
+24,Santa Elena,2015,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,11.07966105346678
+24,Santa Elena,2015,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,56676.03589170105
+24,Santa Elena,2015,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,39049.05567046427
+24,Santa Elena,2015,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",503.3841568359376
+24,Santa Elena,2015,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,5792.402211132755
+24,Santa Elena,2015,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,8172.90609816302
+24,Santa Elena,2015,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2015,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,113.446079071045
+24,Santa Elena,2015,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4611.827877838122
+24,Santa Elena,2015,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",969.1725381652853
+24,Santa Elena,2015,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,6.967312902832033
+24,Santa Elena,2015,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,258.2449440307603
+24,Santa Elena,2016,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,79848.31738343558
+24,Santa Elena,2016,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,173498.9582820114
+24,Santa Elena,2016,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,27.33906452026365
+24,Santa Elena,2016,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,11.52640869750974
+24,Santa Elena,2016,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,56871.6022213234
+24,Santa Elena,2016,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,39096.69815408859
+24,Santa Elena,2016,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",518.659211517334
+24,Santa Elena,2016,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,5860.473218560721
+24,Santa Elena,2016,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,7699.535201739741
+24,Santa Elena,2016,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2016,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,160.7903996948244
+24,Santa Elena,2016,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4629.957981597896
+24,Santa Elena,2016,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",930.2192206604035
+24,Santa Elena,2016,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,6.699347064208985
+24,Santa Elena,2016,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,257.1730183410631
+24,Santa Elena,2017,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,79806.1710569291
+24,Santa Elena,2017,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,174598.9339045763
+24,Santa Elena,2017,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,27.07103411865233
+24,Santa Elena,2017,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,10.81159087524412
+24,Santa Elena,2017,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,54035.52150745216
+24,Santa Elena,2017,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,40891.86524250451
+24,Santa Elena,2017,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",505.0806232849123
+24,Santa Elena,2017,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,5970.882381774813
+24,Santa Elena,2017,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,7189.971828119074
+24,Santa Elena,2017,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2017,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,242.7917369995114
+24,Santa Elena,2017,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4724.368746594221
+24,Santa Elena,2017,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",1139.709266778564
+24,Santa Elena,2017,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,6.699347064208985
+24,Santa Elena,2017,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,268.0708461791974
+24,Santa Elena,2018,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,80319.7395946877
+24,Santa Elena,2018,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,174412.1018892572
+24,Santa Elena,2018,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,27.16037402343748
+24,Santa Elena,2018,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,26.53636931762695
+24,Santa Elena,2018,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,53337.52944628028
+24,Santa Elena,2018,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,41439.26457340685
+24,Santa Elena,2018,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",501.0603999450684
+24,Santa Elena,2018,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6059.677808001641
+24,Santa Elena,2018,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,6670.618768548773
+24,Santa Elena,2018,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2018,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,195.9833866760254
+24,Santa Elena,2018,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4775.821590844734
+24,Santa Elena,2018,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",1362.320559027114
+24,Santa Elena,2018,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,6.699347064208985
+24,Santa Elena,2018,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,283.4350061706521
+24,Santa Elena,2019,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,80321.21613979348
+24,Santa Elena,2019,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,175073.7017866724
+24,Santa Elena,2019,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,28.05381671142577
+24,Santa Elena,2019,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,23.76640837402343
+24,Santa Elena,2019,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,52090.09549232809
+24,Santa Elena,2019,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,40009.72692470659
+24,Santa Elena,2019,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",488.6437622680665
+24,Santa Elena,2019,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6264.068717279008
+24,Santa Elena,2019,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,6546.288853540229
+24,Santa Elena,2019,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2019,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,134.7069096862793
+24,Santa Elena,2019,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4798.242356616215
+24,Santa Elena,2019,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",1355.359701129154
+24,Santa Elena,2019,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,6.699347064208985
+24,Santa Elena,2019,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2277.37889708858
+24,Santa Elena,2020,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,80570.24303221029
+24,Santa Elena,2020,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,173782.7340434639
+24,Santa Elena,2020,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,27.42843378906249
+24,Santa Elena,2020,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,270.3732101867678
+24,Santa Elena,2020,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,51321.62134097386
+24,Santa Elena,2020,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,41587.21776507515
+24,Santa Elena,2020,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",480.9633848144532
+24,Santa Elena,2020,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6364.739699413989
+24,Santa Elena,2020,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,6443.725570160075
+24,Santa Elena,2020,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2020,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,154.6274350158693
+24,Santa Elena,2020,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4735.172363067618
+24,Santa Elena,2020,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",1385.466694097901
+24,Santa Elena,2020,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,7.235278424072268
+24,Santa Elena,2020,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2286.400862554893
+24,Santa Elena,2021,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,80825.53598865891
+24,Santa Elena,2021,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,173350.793312735
+24,Santa Elena,2021,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,30.46594953002928
+24,Santa Elena,2021,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,264.9225575622561
+24,Santa Elena,2021,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,50323.97861716291
+24,Santa Elena,2021,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,43417.73645043884
+24,Santa Elena,2021,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",472.0298532470706
+24,Santa Elena,2021,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6316.762619580031
+24,Santa Elena,2021,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,5790.100451281848
+24,Santa Elena,2021,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2021,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,185.8936321594239
+24,Santa Elena,2021,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4763.842774945067
+24,Santa Elena,2021,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",1384.037256079103
+24,Santa Elena,2021,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,5.538119732666014
+24,Santa Elena,2021,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2286.311530139121
+24,Santa Elena,2022,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,80849.38935912908
+24,Santa Elena,2022,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,174062.8928536658
+24,Santa Elena,2022,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,30.73389827880858
+24,Santa Elena,2022,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,262.6884411865236
+24,Santa Elena,2022,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,49157.83627469539
+24,Santa Elena,2022,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,43819.41840458989
+24,Santa Elena,2022,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",466.402997607422
+24,Santa Elena,2022,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6490.068126824875
+24,Santa Elena,2022,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,5756.786939648538
+24,Santa Elena,2022,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2022,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,216.7125300964358
+24,Santa Elena,2022,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4704.349647296133
+24,Santa Elena,2022,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",1309.713251226805
+24,Santa Elena,2022,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,5.53811969604492
+24,Santa Elena,2022,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2285.418269311483
+24,Santa Elena,2023,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,81015.5039246274
+24,Santa Elena,2023,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,174220.2383905418
+24,Santa Elena,2023,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,31.18053670654296
+24,Santa Elena,2023,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,278.2356410034185
+24,Santa Elena,2023,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,48632.19854849183
+24,Santa Elena,2023,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,44360.34076588094
+24,Santa Elena,2023,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",443.8925368286137
+24,Santa Elena,2023,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6495.425621404972
+24,Santa Elena,2023,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,5328.545269732766
+24,Santa Elena,2023,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2023,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,174.5493168395997
+24,Santa Elena,2023,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4548.005163030989
+24,Santa Elena,2023,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",1604.772406359876
+24,Santa Elena,2023,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.644892242431639
+24,Santa Elena,2023,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2280.416099560505
+24,Santa Elena,2024,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,81519.44760380387
+24,Santa Elena,2024,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,173819.5427318195
+24,Santa Elena,2024,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,31.1805503173828
+24,Santa Elena,2024,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,306.3794622741701
+24,Santa Elena,2024,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,49193.19192584985
+24,Santa Elena,2024,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,43934.1436043637
+24,Santa Elena,2024,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",447.0214132141116
+24,Santa Elena,2024,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6471.306035253858
+24,Santa Elena,2024,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,5304.539215796
+24,Santa Elena,2024,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2024,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,113.1821511535647
+24,Santa Elena,2024,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4391.576934912116
+24,Santa Elena,2024,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",1596.642284875501
+24,Santa Elena,2024,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.019634222412108
+24,Santa Elena,2024,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2285.775565393028
+24,Santa Elena,2025,3,Natural,1. Natural forest,1.1. Forest,1.1. Forest,1.1. Forest,80713.55154857648
+24,Santa Elena,2025,4,Natural,1. Natural forest,1.2. Open forest,1.2. Open forest,1.2. Open forest,175799.6864714449
+24,Santa Elena,2025,5,Natural,1. Natural forest,1.3. Mangrove,1.3. Mangrove,1.3. Mangrove,31.1805503173828
+24,Santa Elena,2025,9,Antropic,3. Farming and silviculture,3.1. Silviculture,3.1. Silviculture,3.1. Silviculture,400.5612849487293
+24,Santa Elena,2025,13,Natural,2. Non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,2.3. Other non-forest natural formation,48767.46670050178
+24,Santa Elena,2025,21,Antropic,3. Farming and silviculture,3.2. Mosaic of uses,3.2. Mosaic of uses,3.2. Mosaic of uses,43979.70410671326
+24,Santa Elena,2025,23,Natural,4. Non-vegetated area,"4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot","4.1. Beach, dune and sand spot",415.4884487365726
+24,Santa Elena,2025,24,Antropic,4. Non-vegetated area,4.2. Urban infrastructure,4.2. Urban infrastructure,4.2. Urban infrastructure,6559.571217474297
+24,Santa Elena,2025,25,Antropic,4. Non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4.3. Other anthropic non-vegetated area,4329.611189215103
+24,Santa Elena,2025,29,Natural,2. Non-forest natural formation,2.4. Rocky outcrop,2.4. Rocky outcrop,2.4. Rocky outcrop,0
+24,Santa Elena,2025,30,Antropic,4. Non-vegetated area,4.4. Mining,4.4. Mining,4.4. Mining,132.9246340026856
+24,Santa Elena,2025,31,Antropic,5. Water,5.1. Aquaculture,5.1. Aquaculture,5.1. Aquaculture,4323.776763024908
+24,Santa Elena,2025,33,Natural,5. Water,"5.2. River, lake and ocean","5.2. River, lake and ocean","5.2. River, lake and ocean",1675.702924291999
+24,Santa Elena,2025,68,Natural,4. Non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,4.5. Other natural non-vegetated area,3.66235362548828
+24,Santa Elena,2025,74,Antropic,3. Farming and silviculture,3.3. Banana,3.3. Banana,3.3. Banana,2285.060920373495

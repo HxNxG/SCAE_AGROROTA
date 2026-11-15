@@ -1,0 +1,44 @@
+{
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/espac-2018/Tabulados%20ESPAC%202018.xlsx": {
+    "estimated_bytes": 787073,
+    "free_bytes": 353390387200,
+    "bytes": 787073,
+    "sha256": "505cf59e02993812ff571dd140f8b16488389640361907b6edbf0610aeabd24a"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/espac-2019/Tabulados%20ESPAC%202019.xlsx": {
+    "estimated_bytes": 795491,
+    "free_bytes": 353391177728,
+    "bytes": 795491,
+    "sha256": "9dfe2ae61aec87e14656c44b7bbb482fe21187deab9d0f7213a4d1ed6435632c"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/espac-2020/Tabulados%20ESPAC%202020.xlsx": {
+    "estimated_bytes": 3556421,
+    "free_bytes": 353390927872,
+    "bytes": 3556421,
+    "sha256": "258e5e148e2671d393504eb88ab6f249c24b55dfb0adc515f44ffb35f821a15b"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/espac-2021/Tabulados%20ESPAC%202021.xlsx": {
+    "estimated_bytes": 9272692,
+    "free_bytes": 353390731264,
+    "bytes": 9272692,
+    "sha256": "f942507eef955b9a0283b2a10854acb946291e34e748516a550d4de66dec406e"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/espac_2022/Tabulados%20ESPAC%202022.xlsx": {
+    "estimated_bytes": 886083,
+    "free_bytes": 353390387200,
+    "bytes": 886083,
+    "sha256": "e5d1709b7df8349d3808efd4cb538966208e230657b5ddf0292ae0e549e82878"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/2023/Tabulados_ESPAC_2023.xlsx": {
+    "estimated_bytes": 14512508,
+    "free_bytes": 353390305280,
+    "bytes": 14512508,
+    "sha256": "31cad1c2c3cb1e585c2c4cbfc6859484ab568753151dd98c165715aa7450ad3c"
+  },
+  "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_agropecuarias/espac/2024/Tabulados_ESPAC_2024.xlsx": {
+    "estimated_bytes": 693689,
+    "free_bytes": 353385545728,
+    "bytes": 693689,
+    "sha256": "ad0b370278afe8103f94c09fe9de2f8182174644da88b6d0acf132cb0dd67446"
+  }
+}

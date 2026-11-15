@@ -1,0 +1,18 @@
+{
+  "query": "https://files.isric.org/soilgrids/latest/data/sand/sand_30-60cm_Q0.05.vrt",
+  "coverage": "sand_30-60cm_Q0.05",
+  "nodata": -32768.0,
+  "unit": "g/kg",
+  "divide_stored_value_by": 1,
+  "valid_pixels": 1086638,
+  "min": 6,
+  "max": 426,
+  "crs_wkt": "PROJCS[\"Interrupted_Goode_Homolosine\",GEOGCS[\"GCS_WGS_1984 ellipse\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Interrupted_Goode_Homolosine\"],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "bounds": [
+    -9016500.0,
+    -433250.0,
+    -8730500.0,
+    163750.0
+  ],
+  "sha256": "44a7d446bfc5b775be39a5a7a04e50a6f73deaab926c017d9508262f5e8e22f8"
+}

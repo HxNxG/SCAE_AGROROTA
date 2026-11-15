@@ -1,0 +1,48 @@
+{
+  "job_id": "61cbd63c-c132-4b3c-b685-886296554f93",
+  "collection": "C3480440870-NSIDC_CPRD",
+  "params": [
+    [
+      "subset",
+      "lat(-4.0:1.6)"
+    ],
+    [
+      "subset",
+      "lon(-81.2:-78.3)"
+    ],
+    [
+      "subset",
+      "time(\"2025-01-01T00:00:00Z\":\"2025-01-01T02:59:59Z\")"
+    ],
+    [
+      "format",
+      "application/netcdf"
+    ],
+    [
+      "forceAsync",
+      "true"
+    ],
+    [
+      "maxResults",
+      "1"
+    ],
+    [
+      "skipPreview",
+      "true"
+    ],
+    [
+      "ignoreErrors",
+      "false"
+    ]
+  ],
+  "status": "successful",
+  "note": "Caja ampliada para incluir celdas de borde; recorte poligonal local pendiente.",
+  "progress": 100,
+  "message": "CMR query identified 2 granules, but the request has been limited to process only the first 1 granules because you requested 1 maxResults.",
+  "downloaded_files": [
+    {
+      "path": "temporales\\lote_prueba\\subset_00.nc4",
+      "bytes": 63516
+    }
+  ]
+}

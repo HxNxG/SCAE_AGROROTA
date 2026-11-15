@@ -1,0 +1,4 @@
+﻿2026-11-14 (Bogotá)
+Disponible antes de descargar: 354078703616 bytes
+Estimación: hasta 72 MB (284 archivos, hasta 250 KB por archivo con estructura NetCDF4 incluida).
+Justificación: comparar tendencias mensuales regionales de vegetación y temperatura conservando bandas de calidad y malla nativa.

@@ -1,0 +1,6 @@
+earthaccess
+h5py
+numpy
+pyproj
+shapely
+requests

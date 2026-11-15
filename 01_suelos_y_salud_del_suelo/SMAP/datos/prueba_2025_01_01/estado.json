@@ -1,0 +1,38 @@
+{
+  "requested_start": "2025-01-01T00:00:00Z",
+  "requested_end_exclusive": "2025-01-02T00:00:00Z",
+  "product": "SPL4SMGP",
+  "version": "008",
+  "n_cells": 1045,
+  "expected_catalog_intervals": 8,
+  "estimated_rows": 8360,
+  "method": "Subconjuntos nativos DAP4 NetCDF; sin interpolacion; CSV mensual gzip.",
+  "geography_reference_year": 2019,
+  "months": {
+    "2025-01": {
+      "source_granules": [
+        "SMAP_L4_SM_gph_20250101T013000_Vv8012_001.h5",
+        "SMAP_L4_SM_gph_20250101T043000_Vv8012_001.h5",
+        "SMAP_L4_SM_gph_20250101T073000_Vv8012_001.h5",
+        "SMAP_L4_SM_gph_20250101T103000_Vv8012_001.h5",
+        "SMAP_L4_SM_gph_20250101T133000_Vv8012_001.h5",
+        "SMAP_L4_SM_gph_20250101T163000_Vv8012_001.h5",
+        "SMAP_L4_SM_gph_20250101T193000_Vv8012_001.h5",
+        "SMAP_L4_SM_gph_20250101T223000_Vv8012_001.h5"
+      ],
+      "n_intervals": 8,
+      "rows": 8360,
+      "missing_surface": 128,
+      "missing_rootzone": 128,
+      "bytes_received": 344580,
+      "bytes_csv_gz": 105384,
+      "sha256": "7a69f300959c3a4d0e6a0008e6afdb1b2f9c6b4d01d6517b77b0074a73ab0aad"
+    }
+  },
+  "status": "completed_catalog_intervals",
+  "current_month": "2025-01",
+  "current_month_done": 8,
+  "current_month_total": 8,
+  "current_month_failures": [],
+  "missing_catalog_intervals": 0
+}

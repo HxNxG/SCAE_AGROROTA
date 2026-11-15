@@ -1,0 +1,16 @@
+#< CLIXML
+Traceback (most recent call last):
+  File "C:\Users\andre\Desktop\DATA_RAW\01_suelos_y_salud_del_suelo\SMAP\actualizar_resumen_provincial.py", line 99, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\andre\Desktop\DATA_RAW\01_suelos_y_salud_del_suelo\SMAP\actualizar_resumen_provincial.py", line 95, in main
+    write(summary_path, summary_fields, sorted(summary_rows, key=lambda r: (r["mes"], r["codigo_dpa"], r["variable"])))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\andre\Desktop\DATA_RAW\01_suelos_y_salud_del_suelo\SMAP\actualizar_resumen_provincial.py", line 27, in write
+    stage.replace(path)
+    ~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\andre\AppData\Roaming\uv\python\cpython-3.13-windows-x86_64-none\Lib\pathlib\_local.py", line 780, in replace
+    os.replace(self, target)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied: 'C:\\Users\\andre\\Desktop\\DATA_RAW\\01_suelos_y_salud_del_suelo\\SMAP\\datos\\historico\\humedad_mensual_provincial.part' -> 'C:\\Users\\andre\\Desktop\\DATA_RAW\\01_suelos_y_salud_del_suelo\\SMAP\\datos\\historico\\humedad_mensual_provincial.csv'
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>

@@ -1,0 +1,6 @@
+{
+    "launcher_pid":  35120,
+    "started_at_utc":  "2026-11-14T20:25:25.9652169Z",
+    "status_file":  "datos/historico/estado.json",
+    "note":  "El equipo debe permanecer encendido y con Internet. Un estado running guardado no garantiza que el proceso siga vivo."
+}

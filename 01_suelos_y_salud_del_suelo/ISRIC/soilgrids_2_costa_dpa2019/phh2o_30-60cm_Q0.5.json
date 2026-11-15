@@ -1,0 +1,18 @@
+{
+  "query": "https://files.isric.org/soilgrids/latest/data/phh2o/phh2o_30-60cm_Q0.5.vrt",
+  "coverage": "phh2o_30-60cm_Q0.5",
+  "nodata": -32768.0,
+  "unit": "pH",
+  "divide_stored_value_by": 10,
+  "valid_pixels": 1008007,
+  "min": 46,
+  "max": 82,
+  "crs_wkt": "PROJCS[\"Interrupted_Goode_Homolosine\",GEOGCS[\"GCS_WGS_1984 ellipse\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Interrupted_Goode_Homolosine\"],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "bounds": [
+    -9016500.0,
+    -433250.0,
+    -8730500.0,
+    163750.0
+  ],
+  "sha256": "cf67a335a98b3387318fdde6fe3875000988b27cbde9baf80a9311ada2a6293f"
+}

@@ -1,0 +1,12 @@
+{
+  "n_cells": 1045,
+  "dx_m": 9008.0556640625,
+  "dy_m": 9008.0556640625,
+  "row_min": 791,
+  "row_max": 867,
+  "col_min": 1060,
+  "col_max": 1087,
+  "source": "Coordenadas x/y originales recuperadas mediante OPeNDAP del primer granulo SPL4SMGP v008.",
+  "reference_year": 2019,
+  "coverage": "Geometrica; no garantiza humedad valida en agua ni en todas las fechas."
+}

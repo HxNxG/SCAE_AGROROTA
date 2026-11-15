@@ -1,0 +1,177 @@
+{
+  "07": [
+    {
+      "id": "b68f74bf-be48-4a88-9369-1bc62b5d3f76",
+      "status": "QUEUED",
+      "territoryId": "1b2c0259-34d4-4757-9501-905b34175b1e",
+      "subthemeKey": "cobertura-copia-0j43ew_coverage-zbyh4p",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "errorMessage": null,
+      "expiresAt": null,
+      "createdAt": "2026-11-14T20:32:49.548Z",
+      "updatedAt": "2026-11-14T20:32:49.548Z"
+    }
+  ],
+  "08": [
+    {
+      "id": "20e71bde-e4c3-4d5b-bdd5-af1974742158",
+      "status": "QUEUED",
+      "territoryId": "178a7f6c-c7c0-49e3-88fd-8614dda2c6ea",
+      "subthemeKey": "cobertura-copia-0j43ew_coverage-zbyh4p",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "errorMessage": null,
+      "expiresAt": null,
+      "createdAt": "2026-11-14T20:32:49.573Z",
+      "updatedAt": "2026-11-14T20:32:49.573Z"
+    }
+  ],
+  "09": [
+    {
+      "id": "7e29cd7a-396a-4d8b-bff1-a3a77793f684",
+      "status": "QUEUED",
+      "territoryId": "068041c6-dc11-4d31-bf86-23f1aa474270",
+      "subthemeKey": "cobertura-copia-0j43ew_coverage-zbyh4p",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "errorMessage": null,
+      "expiresAt": null,
+      "createdAt": "2026-11-14T20:32:49.434Z",
+      "updatedAt": "2026-11-14T20:32:49.434Z"
+    }
+  ],
+  "12": [
+    {
+      "id": "1aa0f205-dd8f-4999-bca4-778b0a1d7fd8",
+      "status": "QUEUED",
+      "territoryId": "11021572-3e2d-4cca-b380-2b1d38d96aa0",
+      "subthemeKey": "cobertura-copia-0j43ew_coverage-zbyh4p",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "errorMessage": null,
+      "expiresAt": null,
+      "createdAt": "2026-11-14T20:32:50.225Z",
+      "updatedAt": "2026-11-14T20:32:50.225Z"
+    }
+  ],
+  "13": [
+    {
+      "id": "d653bca8-8aa4-493e-9f84-427003d938a7",
+      "status": "QUEUED",
+      "territoryId": "7fa3e45c-28d0-43de-8993-4d1f90919164",
+      "subthemeKey": "cobertura-copia-0j43ew_coverage-zbyh4p",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "errorMessage": null,
+      "expiresAt": null,
+      "createdAt": "2026-11-14T20:32:50.253Z",
+      "updatedAt": "2026-11-14T20:32:50.253Z"
+    }
+  ],
+  "23": [
+    {
+      "id": "009b04d7-39cc-4e29-a173-69cbeba7ab8a",
+      "status": "QUEUED",
+      "territoryId": "91a238a5-1007-4019-b561-a8bf3f0ee61b",
+      "subthemeKey": "cobertura-copia-0j43ew_coverage-zbyh4p",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "errorMessage": null,
+      "expiresAt": null,
+      "createdAt": "2026-11-14T20:32:50.232Z",
+      "updatedAt": "2026-11-14T20:32:50.232Z"
+    }
+  ],
+  "24": [
+    {
+      "id": "b14456c7-3aca-4124-a941-9116208494a5",
+      "status": "QUEUED",
+      "territoryId": "7d65a0dc-4b0f-4088-b254-5d97bb3ed308",
+      "subthemeKey": "cobertura-copia-0j43ew_coverage-zbyh4p",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "errorMessage": null,
+      "expiresAt": null,
+      "createdAt": "2026-11-14T20:32:50.905Z",
+      "updatedAt": "2026-11-14T20:32:50.905Z"
+    }
+  ]
+}

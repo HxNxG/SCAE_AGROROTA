@@ -1,0 +1,53 @@
+{
+  "fecha_consulta": "2026-11-14",
+  "aoi": "01_suelos_y_salud_del_suelo/SMAP/geografia/costa_union_referencia_2019.geojson",
+  "aoi_sha256": "69cbcaa4e15f0fd7124c2809e891bfed9112dc6ff665c051b30f6f95b552d4d4",
+  "limites_aoi": [
+    -81.01134561049669,
+    -3.8899490826071004,
+    -78.42638916359947,
+    1.4695806000963956
+  ],
+  "crs": "EPSG:4326",
+  "resolucion_grados": 0.00025,
+  "estimacion_sin_compresion_por_epoca_bytes": 221729972,
+  "espacio_libre_inicial_bytes": 353627697152,
+  "archivos": [
+    {
+      "archivo": "glad_costa_dpa2019_2011.tif",
+      "epoca": "2008-2011",
+      "fuentes": [
+        "https://gladxfer.umd.edu/Potapov/Global_Crop/Data/Global_cropland_SW_2011.tif",
+        "https://gladxfer.umd.edu/Potapov/Global_Crop/Data/Global_cropland_NW_2011.tif"
+      ],
+      "bytes": 2498831,
+      "sha256": "54ad1156b1f72514fecf846e6d6c4a4e232b5c1ed29233fc836a331f6e4f8a84",
+      "pixeles_0": 89796032,
+      "pixeles_1": 3633432
+    },
+    {
+      "archivo": "glad_costa_dpa2019_2015.tif",
+      "epoca": "2012-2015",
+      "fuentes": [
+        "https://gladxfer.umd.edu/Potapov/Global_Crop/Data/Global_cropland_SW_2015.tif",
+        "https://gladxfer.umd.edu/Potapov/Global_Crop/Data/Global_cropland_NW_2015.tif"
+      ],
+      "bytes": 2498033,
+      "sha256": "74d021fe919d76bd228fe39b9e4253c4b29cad0055d74115698c2f06481add53",
+      "pixeles_0": 89453001,
+      "pixeles_1": 3976463
+    },
+    {
+      "archivo": "glad_costa_dpa2019_2019.tif",
+      "epoca": "2016-2019",
+      "fuentes": [
+        "https://gladxfer.umd.edu/Potapov/Global_Crop/Data/Global_cropland_SW_2019.tif",
+        "https://gladxfer.umd.edu/Potapov/Global_Crop/Data/Global_cropland_NW_2019.tif"
+      ],
+      "bytes": 2527319,
+      "sha256": "a2176ede759e5def3e3e6eeaa141419bd2e624dfef5f53d99e321ec27c947f72",
+      "pixeles_0": 89060069,
+      "pixeles_1": 4369395
+    }
+  ]
+}

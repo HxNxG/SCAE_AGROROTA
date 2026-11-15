@@ -1,0 +1,342 @@
+{
+  "fecha_ejecucion": "2026-11-14",
+  "catalogo": "https://cmr.earthdata.nasa.gov/search/granules.json",
+  "consulta_base": "cobertura_piloto_2026-11-14.json",
+  "bytes_libres_antes": 352977620992,
+  "bytes_estimados_maximo": 10000000,
+  "lado_pixeles": 33,
+  "justificacion": "Validar temperatura y ET de una misma adquisición por provincia",
+  "recortes": [
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "09",
+        "DPA_DESPRO": "GUAYAS"
+      },
+      "punto": [
+        -79.92613,
+        -1.95435
+      ],
+      "adquisicion": "20260919T180657",
+      "granulos": [
+        "ECOv002_L2T_LSTE_46535_015_17MPT_20260919T180657_0713_01",
+        "ECOv002_L3T_JET_46535_015_17MPT_20260919T180657_0713_01"
+      ],
+      "pixeles_validos": 434,
+      "pixeles_totales": 1089,
+      "crs": "EPSG:32717",
+      "archivos": [
+        {
+          "archivo": "09_20260919T180657_L2_LST.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_46535_015_17MPT_20260919T180657_0713_01/ECOv002_L2T_LSTE_46535_015_17MPT_20260919T180657_0713_01_LST.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 2407,
+          "sha256": "8fd03b317ee138ffa27806abe6234006b35c78687ba65ccd485871d13fa53c2e"
+        },
+        {
+          "archivo": "09_20260919T180657_L2_QC.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_46535_015_17MPT_20260919T180657_0713_01/ECOv002_L2T_LSTE_46535_015_17MPT_20260919T180657_0713_01_QC.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1313,
+          "sha256": "679fca2c6375a1fbc932580f7899781ed54555c2d8a2aad01cef7cbd71cabc17"
+        },
+        {
+          "archivo": "09_20260919T180657_L2_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_46535_015_17MPT_20260919T180657_0713_01/ECOv002_L2T_LSTE_46535_015_17MPT_20260919T180657_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1003,
+          "sha256": "e029d5359f734b4494a35540246cf68653e69fef82fb105b99dd61ec70d78937"
+        },
+        {
+          "archivo": "09_20260919T180657_L3_PTJPLSMinst.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_46535_015_17MPT_20260919T180657_0713_01/ECOv002_L3T_JET_46535_015_17MPT_20260919T180657_0713_01_PTJPLSMinst.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 3387,
+          "sha256": "9497fc6a73cf7b55ef64462e0a90053ac19bb52de842da694edf13d1889ae636"
+        },
+        {
+          "archivo": "09_20260919T180657_L3_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_46535_015_17MPT_20260919T180657_0713_01/ECOv002_L3T_JET_46535_015_17MPT_20260919T180657_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1003,
+          "sha256": "e029d5359f734b4494a35540246cf68653e69fef82fb105b99dd61ec70d78937"
+        }
+      ]
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "24",
+        "DPA_DESPRO": "SANTA ELENA"
+      },
+      "punto": [
+        -80.524089,
+        -2.087642
+      ],
+      "adquisicion": "20260919T180657",
+      "granulos": [
+        "ECOv002_L2T_LSTE_46535_015_17MNT_20260919T180657_0713_01",
+        "ECOv002_L3T_JET_46535_015_17MNT_20260919T180657_0713_01"
+      ],
+      "pixeles_validos": 3,
+      "pixeles_totales": 1089,
+      "crs": "EPSG:32717",
+      "archivos": [
+        {
+          "archivo": "24_20260919T180657_L2_LST.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_46535_015_17MNT_20260919T180657_0713_01/ECOv002_L2T_LSTE_46535_015_17MNT_20260919T180657_0713_01_LST.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1152,
+          "sha256": "bf0947f9ad029172258eeb81a470a43f777f556dfcefd50fd314b9d2246d316f"
+        },
+        {
+          "archivo": "24_20260919T180657_L2_QC.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_46535_015_17MNT_20260919T180657_0713_01/ECOv002_L2T_LSTE_46535_015_17MNT_20260919T180657_0713_01_QC.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1075,
+          "sha256": "ac9559db9acc623d21466f077e1a8c239ab67a10be47d1b34c6c0152bfcffc14"
+        },
+        {
+          "archivo": "24_20260919T180657_L2_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_46535_015_17MNT_20260919T180657_0713_01/ECOv002_L2T_LSTE_46535_015_17MNT_20260919T180657_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 965,
+          "sha256": "0501aeb954fd158c1d494355b2f699f600bf397db9671822a4d00640d254ccb8"
+        },
+        {
+          "archivo": "24_20260919T180657_L3_PTJPLSMinst.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_46535_015_17MNT_20260919T180657_0713_01/ECOv002_L3T_JET_46535_015_17MNT_20260919T180657_0713_01_PTJPLSMinst.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1186,
+          "sha256": "e5ac3d3f02af8dac4a49f5fca707170e4f9a9a1fc0b3038c69e3ed37ab36d8d9"
+        },
+        {
+          "archivo": "24_20260919T180657_L3_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_46535_015_17MNT_20260919T180657_0713_01/ECOv002_L3T_JET_46535_015_17MNT_20260919T180657_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 965,
+          "sha256": "0501aeb954fd158c1d494355b2f699f600bf397db9671822a4d00640d254ccb8"
+        }
+      ]
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "07",
+        "DPA_DESPRO": "EL ORO"
+      },
+      "punto": [
+        -79.842029,
+        -3.468564
+      ],
+      "adquisicion": "20260602T130821",
+      "granulos": [
+        "ECOv002_L2T_LSTE_44837_027_17MPS_20260602T130821_0713_01",
+        "ECOv002_L3T_JET_44837_027_17MPS_20260602T130821_0713_02"
+      ],
+      "pixeles_validos": 841,
+      "pixeles_totales": 1089,
+      "crs": "EPSG:32717",
+      "archivos": [
+        {
+          "archivo": "07_20260602T130821_L2_LST.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_44837_027_17MPS_20260602T130821_0713_01/ECOv002_L2T_LSTE_44837_027_17MPS_20260602T130821_0713_01_LST.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 2733,
+          "sha256": "202ec8742b0b0f9f3428f0696727ba1c51bf6420e18b492b465840eb8d1d2f67"
+        },
+        {
+          "archivo": "07_20260602T130821_L2_QC.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_44837_027_17MPS_20260602T130821_0713_01/ECOv002_L2T_LSTE_44837_027_17MPS_20260602T130821_0713_01_QC.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1255,
+          "sha256": "d73620827c64b71c2db529d027acaca013ebce943f8bf2292df24a844f649dc9"
+        },
+        {
+          "archivo": "07_20260602T130821_L2_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_44837_027_17MPS_20260602T130821_0713_01/ECOv002_L2T_LSTE_44837_027_17MPS_20260602T130821_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 933,
+          "sha256": "4ed29fec00f7362fc73526b287b318671f80c6b0dec83bcffcf8c3774864135e"
+        },
+        {
+          "archivo": "07_20260602T130821_L3_PTJPLSMinst.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_44837_027_17MPS_20260602T130821_0713_02/ECOv002_L3T_JET_44837_027_17MPS_20260602T130821_0713_02_PTJPLSMinst.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 4665,
+          "sha256": "66fd967963a7aeaa36a2445361026d8af96483c9aa580790d11f11c23c16ebeb"
+        },
+        {
+          "archivo": "07_20260602T130821_L3_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_44837_027_17MPS_20260602T130821_0713_02/ECOv002_L3T_JET_44837_027_17MPS_20260602T130821_0713_02_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 933,
+          "sha256": "4ed29fec00f7362fc73526b287b318671f80c6b0dec83bcffcf8c3774864135e"
+        }
+      ]
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "08",
+        "DPA_DESPRO": "ESMERALDAS"
+      },
+      "punto": [
+        -79.303676,
+        0.71498
+      ],
+      "adquisicion": "20260601T135726",
+      "granulos": [
+        "ECOv002_L2T_LSTE_44823_001_17NPA_20260601T135726_0713_01",
+        "ECOv002_L3T_JET_44823_001_17NPA_20260601T135726_0713_01"
+      ],
+      "pixeles_validos": 551,
+      "pixeles_totales": 1089,
+      "crs": "EPSG:32617",
+      "archivos": [
+        {
+          "archivo": "08_20260601T135726_L2_LST.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_44823_001_17NPA_20260601T135726_0713_01/ECOv002_L2T_LSTE_44823_001_17NPA_20260601T135726_0713_01_LST.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 2603,
+          "sha256": "69cdaaebd4dc67b4385ff828c14bae2899a63f733138635f73536fa0cc981bc0"
+        },
+        {
+          "archivo": "08_20260601T135726_L2_QC.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_44823_001_17NPA_20260601T135726_0713_01/ECOv002_L2T_LSTE_44823_001_17NPA_20260601T135726_0713_01_QC.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1261,
+          "sha256": "bc50b98c9eca7f189ba55db15751505378e9461f428816f9bf8e8c5a1de3b700"
+        },
+        {
+          "archivo": "08_20260601T135726_L2_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_44823_001_17NPA_20260601T135726_0713_01/ECOv002_L2T_LSTE_44823_001_17NPA_20260601T135726_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 933,
+          "sha256": "2dbb987e411bcb447d9be15f2e163d822b28b36dcfe21b6c2d208852afe8d104"
+        },
+        {
+          "archivo": "08_20260601T135726_L3_PTJPLSMinst.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_44823_001_17NPA_20260601T135726_0713_01/ECOv002_L3T_JET_44823_001_17NPA_20260601T135726_0713_01_PTJPLSMinst.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 4613,
+          "sha256": "df2108612aca4b8aebd8a930dbd1cb0b7ecb611f6f253911c22a403f81581810"
+        },
+        {
+          "archivo": "08_20260601T135726_L3_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_44823_001_17NPA_20260601T135726_0713_01/ECOv002_L3T_JET_44823_001_17NPA_20260601T135726_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 933,
+          "sha256": "2dbb987e411bcb447d9be15f2e163d822b28b36dcfe21b6c2d208852afe8d104"
+        }
+      ]
+    },
+    {
+      "provincia": {
+        "DPA_ANIO": "2019",
+        "DPA_PROVIN": "23",
+        "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS"
+      },
+      "punto": [
+        -79.174768,
+        -0.336957
+      ],
+      "adquisicion": "20260318T192156",
+      "granulos": [
+        "ECOv002_L2T_LSTE_43657_001_17MQV_20260318T192156_0713_01",
+        "ECOv002_L3T_JET_43657_001_17MQV_20260318T192156_0713_01"
+      ],
+      "pixeles_validos": 2,
+      "pixeles_totales": 1089,
+      "crs": "EPSG:32717",
+      "archivos": [
+        {
+          "archivo": "23_20260318T192156_L2_LST.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_43657_001_17MQV_20260318T192156_0713_01/ECOv002_L2T_LSTE_43657_001_17MQV_20260318T192156_0713_01_LST.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1850,
+          "sha256": "3811bb8343f8f71d8ddd338b0a439ffdf4dcc25b5b121652caec1a77d0041eff"
+        },
+        {
+          "archivo": "23_20260318T192156_L2_QC.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_43657_001_17MQV_20260318T192156_0713_01/ECOv002_L2T_LSTE_43657_001_17MQV_20260318T192156_0713_01_QC.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1041,
+          "sha256": "2928045b81c5e5f0d1a825ae17b79199bc913ffcbbaa2d7d1bbad1b0fcf33696"
+        },
+        {
+          "archivo": "23_20260318T192156_L2_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_43657_001_17MQV_20260318T192156_0713_01/ECOv002_L2T_LSTE_43657_001_17MQV_20260318T192156_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1027,
+          "sha256": "9a21308e7bbbda6d45093a3ad2c6a282c94cebb7b48cd39a22c123b8cd543f29"
+        },
+        {
+          "archivo": "23_20260318T192156_L3_PTJPLSMinst.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_43657_001_17MQV_20260318T192156_0713_01/ECOv002_L3T_JET_43657_001_17MQV_20260318T192156_0713_01_PTJPLSMinst.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 2576,
+          "sha256": "1179bb1b0ab6b1b39d75026ebe503ad9502c1b4ce7cf88c943de0d81218bb568"
+        },
+        {
+          "archivo": "23_20260318T192156_L3_cloud.tif",
+          "origen": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ECO_L3T_JET.002/ECOv002_L3T_JET_43657_001_17MQV_20260318T192156_0713_01/ECOv002_L3T_JET_43657_001_17MQV_20260318T192156_0713_01_cloud.tif",
+          "escala": 1.0,
+          "offset": 0.0,
+          "unidad_geotiff": null,
+          "bytes": 1027,
+          "sha256": "9a21308e7bbbda6d45093a3ad2c6a282c94cebb7b48cd39a22c123b8cd543f29"
+        }
+      ]
+    }
+  ],
+  "errores": []
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://geoportal.eeq.com.ec/arcgis/rest/services/WEBGIS/Visor_cartografia/MapServer/30/query?where=DPA_PROVIN+IN+%28%2707%27%2C%2708%27%2C%2709%27%2C%2712%27%2C%2713%27%2C%2723%27%2C%2724%27%29&outFields=DPA_ANIO%2CDPA_PROVIN%2CDPA_DESPRO%2CDPA_CANTON%2CDPA_DESCAN&outSR=4326&returnGeometry=true&f=geojson",
+  "estimated_max_bytes": 30000000,
+  "free_bytes_before_download": 353274560512,
+  "purpose": "Cruzar la malla IMERG con los cantones de las siete provincias",
+  "query_date": "2026-11-14",
+  "urls": [
+    "https://geoportal.eeq.com.ec/arcgis/rest/services/WEBGIS/Visor_cartografia/MapServer/30/query?where=DPA_PROVIN%3D%2707%27&outFields=DPA_ANIO%2CDPA_PROVIN%2CDPA_DESPRO%2CDPA_CANTON%2CDPA_DESCAN&outSR=4326&f=geojson",
+    "https://geoportal.eeq.com.ec/arcgis/rest/services/WEBGIS/Visor_cartografia/MapServer/30/query?where=DPA_PROVIN%3D%2708%27&outFields=DPA_ANIO%2CDPA_PROVIN%2CDPA_DESPRO%2CDPA_CANTON%2CDPA_DESCAN&outSR=4326&f=geojson",
+    "https://geoportal.eeq.com.ec/arcgis/rest/services/WEBGIS/Visor_cartografia/MapServer/30/query?where=DPA_PROVIN%3D%2709%27&outFields=DPA_ANIO%2CDPA_PROVIN%2CDPA_DESPRO%2CDPA_CANTON%2CDPA_DESCAN&outSR=4326&f=geojson",
+    "https://geoportal.eeq.com.ec/arcgis/rest/services/WEBGIS/Visor_cartografia/MapServer/30/query?where=DPA_PROVIN%3D%2712%27&outFields=DPA_ANIO%2CDPA_PROVIN%2CDPA_DESPRO%2CDPA_CANTON%2CDPA_DESCAN&outSR=4326&f=geojson",
+    "https://geoportal.eeq.com.ec/arcgis/rest/services/WEBGIS/Visor_cartografia/MapServer/30/query?where=DPA_PROVIN%3D%2713%27&outFields=DPA_ANIO%2CDPA_PROVIN%2CDPA_DESPRO%2CDPA_CANTON%2CDPA_DESCAN&outSR=4326&f=geojson",
+    "https://geoportal.eeq.com.ec/arcgis/rest/services/WEBGIS/Visor_cartografia/MapServer/30/query?where=DPA_PROVIN%3D%2723%27&outFields=DPA_ANIO%2CDPA_PROVIN%2CDPA_DESPRO%2CDPA_CANTON%2CDPA_DESCAN&outSR=4326&f=geojson",
+    "https://geoportal.eeq.com.ec/arcgis/rest/services/WEBGIS/Visor_cartografia/MapServer/30/query?where=DPA_PROVIN%3D%2724%27&outFields=DPA_ANIO%2CDPA_PROVIN%2CDPA_DESPRO%2CDPA_CANTON%2CDPA_DESCAN&outSR=4326&f=geojson"
+  ],
+  "count": 86,
+  "bytes": 70607883,
+  "sha256": "b9738e4d5f9602a4237b97be3caf9f2d53ef3709ec097a837b648eb807ebb4aa"
+}

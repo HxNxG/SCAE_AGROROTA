@@ -1,0 +1,17 @@
+{
+  "product": "ISRIC SoilGrids 250 m v2.0",
+  "license": "CC BY 4.0",
+  "requested_2026-11-14": 144,
+  "estimated_uncompressed_bytes": 788814720,
+  "free_bytes_before_download": 353028743168,
+  "geographic_reference": "SMAP\\geografia\\costa_provincias_referencia_2019.geojson",
+  "purpose": "Caracterizar pH, textura, carbono y nitrógeno por profundidad para evaluar aptitud del suelo.",
+  "estimated_rectangle": [
+    -9016500,
+    -433250,
+    -8730500,
+    163750
+  ],
+  "resolution_m": 250,
+  "temporal_coverage": "Predicción edáfica estática, sin serie anual"
+}
