@@ -55,7 +55,7 @@ La preparación genera primero el límite cantonal desde los datos del repositor
 
 La portada pública muestra el mapa de Babahoyo con zoom, selección de ubicación y capas de lluvia, humedad y temperatura. Consulta la atribución de los [límites públicos CONALI 2026](frontend/pages/cartography/ATTRIBUTION.md). La serie histórica de lluvia conserva el límite DPA 2019 con el que se calculó. Debajo del mapa aparece el diagnóstico interactivo guardado de Pimocha. Para otras consultas de IA, observaciones o la capa de susceptibilidad a inundaciones, usa la instalación local.
 
-Abre la [demo pública de BioTinder](https://hxnxg.github.io/SCAE_AGROROTA/). Para volver a publicarla, ejecuta el [workflow BioTinder Pages](https://github.com/HxNxG/SCAE_AGROROTA/actions/workflows/pages.yml) sobre `main`.
+Abre la [demo pública de BioTinder](https://hxnxg.github.io/SCAE_BIOTINDER/). Para volver a publicarla, ejecuta el [workflow BioTinder Pages](https://github.com/HxNxG/SCAE_BIOTINDER/actions/workflows/pages.yml) sobre `main`.
 
 Para compilar la misma portada desde la raíz en un directorio vacío, ejecuta `python proyecto-agricultura-ia/scripts/build_pages.py _site`. El script incluye solo el código del visor, los límites abiertos, los recortes climáticos y el ejemplo guardado.
 

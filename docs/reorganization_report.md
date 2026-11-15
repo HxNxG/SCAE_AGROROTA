@@ -5,7 +5,7 @@ Base `9a0d9b107d9a43806e1da531a0cb28e9fa4d7442`. Work is on the local branch `bi
 ## Final layout
 
 ```text
-SCAE_AGROROTA/
+SCAE_BIOTINDER/
 ├── README.md                         International evaluation guide
 ├── docs/                             Audit, methods, verification and handoff
 ├── 01_…/ through 10_…/                 Data packages and their source tooling
