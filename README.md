@@ -7,7 +7,7 @@ Rice growers deciding what to plant after harvest need to weigh seasonal rain, d
 | Start here | What you will find |
 | --- | --- |
 | [Run the full prototype](proyecto-agricultura-ia/README.md#ejecutar-biotinder-localmente) | The browser viewer and its two local FastAPI services |
-| [Open the public demo](https://hxnxg.github.io/SCAE_AGROROTA/) | Interactive example saved for Pimocha under a drought scenario |
+| [Open the public map](https://hxnxg.github.io/SCAE_AGROROTA/) | Explore Babahoyo's rainfall, moisture and surface temperature, then view a saved Pimocha diagnosis |
 | [Data and model evidence](docs/data_and_model.md) | Provenance, reproducible checks and limits of the reported metrics |
 | [Repository audit](docs/reorganization_audit.md) | Inventory, placeholders and paths kept stable |
 | [Verification and handoff](docs/reorganization_report.md) | Tests, file changes and remaining work |
@@ -18,7 +18,7 @@ Rice growers deciding what to plant after harvest need to weigh seasonal rain, d
 - **Rotation comparison.** Enter the growing sector, current practice, start month, summer water source, terrain, goal and scenario. Inspect three strategy cards and their 18-month calendars.
 - **Optional local layers.** Download parish boundaries and flood susceptibility with the documented setup command. Susceptibility classes describe terrain exposure. They do not show active flooding.
 - **Field observations.** Submit notes to a local file marked pending review. A review interface, production authentication and multi-user storage remain pending.
-- **Static preview.** GitHub Pages serves the saved Pimocha example. Live scenario queries and field observations require the local FastAPI services.
+- **Public map.** GitHub Pages opens directly on Babahoyo. Its climate layers and coordinate check load from versioned public files, with the saved Pimocha diagnosis underneath. Live scenario queries and field observations require FastAPI.
 
 ## Architecture
 

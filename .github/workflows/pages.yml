@@ -21,16 +21,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
-      - name: Preparar demostración estática
-        run: |
-          frontend=proyecto-agricultura-ia/frontend
-          mkdir -p _site/src/components _site/src/services _site/src/vendor
-          cp "$frontend"/pages/* _site/
-          cp "$frontend/src/styles.css" _site/src/
-          cp "$frontend/src/components/recommendations.js" _site/src/components/
-          cp "$frontend/src/services/aiApi.js" _site/src/services/
-          cp "$frontend"/src/vendor/pico.* _site/src/vendor/
-          touch _site/.nojekyll
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Preparar mapa y demostración estáticos
+        run: python proyecto-agricultura-ia/scripts/build_pages.py _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

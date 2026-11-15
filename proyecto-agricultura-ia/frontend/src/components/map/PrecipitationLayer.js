@@ -132,9 +132,11 @@ export function mountPrecipitation(panel, { project, layer }, onFrameChange) {
       timeline.value = timeline.max;
       timeline.disabled = false;
       await showMonth();
-    } catch {
+    } catch (error) {
       if (controller.signal.aborted) return;
-      status.textContent = 'No se pudieron cargar los meses disponibles.';
+      status.textContent = [502, 503].includes(error.status)
+        ? 'El servicio climático local no está disponible. Arráncalo y vuelve a intentarlo.'
+        : 'No se pudieron cargar los meses disponibles.';
       retry.hidden = false;
     }
   }

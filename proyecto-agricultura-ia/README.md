@@ -53,9 +53,11 @@ La preparación genera primero el límite cantonal desde los datos del repositor
 
 ### Demostración y GitHub Pages
 
-La demostración estática muestra el diagnóstico interactivo de Pimocha con una respuesta guardada. Usa la instalación local para consultar otros escenarios, explorar las capas del mapa o enviar observaciones.
+La portada pública muestra el mapa de Babahoyo con zoom, selección de ubicación y capas de lluvia, humedad y temperatura. Consulta la atribución de los [límites públicos CONALI 2026](frontend/pages/cartography/ATTRIBUTION.md). La serie histórica de lluvia conserva el límite DPA 2019 con el que se calculó. Debajo del mapa aparece el diagnóstico interactivo guardado de Pimocha. Para otras consultas de IA, observaciones o la capa de susceptibilidad a inundaciones, usa la instalación local.
 
 Abre la [demo pública de BioTinder](https://hxnxg.github.io/SCAE_AGROROTA/). Para volver a publicarla, ejecuta el [workflow BioTinder Pages](https://github.com/HxNxG/SCAE_AGROROTA/actions/workflows/pages.yml) sobre `main`.
+
+Para compilar la misma portada desde la raíz en un directorio vacío, ejecuta `python proyecto-agricultura-ia/scripts/build_pages.py _site`. El script incluye solo el código del visor, los límites abiertos, los recortes climáticos y el ejemplo guardado.
 
 Abrir <http://127.0.0.1:5173>. Si ese puerto está ocupado, configura `$env:PORT` antes de iniciar Node.js. Seleccionar un punto en el mapa o ingresar longitud y latitud. Por ejemplo, usar longitud `-79.526` y latitud `-1.802`. Tras aceptar el punto, la ficha muestra la serie IMERG de enero de 2010 a septiembre de 2025. La lluvia se resume a escala cantonal. Una ubicación fuera de Babahoyo deja la ficha sin resultados.
 

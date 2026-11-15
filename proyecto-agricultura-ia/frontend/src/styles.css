@@ -26,8 +26,8 @@ body { margin: 0; }
 .climate-rain-outlook dl { margin: 0; }
 .climate-rain-outlook dt { margin-top: .35rem; font-weight: 700; }
 .climate-rain-outlook dd { margin: 0; }
-.recommendations-link { color: inherit; }
-.poi-selector { display: grid; gap: 4px; margin-block: 8px; font-size: .875rem; }
+.recommendations-link { color: inherit; pointer-events: auto; }
+.poi-selector { display: grid; gap: 4px; margin-block: 8px; font-size: .875rem; pointer-events: auto; }
 .parish-outlines { stroke: #405c51; stroke-opacity: .65; stroke-width: 1px; }
 .poi-area { stroke: #174c38; stroke-width: 3px; }
 #recommendations {
@@ -336,7 +336,7 @@ button { cursor: pointer; }
   font-weight: 700;
   pointer-events: auto;
 }
-.layer-chooser select, .frame-time-control select {
+.layer-chooser select, .frame-time-control select, .poi-selector select {
   min-width: 0;
   max-width: 100%;
   padding: 4px;

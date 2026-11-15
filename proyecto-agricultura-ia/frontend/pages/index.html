@@ -1,34 +1,28 @@
 <!doctype html>
-<html lang="es">
+<html lang="es" data-mode="pages">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#174c38">
-  <meta name="description" content="BioTinder compara estrategias de rotación arrocera y su adaptación al clima en Babahoyo, Ecuador.">
-  <title>BioTinder · Rotación agrícola</title>
+  <meta name="description" content="Mapa de Babahoyo con lluvia mensual, humedad y temperatura superficial para explorar la rotación arrocera.">
+  <title>BioTinder · Mapa de Babahoyo</title>
   <link rel="stylesheet" href="./src/vendor/pico.conditional.min.css">
   <link rel="stylesheet" href="./src/styles.css">
   <link rel="stylesheet" href="./pages.css">
 </head>
 <body>
-  <header class="bio-header">
-    <a href="./" class="bio-brand">BioTinder</a>
-    <a href="https://github.com/HxNxG/SCAE_AGROROTA">Repositorio</a>
-  </header>
-  <main>
-    <div class="bio-intro">
-      <p>Babahoyo, Los Ríos · Ecuador</p>
-      <h1>Planifica la rotación de tu arroz.</h1>
-      <p>Compara el manejo actual con dos planes de cultivo y explora cómo cambia cada ciclo durante 18 meses.</p>
-      <a href="#recommendations">Explorar el diagnóstico</a>
-    </div>
-    <section id="recommendations" class="pico" data-theme="light" aria-labelledby="recommendations-title">
-      <p role="status">Cargando el ejemplo de Pimocha…</p>
-    </section>
-  </main>
+  <div id="app"><p role="status">Cargando el mapa de Babahoyo…</p></div>
+  <noscript>Activa JavaScript para explorar el mapa y el calendario.</noscript>
   <footer class="bio-footer">
-    <a href="https://github.com/HxNxG/SCAE_AGROROTA/blob/main/proyecto-agricultura-ia/README.md">Guía para ejecutar el visor y la API</a>
+    <nav aria-label="Fuentes y documentación">
+      <a href="#visor">Volver al mapa</a>
+      <a href="https://github.com/HxNxG/SCAE_AGROROTA">Repositorio</a>
+      <a href="https://github.com/HxNxG/SCAE_AGROROTA/blob/main/proyecto-agricultura-ia/README.md">Abrir el visor y las API en local</a>
+    </nav>
+    <p>Datos climáticos de NASA: <a href="https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGM_07/summary">GPM IMERG Final V07B</a>,
+      <a href="https://nsidc.org/data/spl4smgp/versions/8">SMAP L4 v008 (Reichle y colaboradores, 2025)</a> y
+      <a href="https://doi.org/10.5067/MODIS/MOD11C3.061">Terra MODIS MOD11C3.061</a>.</p>
   </footer>
-  <script type="module" src="./pages.js"></script>
+  <script type="module" src="./src/main.js"></script>
 </body>
 </html>

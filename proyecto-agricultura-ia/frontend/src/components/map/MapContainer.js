@@ -1,4 +1,5 @@
 import { fromWorld, mountBasemap, SATELLITE_DATE, toWorld } from './Basemap.js';
+import { isPublicMap, loadPublicBoundary } from '../../services/pagesGeography.js';
 
 const WIDTH = 640;
 const HEIGHT = 440;
@@ -14,14 +15,18 @@ const pointsOfInterest = [
 ];
 
 export async function mountMap(container, controls, onPointChange) {
-  const [response, parishResponse] = await Promise.all([
-    fetch(new URL('./babahoyo-display.json', import.meta.url)),
-    fetch(new URL('./babahoyo-parroquias-2023.json', import.meta.url)).catch(() => null),
+  const [boundary, parishResponse] = await Promise.all([
+    isPublicMap ? loadPublicBoundary() : fetch(new URL('./babahoyo-display.json', import.meta.url))
+      .then(response => {
+        if (!response.ok) throw new Error('Límite de referencia no disponible');
+        return response.json();
+      }),
+    fetch(new URL(isPublicMap ? '../../../cartography/parroquias.geojson' : './babahoyo-parroquias-2023.json',
+      import.meta.url)).catch(() => null),
   ]);
-  if (!response.ok) throw new Error('Límite de referencia no disponible');
-  const boundary = await response.json();
   const parishes = parishResponse?.ok ? (await parishResponse.json()).features : [];
-  const rings = boundary.geometry.coordinates;
+  const rings = boundary.geometry.type === 'MultiPolygon'
+    ? boundary.geometry.coordinates.flat() : boundary.geometry.coordinates;
   const worldPositions = rings.flat().map(toWorld);
   const xValues = worldPositions.map(([x]) => x);
   const yValues = worldPositions.map(([, y]) => y);
@@ -119,14 +124,15 @@ export async function mountMap(container, controls, onPointChange) {
   }
   const poiMarkers = pointsOfInterest.filter(([, code]) => parishShapes.has(code)).map(([name, code, coordinates]) => {
     const link = svgElement('a');
-    link.setAttribute('href', '#recommendations');
+    link.setAttribute('href', isPublicMap ? '#visor' : '#recommendations');
     link.dataset.sector = name === 'Pimocha' ? 'Pimocha (Bajial)' : name;
     selector.add(new Option(name, link.dataset.sector));
-    link.addEventListener('click', () => {
+    link.addEventListener('click', event => {
+      if (isPublicMap) event.preventDefault();
       selector.value = link.dataset.sector;
       selector.dispatchEvent(new Event('change', { bubbles: true }));
     });
-    link.setAttribute('aria-label', 'Consultar recomendaciones de ' + name);
+    link.setAttribute('aria-label', (isPublicMap ? 'Enfocar ' : 'Consultar recomendaciones de ') + name);
     const dot = svgElement('circle');
     dot.setAttribute('r', '7');
     const label = svgElement('text');

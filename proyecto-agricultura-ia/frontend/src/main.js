@@ -5,6 +5,7 @@ import { temperatureLayers, mountTemperature } from './components/map/Temperatur
 import { mountCellReading } from './components/map/CellReading.js';
 import { mountRecommendations } from './components/recommendations.js';
 import { mountFloodSusceptibility } from './components/map/FloodSusceptibility.js';
+import { isPublicMap } from './services/pagesGeography.js';
 
 const app = document.querySelector('#app');
 app.innerHTML = `
@@ -20,7 +21,7 @@ app.innerHTML = `
     <label class="poi-selector" hidden>Área de interés
       <select id="poi-selector"><option value="">Todo Babahoyo</option></select>
     </label>
-    <a class="recommendations-link" href="#recommendations">Recomendaciones de cultivo</a>
+    <a class="recommendations-link" href="#recommendations">${isPublicMap ? 'Ver ejemplo de Pimocha' : 'Recomendaciones de cultivo'}</a>
     <label class="layer-chooser" hidden>Capa
       <select id="climate-layer">
         <option value="precipitation">Lluvia mensual</option>
@@ -28,7 +29,7 @@ app.innerHTML = `
         <option value="rootzone">${moistureLayers.rootzone.title}</option>
         <option value="day">${temperatureLayers.day.title}</option>
         <option value="night">${temperatureLayers.night.title}</option>
-        <option value="flood">Susceptibilidad a inundaciones</option>
+        ${isPublicMap ? '' : '<option value="flood">Susceptibilidad a inundaciones</option>'}
       </select>
     </label>
   </header>
@@ -91,8 +92,9 @@ app.innerHTML = `
 
   <p class="map-attribution">
     © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>
+    ${isPublicMap ? '<span> · <a href="./cartography/ATTRIBUTION.md">Límites CONALI 2026 · geoecu</a></span>' : `
     <span> · Cantón: CONALI 2019, vía EEQ</span>
-    <span> · <a href="https://sgrportal.gestionderiesgos.gob.ec/server/rest/services/Hosted/OT_PARROQUIAL/FeatureServer/0" target="_blank" rel="noopener">Parroquias: CONALI 2023</a></span>
+    <span> · <a href="https://sgrportal.gestionderiesgos.gob.ec/server/rest/services/Hosted/OT_PARROQUIAL/FeatureServer/0" target="_blank" rel="noopener">Parroquias: CONALI 2023</a></span>`}
   </p>
   <section id="flood-panel" class="frame-panel" aria-labelledby="flood-heading" hidden>
     <h2 id="flood-heading">Susceptibilidad a inundaciones</h2>
@@ -152,10 +154,33 @@ app.innerHTML = `
 </main>
 <section id="recommendations" class="pico" data-theme="light" aria-labelledby="recommendations-title"></section>`;
 
-mountRecommendations(app.querySelector('#recommendations'));
-app.querySelector('#poi-selector').addEventListener('change', event => {
-  if (event.target.value) app.querySelector('#recommendations select[name="zona"]').value = event.target.value;
-});
+const recommendations = app.querySelector('#recommendations');
+if (isPublicMap) {
+  recommendations.removeAttribute('aria-labelledby');
+  const status = document.createElement('p');
+  status.setAttribute('role', 'status');
+  status.textContent = 'Cargando el ejemplo de Pimocha…';
+  recommendations.append(status);
+  fetch(new URL('../pimocha-demo.json', import.meta.url))
+    .then(response => {
+      if (!response.ok) throw new Error('Demo no disponible');
+      return response.json();
+    })
+    .then(data => {
+      recommendations.replaceChildren();
+      mountRecommendations(recommendations, data);
+      recommendations.setAttribute('aria-labelledby', 'recommendations-title');
+    })
+    .catch(() => {
+      status.textContent = 'No se pudo cargar el ejemplo de Pimocha.';
+      recommendations.replaceChildren(status);
+    });
+} else {
+  mountRecommendations(recommendations);
+  app.querySelector('#poi-selector').addEventListener('change', event => {
+    if (event.target.value) recommendations.querySelector('select[name="zona"]').value = event.target.value;
+  });
+}
 
 const rainReading = {
   title: 'Precipitación en la celda', source: 'IMERG mensual · Celda de 0,1°',
