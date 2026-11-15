@@ -1,6 +1,9 @@
 """Assemble the public map and saved diagnosis in an empty directory."""
 
 import argparse
+import json
+import os
+import re
 from pathlib import Path
 from shutil import copy2
 
@@ -8,11 +11,18 @@ from build_pages_climate import export_climate
 
 
 FRONTEND = Path(__file__).resolve().parents[1] / "frontend"
+HTTPS_ORIGIN = re.compile(
+    r"https://(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,63}/?",
+    re.IGNORECASE | re.ASCII,
+)
 
 
 def build(output):
     if output.exists() and any(output.iterdir()):
         raise ValueError("Pages output must be an empty directory")
+    api_url = os.environ.get("BIOTINDER_API_URL", "").strip()
+    if api_url and not HTTPS_ORIGIN.fullmatch(api_url):
+        raise ValueError("BIOTINDER_API_URL must be an HTTPS origin without a path, query or credentials")
     files = [
         "index.html", "pages.css", "pimocha-demo.json",
         "cartography/babahoyo.geojson", "cartography/parroquias.geojson",
@@ -36,6 +46,9 @@ def build(output):
         target.parent.mkdir(parents=True, exist_ok=True)
         copy2(FRONTEND / name, target)
     export_climate(output / "climate")
+    (output / "config.json").write_text(
+        json.dumps({"apiOrigin": api_url.rstrip("/").lower() or None}) + "\n", encoding="utf-8"
+    )
     (output / ".nojekyll").touch()
 
 

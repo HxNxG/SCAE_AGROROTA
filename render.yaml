@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: biotinder-fastapi
+    runtime: python
+    plan: free
+    region: oregon
+    branch: main
+    autoDeployTrigger: "off"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m uvicorn backend.app:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.13.5"
+      - key: BIOTINDER_PUBLIC_INFERENCE
+        value: "1"
+      - key: BIOTINDER_PUBLIC_ORIGIN
+        value: https://hxnxg.github.io
+      - key: OPENBLAS_NUM_THREADS
+        value: "1"
+      - key: OMP_NUM_THREADS
+        value: "1"

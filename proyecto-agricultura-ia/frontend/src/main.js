@@ -155,32 +155,63 @@ app.innerHTML = `
 <section id="recommendations" class="pico" data-theme="light" aria-labelledby="recommendations-title"></section>`;
 
 const recommendations = app.querySelector('#recommendations');
+const poiSelector = app.querySelector('#poi-selector');
+
+async function loadPageJson(path) {
+  const response = await fetch(new URL(path, import.meta.url));
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response.json();
+}
+
+function publicApiOrigin(config) {
+  if (!config?.apiOrigin) return undefined;
+  try {
+    const url = new URL(config.apiOrigin);
+    if (url.protocol === 'https:' && url.origin === config.apiOrigin) return url.origin;
+  } catch {
+    // An invalid public configuration keeps the site in example mode.
+  }
+  return undefined;
+}
+
+function useSelectedSector() {
+  const zone = recommendations.querySelector('select[name="zona"]');
+  if (zone && poiSelector.value) zone.value = poiSelector.value;
+}
+
 if (isPublicMap) {
   recommendations.removeAttribute('aria-labelledby');
   const status = document.createElement('p');
   status.setAttribute('role', 'status');
   status.textContent = 'Cargando el ejemplo de Pimocha…';
   recommendations.append(status);
-  fetch(new URL('../pimocha-demo.json', import.meta.url))
-    .then(response => {
-      if (!response.ok) throw new Error('Demo no disponible');
-      return response.json();
-    })
-    .then(data => {
+  Promise.allSettled([loadPageJson('../config.json'), loadPageJson('../pimocha-demo.json')])
+    .then(([config, demo]) => {
+      const apiOrigin = config.status === 'fulfilled' ? publicApiOrigin(config.value) : undefined;
       recommendations.replaceChildren();
-      mountRecommendations(recommendations, data);
-      recommendations.setAttribute('aria-labelledby', 'recommendations-title');
-    })
-    .catch(() => {
-      status.textContent = 'No se pudo cargar el ejemplo de Pimocha.';
-      recommendations.replaceChildren(status);
+      let example = recommendations;
+      if (apiOrigin) {
+        mountRecommendations(recommendations, undefined, { apiOrigin, allowFeedback: false });
+        app.querySelector('.recommendations-link').textContent = 'Generar diagnóstico';
+        useSelectedSector();
+        example = document.createElement('section');
+        example.id = 'saved-example';
+        recommendations.append(example);
+        recommendations.setAttribute('aria-labelledby', 'recommendations-title');
+      }
+      try {
+        if (demo.status !== 'fulfilled' || !demo.value) throw new Error('Demo no disponible');
+        mountRecommendations(example, demo.value);
+        example.setAttribute('aria-labelledby', `${example.id}-title`);
+      } catch {
+        status.textContent = 'No se pudo cargar el ejemplo de Pimocha.';
+        example.replaceChildren(status);
+      }
     });
 } else {
   mountRecommendations(recommendations);
-  app.querySelector('#poi-selector').addEventListener('change', event => {
-    if (event.target.value) recommendations.querySelector('select[name="zona"]').value = event.target.value;
-  });
 }
+poiSelector.addEventListener('change', useSelectedSector);
 
 const rainReading = {
   title: 'Precipitación en la celda', source: 'IMERG mensual · Celda de 0,1°',

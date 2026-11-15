@@ -5,7 +5,7 @@ import math
 import joblib
 import numpy as np
 from datetime import datetime
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -15,9 +15,16 @@ MODEL_PATH = ROOT / "backend" / "modelo_ensamble_babahoyo.joblib"
 OBSERVATIONS_PATH = Path(os.environ.get(
     "BIOTINDER_OBSERVATIONS_PATH", ROOT / "data" / "aportes_pendientes_revision.json"
 )).expanduser().resolve()
+PUBLIC_INFERENCE = os.environ.get("BIOTINDER_PUBLIC_INFERENCE") == "1"
+PUBLIC_ORIGIN = os.environ.get("BIOTINDER_PUBLIC_ORIGIN", "https://hxnxg.github.io")
 
 app = FastAPI(title="BioTinder · AgroRota Ecuador")
-app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[PUBLIC_ORIGIN] if PUBLIC_INFERENCE else ["*"],
+    allow_methods=["GET", "POST"] if PUBLIC_INFERENCE else ["*"],
+    allow_headers=["Content-Type"] if PUBLIC_INFERENCE else ["*"],
+)
 
 # Cargar el ensamble neuronal recién entrenado
 ARTEFACTO = joblib.load(MODEL_PATH)
@@ -388,6 +395,9 @@ def recomendar_estrategias(q: ConsultaParcela):
 
 @app.post("/api/aportar-datos")
 def guardar_aporte_revision(aporte: AporteSector):
+    if PUBLIC_INFERENCE:
+        raise HTTPException(status_code=403, detail="El registro de observaciones solo está disponible en el visor local.")
+
     archivo = OBSERVATIONS_PATH
     archivo.parent.mkdir(parents=True, exist_ok=True)
     registros = []
@@ -409,6 +419,10 @@ def guardar_aporte_revision(aporte: AporteSector):
         "mensaje": "Aporte registrado correctamente. Pasará a revisión técnica antes de actualizar la red neuronal.",
         "total_pendientes": len(registros)
     }
+
+@app.get("/healthz", include_in_schema=False)
+def health():
+    return {"status": "ok"}
 
 @app.get("/")
 def estado_api():

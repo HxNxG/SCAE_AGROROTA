@@ -25,6 +25,8 @@ jobs:
         with:
           python-version: '3.12'
       - name: Preparar mapa y demostración estáticos
+        env:
+          BIOTINDER_API_URL: ${{ vars.BIOTINDER_API_URL }}
         run: python proyecto-agricultura-ia/scripts/build_pages.py _site
       - uses: actions/upload-pages-artifact@v3
         with:

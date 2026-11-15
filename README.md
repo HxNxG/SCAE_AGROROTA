@@ -8,6 +8,7 @@ Rice growers deciding what to plant after harvest need to weigh seasonal rain, d
 | --- | --- |
 | [Run the full prototype](proyecto-agricultura-ia/README.md#ejecutar-biotinder-localmente) | The browser viewer and its two local FastAPI services |
 | [Open the public map](https://hxnxg.github.io/SCAE_AGROROTA/) | Explore Babahoyo's rainfall, moisture and surface temperature, then view a saved Pimocha diagnosis |
+| [Connect live recommendations](docs/deploy_render.md) | Deploy FastAPI on Render and point GitHub Pages to it |
 | [Data and model evidence](docs/data_and_model.md) | Provenance, reproducible checks and limits of the reported metrics |
 | [Repository audit](docs/reorganization_audit.md) | Inventory, placeholders and paths kept stable |
 | [Verification and handoff](docs/reorganization_report.md) | Tests, file changes and remaining work |

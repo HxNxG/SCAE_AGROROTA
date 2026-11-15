@@ -83,7 +83,7 @@ function details(title, ...content) {
   return element('details', element('summary', title), ...content);
 }
 
-function strategyCard(strategy, index) {
+function strategyCard(strategy, index, calendarPrefix) {
   const summary = strategy.resumen_5_logros ?? {};
   const technical = strategy.tecnico_nasa ?? {};
   const confidence = technical.confianza_ia;
@@ -117,7 +117,7 @@ function strategyCard(strategy, index) {
   calendarSummary.setAttribute('aria-label', 'Secuencia de cultivos por mes');
   const monthDetail = element('div');
   monthDetail.className = 'ai-month-detail';
-  monthDetail.id = `strategy-month-${index}`;
+  monthDetail.id = `${calendarPrefix}-month-${index}`;
   let activeMonth;
   for (const month of timeline) {
     const tile = element('button', month.mes_nombre);
@@ -179,12 +179,14 @@ function strategyCard(strategy, index) {
   return card;
 }
 
-function renderResults(container, response, scenario) {
+function renderResults(container, response, scenario, calendarPrefix) {
   if (!Array.isArray(response?.estrategias) || !response.estrategias.length) {
     throw new Error('La API no devolvió estrategias para mostrar.');
   }
   const metrics = response.metricas_modelo ?? {};
-  const comparison = element('div', ...response.estrategias.map(strategyCard));
+  const comparison = element('div', ...response.estrategias.map(
+    (strategy, index) => strategyCard(strategy, index, calendarPrefix),
+  ));
   comparison.className = 'ai-grid';
   const demo = response.modo === 'demo' || /\bdemostración\s*$/i.test(response.zona ?? '');
   const title = element('h3', demo ? 'Ejemplo de Pimocha' : `${response.zona} · ${scenario}`);
@@ -205,14 +207,14 @@ function renderResults(container, response, scenario) {
   return title;
 }
 
-function handleSubmit(form, status, action) {
+function handleSubmit(form, status, action, pendingMessage = 'Enviando…') {
   const button = form.querySelector('button');
   form.addEventListener('submit', async event => {
     event.preventDefault();
     if (button.disabled) return;
     const data = Object.fromEntries(new FormData(form));
     button.disabled = true;
-    status.textContent = 'Enviando…';
+    status.textContent = pendingMessage;
     try {
       await action(data);
     } catch (error) {
@@ -223,13 +225,14 @@ function handleSubmit(form, status, action) {
   });
 }
 
-export function mountRecommendations(section, demoResponse) {
-  const heading = element('h2', 'Recomendaciones de cultivo');
-  heading.id = 'recommendations-title';
+export function mountRecommendations(section, demoResponse, { apiOrigin, allowFeedback = true } = {}) {
+  const heading = element('h2', demoResponse && section.id === 'saved-example'
+    ? 'Diagnóstico de ejemplo' : 'Recomendaciones de cultivo');
+  heading.id = `${section.id}-title`;
   if (demoResponse) {
     const comparison = element('div');
     section.append(heading, comparison);
-    renderResults(comparison, demoResponse, 'Sequía');
+    renderResults(comparison, demoResponse, 'Sequía', section.id);
     return;
   }
   const status = element('p');
@@ -243,6 +246,25 @@ export function mountRecommendations(section, demoResponse) {
   element('div', submit));
   form.className = 'ai-form';
 
+  const adaptation = details('Cómo evaluar la adaptación al cambio climático',
+    element('p', 'Simula tu rotación de 18 meses en condiciones normales, de sequía o de El Niño. Compara las alertas de humedad y las opciones de cultivo de cada escenario para identificar dónde ajustar el riego o la fecha de siembra.'),
+    element('p', 'Los escenarios sirven para explorar riesgos. La API no estima cuánto cambiará el clima ni calcula un porcentaje de mitigación.'));
+  section.append(heading, element('p', 'Elige el sector de tu parcela y describe tu ciclo de cultivo.'), adaptation, form,
+    status, results);
+
+  handleSubmit(form, status, async data => {
+    results.replaceChildren();
+    const response = await recommend({ ...data, mes_inicio: Number(data.mes_inicio) }, apiOrigin);
+    const scenario = fields.find(([name]) => name === 'escenario_clima')[2]
+      .find(([value]) => value === data.escenario_clima)[1];
+    const title = renderResults(results, response, scenario, section.id);
+    status.textContent = `${response.estrategias.length} estrategias disponibles.`;
+    title.focus();
+  }, apiOrigin ? 'Generando diagnóstico. Si el servicio estaba inactivo, puede tardar alrededor de un minuto.' : 'Enviando…');
+  if (allowFeedback) mountFeedback(section);
+}
+
+function mountFeedback(section) {
   const category = element('input');
   category.name = 'categoria';
   category.required = true;
@@ -267,21 +289,7 @@ export function mountRecommendations(section, demoResponse) {
     element('div', feedbackButton), feedbackStatus);
   feedback.className = 'ai-feedback';
 
-  const adaptation = details('Cómo evaluar la adaptación al cambio climático',
-    element('p', 'Simula tu rotación de 18 meses en condiciones normales, de sequía o de El Niño. Compara las alertas de humedad y las opciones de cultivo de cada escenario para identificar dónde ajustar el riego o la fecha de siembra.'),
-    element('p', 'Los escenarios sirven para explorar riesgos. La API no estima cuánto cambiará el clima ni calcula un porcentaje de mitigación.'));
-  section.append(heading, element('p', 'Elige el sector de tu parcela y describe tu ciclo de cultivo.'), adaptation, form,
-    status, results, details('Compartir una observación de campo', feedback));
-
-  handleSubmit(form, status, async data => {
-    results.replaceChildren();
-    const response = await recommend({ ...data, mes_inicio: Number(data.mes_inicio) });
-    const scenario = fields.find(([name]) => name === 'escenario_clima')[2]
-      .find(([value]) => value === data.escenario_clima)[1];
-    const title = renderResults(results, response, scenario);
-    status.textContent = `${response.estrategias.length} estrategias disponibles.`;
-    title.focus();
-  });
+  section.append(details('Compartir una observación de campo', feedback));
   handleSubmit(feedback, feedbackStatus, async data => {
     data.categoria = data.categoria.trim();
     data.observacion = data.observacion.trim();
