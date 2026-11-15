@@ -2,6 +2,15 @@
 *.pyc
 .venv/
 env/
+.venv*/
+.pytest_cache/
+.netrc
+_netrc
+.dodsrc
+.urs_cookies
+.env
+.env.*
+!.env.example
 # Map assets generated locally from the documented geography services.
 /proyecto-agricultura-ia/frontend/src/components/map/babahoyo-display.json
 /proyecto-agricultura-ia/frontend/src/components/map/babahoyo-parroquias-2023.json

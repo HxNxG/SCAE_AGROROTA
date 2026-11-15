@@ -92,13 +92,13 @@ function strategyCard(strategy, index) {
   if (confidenceMeter) {
     confidenceMeter.max = 100;
     confidenceMeter.value = confidence;
-    confidenceMeter.setAttribute('aria-label', 'Confianza estimada por el modelo');
+    confidenceMeter.setAttribute('aria-label', 'Indicador heurístico de estabilidad del ensamble');
   }
   const indicators = facts([
-    ['Confiabilidad de los datos', element('div',
-      element('strong', hasConfidence ? number(confidence, ' %') : 'Sin dato'),
+    ['Estabilidad del ensamble (heurística)', element('div',
+      element('strong', hasConfidence ? number(confidence, ' / 100') : 'Sin dato'),
       confidenceMeter,
-      element('small', 'Humedad de verano'))],
+      element('small', 'Basado en la dispersión del modelo para la humedad de verano.'))],
     ['Adaptación al clima', element('div',
       element('small', summary.clima_plagas ?? 'Sin evaluación del escenario.'))],
   ]);
@@ -136,7 +136,7 @@ function strategyCard(strategy, index) {
         facts([
           ['Cultivo', month.cultivo],
           ['Humedad estimada', number(month.humedad_ia, ' %')],
-          ['Fuerza del suelo', number(month.fuerza_suelo)],
+          ['Índice de suelo (heurístico)', number(month.fuerza_suelo)],
           ['Alerta', month.alerta],
         ]));
     }
@@ -167,8 +167,8 @@ function strategyCard(strategy, index) {
     details('Pasos de la estrategia', steps.length ? element('ol', ...steps) : element('p', 'Sin pasos disponibles.')),
     details('Evidencia y límites', facts([
       ['Humedad de verano', number(technical.humedad_verano, ' %')],
-      ['Margen reportado', number(technical.margen_error, ' puntos porcentuales')],
-      ['Historial', technical.historial], ['Limitaciones', technical.honestidad],
+      ['Margen heurístico', number(technical.margen_error, ' puntos porcentuales')],
+      ['Referencia histórica sin validación independiente', technical.historial], ['Limitaciones', technical.honestidad],
     ]), element('ul', ...items(technical.evidencia).map(line => element('li', line)))),
     guides.length ? details('Guías de cultivo', ...guides) : null);
   drilldowns.className = 'ai-card-details';
@@ -190,13 +190,13 @@ function renderResults(container, response, scenario) {
   const title = element('h3', demo ? 'Ejemplo de Pimocha' : `${response.zona} · ${scenario}`);
   title.tabIndex = -1;
   const context = element('p', demo
-    ? 'Demostración con resultados guardados de Pimocha para un escenario de sequía.'
-    : 'Simulación de rotación de cultivos por sector.');
+    ? 'Ejemplo guardado para Pimocha en sequía. Los resultados agronómicos y económicos son estimaciones del prototipo.'
+    : 'Simulación por sector. Los resultados agronómicos y económicos son estimaciones del prototipo.');
   if (demo) context.className = 'ai-demo-note';
   container.replaceChildren(
     title,
     context,
-    details('Métricas del modelo', facts([
+    details('Métricas de evaluación interna del modelo', facts([
       ['R²', number(metrics.r2_score)],
       ['Error absoluto medio de humedad', number(metrics.mae_humedad_pct, ' puntos porcentuales')],
       ['Error absoluto medio del balance hídrico', number(metrics.mae_balance_mm, ' mm')],

@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 import json
 import math
 import joblib
@@ -9,11 +10,17 @@ from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-app = FastAPI(title="Field Shift Babahoyo - NASA Space Apps")
+ROOT = Path(__file__).resolve().parent.parent
+MODEL_PATH = ROOT / "backend" / "modelo_ensamble_babahoyo.joblib"
+OBSERVATIONS_PATH = Path(os.environ.get(
+    "BIOTINDER_OBSERVATIONS_PATH", ROOT / "data" / "aportes_pendientes_revision.json"
+)).expanduser().resolve()
+
+app = FastAPI(title="BioTinder · AgroRota Ecuador")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 # Cargar el ensamble neuronal recién entrenado
-ARTEFACTO = joblib.load("backend/modelo_ensamble_babahoyo.joblib")
+ARTEFACTO = joblib.load(MODEL_PATH)
 PUNTOS_BABAHOYO = ARTEFACTO["puntos_babahoyo"]
 
 MESES_NOMBRES = ["", "Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
@@ -381,10 +388,10 @@ def recomendar_estrategias(q: ConsultaParcela):
 
 @app.post("/api/aportar-datos")
 def guardar_aporte_revision(aporte: AporteSector):
-    os.makedirs("data", exist_ok=True)
-    archivo = "data/aportes_pendientes_revision.json"
+    archivo = OBSERVATIONS_PATH
+    archivo.parent.mkdir(parents=True, exist_ok=True)
     registros = []
-    if os.path.exists(archivo):
+    if archivo.exists():
         with open(archivo, "r", encoding="utf-8") as f:
             registros = json.load(f)
 
@@ -405,8 +412,9 @@ def guardar_aporte_revision(aporte: AporteSector):
 
 @app.get("/")
 def estado_api():
-    if os.path.exists("frontend/index.html"):
-        return FileResponse("frontend/index.html")
+    legacy_frontend = ROOT / "frontend" / "index.html"
+    if legacy_frontend.is_file():
+        return FileResponse(legacy_frontend)
     return {
         "estado": "Backend Field Shift Babahoyo activo",
         "docs": "http://localhost:8000/docs"

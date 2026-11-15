@@ -1,5 +1,5 @@
-import os
 import calendar
+from pathlib import Path
 import joblib
 import requests
 import numpy as np
@@ -8,6 +8,8 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, r2_score
+
+ROOT = Path(__file__).resolve().parents[2]
 
 # 8 puntos agrícolas de la zona arrocera de Babahoyo y su cuenca inmediata
 # Incluye coordenadas reales y elevación topográfica NASA SRTM (m s.n.m.)
@@ -140,8 +142,8 @@ def entrenar_ensamble_neuronal():
     df["balance_hidrico_mm"] = df["lluvia_mes_mm"] - df["et0_mes_mm"]
     df["riesgo_calor"] = np.clip((df["temp_max_c"] - 31.5) / 4.0, 0.0, 1.0)
 
-    os.makedirs("data", exist_ok=True)
-    ruta_csv = "data/dataset_babahoyo_2005_2024.csv"
+    ruta_csv = ROOT / "data" / "dataset_babahoyo_2005_2024.csv"
+    ruta_csv.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(ruta_csv, index=False)
     print(f"\n2. Dataset limpio guardado en '{ruta_csv}' ({len(df)} registros mensuales).")
 
@@ -217,7 +219,7 @@ def entrenar_ensamble_neuronal():
             "r2_score": round(float(r2_global), 3),
         }
     }
-    ruta_modelo = "backend/modelo_ensamble_babahoyo.joblib"
+    ruta_modelo = ROOT / "backend" / "modelo_ensamble_babahoyo.joblib"
     joblib.dump(artefacto, ruta_modelo)
     print(f"\n4. Modelo neuronal guardado exitosamente en '{ruta_modelo}'.")
 
