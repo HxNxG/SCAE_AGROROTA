@@ -16,6 +16,20 @@ La pregunta agrícola de esta extracción es cómo varían los acumulados mensua
 
 ## Reproducción
 
+### Serie de Babahoyo
+
+El archivo [IMERG_Babahoyo_2010-01_2025-09.csv](IMERG_Babahoyo_2010-01_2025-09.csv) contiene 189 acumulados mensuales del cantón Babahoyo (DPA 1201), de enero de 2010 a septiembre de 2025. Conserva precipitación media ponderada por área (mm), índice de calidad medio y error aleatorio medio por celda. Se construye sin descargar ni alterar los agregados fuente:
+
+```powershell
+python 02_clima_temperatura_y_meteorologia/GPM/preparar_babahoyo.py
+```
+
+El script combina [los agregados cantonales Costa 2010–2014](IMERG_cantones_costa_2010-01_2014-12.csv) y [Los Ríos 2015–2025](IMERG_cantones_los_rios_2015-01_2025-09.csv), filtra DPA 1201, rechaza solapamientos, meses faltantes, duplicados y cobertura geométrica incompleta, y calcula SHA-256 de las entradas y salida. La [ficha reproducible](babahoyo_2010-01_2025-09.json) registra producto, fuente, condiciones de uso, período, método, hashes y brechas. Se ejecutó el script con Python 3.13; generó y verificó 189 meses continuos, cobertura completa y valores no negativos.
+
+La colección es GPM_3IMERGM V07B, Final Run mensual, de 0,1° (aproximadamente 10 km); el catálogo oficial informa que los datos Final incorporan análisis mensual de pluviómetros y que la disponibilidad tiene alrededor de cuatro meses de retraso. Está marcado como acceso público; el portal NASA enlaza las condiciones de obras del Gobierno de EE. UU. y el [uso permitido](https://www.usa.gov/government-works). [Catálogo oficial NASA](https://data.nasa.gov/dataset/gpm-imerg-final-precipitation-l3-1-month-0-1-degree-x-0-1-degree-v07-gpm-3imergm-at-ges-di-75e72).
+
+La malla no mide una parcela. El promedio cantonal usa área geodésica intersectada con los límites DPA 2019; el error promedio por celda no es un intervalo de confianza para el cantón. La serie consultada termina en septiembre de 2025; falta incorporar y validar meses posteriores, por lo que no equivale a lluvia en tiempo real ni a estación local.
+
 La [ampliación 2010–2014](IMERG_Costa_2010-01_2014-12.csv) añade 60 meses y 87.480 registros en la misma malla. Se generaron [420 registros provinciales](IMERG_provincias_2010-01_2014-12.csv) y [5.160 cantonales](IMERG_cantones_costa_2010-01_2014-12.csv). Para reproducir, añadir `--2010-2014` al comando correspondiente. Consultar el [manifiesto](ampliacion_imerg_2010_2014.json) para la URL y SHA-256. Los dos tramos cubren enero de 2010 a septiembre de 2025, que es el último mes del servidor ERDDAP consultado.
 
 El [CSV de los 86 cantones de la Costa](IMERG_cantones_costa_2015-01_2025-09.csv) contiene 11.094 filas. La cobertura geométrica de la malla es prácticamente total para cada cantón. Ejecutar `agregar_provincias.py --cantones` con el GeoJSON DPA 2019 de EEQ. Las consultas por provincia y la suma del GeoJSON están en [el manifiesto de límites](../../01_suelos_y_salud_del_suelo/SMAP/geografia/costa_cantones_referencia_2019.json). SHA-256 del CSV: `21ba179736bff0ea03537848a4ccbd105082c8ed289e2cf7ef7e98fb317368bb`.

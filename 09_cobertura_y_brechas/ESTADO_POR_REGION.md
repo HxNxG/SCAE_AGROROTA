@@ -19,6 +19,7 @@ Agregar una fila por variable y área evaluada; desglosar la Costa por provincia
 
 | Región / provincia / cantón | Variable o evidencia faltante | Producto y versión evaluados | Período y resolución necesarios | Evidencia de la limitación y fecha de revisión | Impacto agrícola | Fuente potencial y acción | Responsable | Estado |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Los Ríos / Babahoyo | Lluvia local por parcela y meses posteriores a 2025-09 | NASA GPM IMERG Final Run V07B, GPM_3IMERGM 07 | 2010-01 a 2025-09, malla 0,1°, resumen cantonal DPA 2019 | Serie IMERG preparada con 189 meses y cobertura cantonal completa; producto satelital no sustituye pluviómetro ni describe variación dentro del cantón; revisado 2026-11-14 | Contexto mensual útil, insuficiente para inundación o calendario de una parcela sin evidencia local | Validar frente a estación INAMHI y añadir meses posteriores cuando estén publicados; integrar como contexto histórico versionado | Pendiente de asignación | Cobertura parcial |
 | Por completar | Por completar | Por completar | Por completar | Sin evaluación todavía | Por evaluar | Por definir | Por asignar | Pendiente de verificar |
 
 Usar `cobertura parcial` cuando existan datos con huecos documentados y `ausencia confirmada` únicamente cuando se haya comprobado la falta de la variable o cobertura requerida. Registrar cuándo una brecha queda resuelta y enlazar los metadatos correspondientes.

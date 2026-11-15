@@ -1,6 +1,12 @@
-# AgroRota Ecuador
+# BioTinder
 
-Repositorio de la aplicación web y de los datos para apoyar decisiones agrícolas en la Costa del Ecuador. El piloto de Babahoyo, Los Ríos, compara arroz, soya y maíz amarillo duro después de un ciclo de arroz.
+**Planificación de la rotación arrocera en Babahoyo, Los Ríos.** BioTinder compara el manejo actual con dos planes de cultivo y muestra las condiciones del terreno y el clima que pueden afectar la siembra.
+
+| Quién | Por dónde empezar |
+| --- | --- |
+| Quiero ver un ejemplo | [Demostración estática de Pimocha](proyecto-agricultura-ia/README.md#demostración-y-github-pages) |
+| Quiero probar otros sectores y escenarios | [Arranque local del visor y las dos API](proyecto-agricultura-ia/README.md#ejecutar-biotinder-localmente) |
+| Quiero revisar las fuentes | [Datos y evidencia](#datos-y-evidencia) |
 
 ## Aplicación y desarrollo
 

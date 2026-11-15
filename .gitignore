@@ -2,3 +2,8 @@
 *.pyc
 .venv/
 env/
+# Map assets generated locally from the documented geography services.
+/proyecto-agricultura-ia/frontend/src/components/map/babahoyo-display.json
+/proyecto-agricultura-ia/frontend/src/components/map/babahoyo-parroquias-2023.json
+/proyecto-agricultura-ia/frontend/src/components/map/babahoyo-flood-2024.png
+/data/aportes_pendientes_revision.json

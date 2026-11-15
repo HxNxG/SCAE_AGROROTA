@@ -1,0 +1,717 @@
+{
+  "zona": "Pimocha (Bajial)",
+  "metricas_modelo": {
+    "mae_humedad_pct": 1.47,
+    "mae_balance_mm": 15.8,
+    "r2_score": 0.952
+  },
+  "estrategias": [
+    {
+      "id": "actual",
+      "titulo": "Como trabajas hoy: Arroz + Tierra Vacía",
+      "impacto_directo": "0% ahorro en abono • 6 meses de tierra pelada sin ingresos",
+      "resumen_5_logros": {
+        "ventas": "1 cosecha(s) vendible(s) en 18 meses",
+        "clima_plagas": "🔴 Se seca sin bombeo · La sogata y malezas repiten",
+        "arroz_principal": "Baja rendimiento si no subes sacos de úrea",
+        "fuerza_tierra": "Pierde fuerza cada año (0% ahorro en abono)",
+        "casa_ganado": "Sin alimento ni pasto fresco en verano"
+      },
+      "timeline": [
+        {
+          "step": 1,
+          "mes_nombre": "May",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 62.1,
+          "fuerza_suelo": 71,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 2,
+          "mes_nombre": "Jun",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 56.0,
+          "fuerza_suelo": 67,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 3,
+          "mes_nombre": "Jul",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 53.0,
+          "fuerza_suelo": 63,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 4,
+          "mes_nombre": "Ago",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 51.7,
+          "fuerza_suelo": 59,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 5,
+          "mes_nombre": "Sep",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 52.5,
+          "fuerza_suelo": 55,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 6,
+          "mes_nombre": "Oct",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 52.8,
+          "fuerza_suelo": 51,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 7,
+          "mes_nombre": "Nov",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 54.8,
+          "fuerza_suelo": 47,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 8,
+          "mes_nombre": "Dic",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 53.8,
+          "fuerza_suelo": 44,
+          "alerta": "Peligro de sequía: sin bomba de riego el arroz sufre."
+        },
+        {
+          "step": 9,
+          "mes_nombre": "Ene",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 54.6,
+          "fuerza_suelo": 41,
+          "alerta": "Peligro de sequía: sin bomba de riego el arroz sufre."
+        },
+        {
+          "step": 10,
+          "mes_nombre": "Feb",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 63.3,
+          "fuerza_suelo": 38,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 11,
+          "mes_nombre": "Mar",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 68.3,
+          "fuerza_suelo": 35,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 12,
+          "mes_nombre": "Abr",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 67.1,
+          "fuerza_suelo": 32,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 13,
+          "mes_nombre": "May",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 62.1,
+          "fuerza_suelo": 28,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 14,
+          "mes_nombre": "Jun",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 56.0,
+          "fuerza_suelo": 28,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 15,
+          "mes_nombre": "Jul",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 53.0,
+          "fuerza_suelo": 28,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 16,
+          "mes_nombre": "Ago",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 51.7,
+          "fuerza_suelo": 28,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 17,
+          "mes_nombre": "Sep",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 52.5,
+          "fuerza_suelo": 28,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        },
+        {
+          "step": 18,
+          "mes_nombre": "Oct",
+          "cultivo": "Poza Vacía (Tierra pelada al sol)",
+          "rol": "vacio",
+          "color": "#78350F",
+          "humedad_ia": 52.8,
+          "fuerza_suelo": 28,
+          "alerta": "El sol endurece la tierra, evapora el agua y nacen malezas."
+        }
+      ],
+      "pasos": [
+        {
+          "orden": "Invierno",
+          "planta": "Arroz (Cultivo Principal)",
+          "duracion": "125 días",
+          "detalle": "Depende 100% de las lluvias de invierno."
+        },
+        {
+          "orden": "Verano",
+          "planta": "Poza vacía o segundo arroz forzado",
+          "duracion": "180 días",
+          "detalle": "Suelo expuesto al sol o alto gasto en combustible."
+        }
+      ],
+      "tecnico_nasa": {
+        "humedad_verano": 52.8,
+        "margen_error": 4.1,
+        "confianza_ia": 87,
+        "historial": "11 de 20 años (cansa la tierra cada año)",
+        "evidencia": [
+          "NASA POWER / SMAP (Pimocha (Bajial)): Humedad radicular cae a 52.8% en verano (balance 86.0 mm).",
+          "MODIS NDVI: 6 meses históricos con cobertura menor a 0.25."
+        ],
+        "honestidad": "SMAP no detecta canales internos ni pozos privados. Revisar compactación a 20 cm en campo."
+      },
+      "guias": []
+    },
+    {
+      "id": "estrategia_b",
+      "titulo": "Plan B: Plata Rápida y Aguantar Sequía",
+      "impacto_directo": "Vendes en 80 días • Ahorras 31% en gasto de verano sin bombas",
+      "resumen_5_logros": {
+        "ventas": "3 cosechas vendibles en 18 meses (primera plata a los 80 días)",
+        "clima_plagas": "🟢 Aguanta verano seco y calor de 34 °C sin riego",
+        "arroz_principal": "Lote descansado y limpio para tu invierno",
+        "fuerza_tierra": "Ahorra 34% de abono (~2.5 sacos úrea/ha gratis)",
+        "casa_ganado": "Fréjol seco para la mesa familiar + forraje para animales"
+      },
+      "timeline": [
+        {
+          "step": 1,
+          "mes_nombre": "May",
+          "cultivo": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "rol": "secundario_suelo",
+          "color": "#10B981",
+          "humedad_ia": 62.1,
+          "fuerza_suelo": 70,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 2,
+          "mes_nombre": "Jun",
+          "cultivo": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "rol": "secundario_suelo",
+          "color": "#10B981",
+          "humedad_ia": 56.0,
+          "fuerza_suelo": 75,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 3,
+          "mes_nombre": "Jul",
+          "cultivo": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "rol": "secundario_suelo",
+          "color": "#10B981",
+          "humedad_ia": 53.0,
+          "fuerza_suelo": 80,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 4,
+          "mes_nombre": "Ago",
+          "cultivo": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "rol": "secundario_limpieza",
+          "color": "#0369A1",
+          "humedad_ia": 51.7,
+          "fuerza_suelo": 79,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 5,
+          "mes_nombre": "Sep",
+          "cultivo": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "rol": "secundario_limpieza",
+          "color": "#0369A1",
+          "humedad_ia": 52.5,
+          "fuerza_suelo": 78,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 6,
+          "mes_nombre": "Oct",
+          "cultivo": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "rol": "secundario_limpieza",
+          "color": "#0369A1",
+          "humedad_ia": 52.8,
+          "fuerza_suelo": 77,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 7,
+          "mes_nombre": "Nov",
+          "cultivo": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "rol": "secundario_limpieza",
+          "color": "#0369A1",
+          "humedad_ia": 54.8,
+          "fuerza_suelo": 76,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 8,
+          "mes_nombre": "Dic",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 53.8,
+          "fuerza_suelo": 73,
+          "alerta": "Peligro de sequía: sin bomba de riego el arroz sufre."
+        },
+        {
+          "step": 9,
+          "mes_nombre": "Ene",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 54.6,
+          "fuerza_suelo": 70,
+          "alerta": "Peligro de sequía: sin bomba de riego el arroz sufre."
+        },
+        {
+          "step": 10,
+          "mes_nombre": "Feb",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 63.3,
+          "fuerza_suelo": 67,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 11,
+          "mes_nombre": "Mar",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 68.3,
+          "fuerza_suelo": 64,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 12,
+          "mes_nombre": "Abr",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 67.1,
+          "fuerza_suelo": 61,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 13,
+          "mes_nombre": "May",
+          "cultivo": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "rol": "secundario_suelo",
+          "color": "#10B981",
+          "humedad_ia": 62.1,
+          "fuerza_suelo": 66,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 14,
+          "mes_nombre": "Jun",
+          "cultivo": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "rol": "secundario_suelo",
+          "color": "#10B981",
+          "humedad_ia": 56.0,
+          "fuerza_suelo": 71,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 15,
+          "mes_nombre": "Jul",
+          "cultivo": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "rol": "secundario_suelo",
+          "color": "#10B981",
+          "humedad_ia": 53.0,
+          "fuerza_suelo": 76,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 16,
+          "mes_nombre": "Ago",
+          "cultivo": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "rol": "secundario_suelo",
+          "color": "#10B981",
+          "humedad_ia": 51.7,
+          "fuerza_suelo": 81,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 17,
+          "mes_nombre": "Sep",
+          "cultivo": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "rol": "secundario_suelo",
+          "color": "#10B981",
+          "humedad_ia": 52.5,
+          "fuerza_suelo": 86,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 18,
+          "mes_nombre": "Oct",
+          "cultivo": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "rol": "secundario_suelo",
+          "color": "#10B981",
+          "humedad_ia": 52.8,
+          "fuerza_suelo": 91,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        }
+      ],
+      "pasos": [
+        {
+          "orden": "1. Aliado Rápido",
+          "planta": "Fréjol Caupí INIAP-451 (Aliado Sequía)",
+          "duracion": "80 días",
+          "detalle": "Cosecha vendible en menos de 3 meses con mínima agua."
+        },
+        {
+          "orden": "2. Aliado Rústico",
+          "planta": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "duracion": "100 días",
+          "detalle": "Tolera sequía y deja grano/forraje antes de lluvias."
+        },
+        {
+          "orden": "3. ★ Tu Arroz Principal",
+          "planta": "Arroz (Cultivo eje)",
+          "duracion": "125 días",
+          "detalle": "Entra en invierno con menor gasto en químicos."
+        }
+      ],
+      "tecnico_nasa": {
+        "humedad_verano": 52.8,
+        "margen_error": 4.1,
+        "confianza_ia": 87,
+        "historial": "Favorable en 19 de los últimos 20 años (NASA POWER)",
+        "evidencia": [
+          "NASA POWER (Pimocha (Bajial)): Fréjol Caupí soporta estrés térmico proyectado en verano.",
+          "MAG SIPA: Alta demanda comercial de fréjol seco en mercados de Babahoyo."
+        ],
+        "honestidad": "SRTM (30 m) no distingue micro-desniveles internos; cosechar el aliado antes de las lluvias fuertes."
+      },
+      "guias": [
+        {
+          "planta": "Fréjol Caupí (Variedad INIAP-451)",
+          "rol_arroz": "Aliado ultra rápido (80 días) y resistente al verano seco de Babahoyo; deja dinero rápido, comida para la casa y abono natural para tu arroz.",
+          "preparacion": "Limpieza ligera de malezas; tolera suelos barriales sin necesidad de bombas de estero.",
+          "siembra": "50 cm entre surcos x 20 cm entre golpes (2 semillas por sitio) aprovechando el cierre de lluvias.",
+          "cuidados": "Soporta hasta 34 °C sin riego continuo. Revisar pulgones en brotes tiernos las primeras 3 semanas.",
+          "cosecha": "Entre 75 y 85 días se recoge el grano seco para vender o comer; el follaje sirve como forraje verde para animales."
+        },
+        {
+          "planta": "Sorgo Granífero / Forrajero",
+          "rol_arroz": "Reemplaza al maíz en bajiales o veranos secos; limpia plagas del suelo y deja abundante pasto/grano antes de volver al arroz.",
+          "preparacion": "Pase superficial de rastra o siembra directa tras la leguminosa.",
+          "siembra": "60 cm entre surcos a chorro continuo (12-15 kg semilla/ha).",
+          "cuidados": "Alta resistencia tanto a sequía como a humedad temporal; bajo costo de insumos.",
+          "cosecha": "A los 95-100 días para venta de grano o corte de forraje para ganado."
+        }
+      ]
+    },
+    {
+      "id": "estrategia_a",
+      "titulo": "Plan A: Ahorrar Abono y Cuidar Tierra",
+      "impacto_directo": "Ahorras 48% en abonos (~$175/ha) • Tierra fértil 5+ años",
+      "resumen_5_logros": {
+        "ventas": "2 cosechas en 18 meses (52% menos gasto de verano)",
+        "clima_plagas": "🟢 Corta la sogata y ahoga el arroz rojo en verano",
+        "arroz_principal": "Crece más fuerte en invierno con menos úrea",
+        "fuerza_tierra": "Ahorra 48% de abono (~3.5 sacos úrea/ha gratis)",
+        "casa_ganado": "Abundante forraje verde y cobertura protectora"
+      },
+      "timeline": [
+        {
+          "step": 1,
+          "mes_nombre": "May",
+          "cultivo": "Mucuna Negra (Abono Verde Protector)",
+          "rol": "secundario_suelo",
+          "color": "#047857",
+          "humedad_ia": 62.1,
+          "fuerza_suelo": 70,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 2,
+          "mes_nombre": "Jun",
+          "cultivo": "Mucuna Negra (Abono Verde Protector)",
+          "rol": "secundario_suelo",
+          "color": "#047857",
+          "humedad_ia": 56.0,
+          "fuerza_suelo": 75,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 3,
+          "mes_nombre": "Jul",
+          "cultivo": "Mucuna Negra (Abono Verde Protector)",
+          "rol": "secundario_suelo",
+          "color": "#047857",
+          "humedad_ia": 53.0,
+          "fuerza_suelo": 80,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 4,
+          "mes_nombre": "Ago",
+          "cultivo": "Mucuna Negra (Abono Verde Protector)",
+          "rol": "secundario_suelo",
+          "color": "#047857",
+          "humedad_ia": 51.7,
+          "fuerza_suelo": 85,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 5,
+          "mes_nombre": "Sep",
+          "cultivo": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "rol": "secundario_limpieza",
+          "color": "#0369A1",
+          "humedad_ia": 52.5,
+          "fuerza_suelo": 84,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 6,
+          "mes_nombre": "Oct",
+          "cultivo": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "rol": "secundario_limpieza",
+          "color": "#0369A1",
+          "humedad_ia": 52.8,
+          "fuerza_suelo": 83,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 7,
+          "mes_nombre": "Nov",
+          "cultivo": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "rol": "secundario_limpieza",
+          "color": "#0369A1",
+          "humedad_ia": 54.8,
+          "fuerza_suelo": 82,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 8,
+          "mes_nombre": "Dic",
+          "cultivo": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "rol": "secundario_limpieza",
+          "color": "#0369A1",
+          "humedad_ia": 53.8,
+          "fuerza_suelo": 81,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 9,
+          "mes_nombre": "Ene",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 54.6,
+          "fuerza_suelo": 78,
+          "alerta": "Peligro de sequía: sin bomba de riego el arroz sufre."
+        },
+        {
+          "step": 10,
+          "mes_nombre": "Feb",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 63.3,
+          "fuerza_suelo": 75,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 11,
+          "mes_nombre": "Mar",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 68.3,
+          "fuerza_suelo": 72,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 12,
+          "mes_nombre": "Abr",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 67.1,
+          "fuerza_suelo": 69,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 13,
+          "mes_nombre": "May",
+          "cultivo": "Arroz (Tu Cultivo Principal)",
+          "rol": "principal",
+          "color": "#D97706",
+          "humedad_ia": 62.1,
+          "fuerza_suelo": 66,
+          "alerta": "Lluvia abundante: ideal para tu poza de arroz."
+        },
+        {
+          "step": 14,
+          "mes_nombre": "Jun",
+          "cultivo": "Mucuna Negra (Abono Verde Protector)",
+          "rol": "secundario_suelo",
+          "color": "#047857",
+          "humedad_ia": 56.0,
+          "fuerza_suelo": 71,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 15,
+          "mes_nombre": "Jul",
+          "cultivo": "Mucuna Negra (Abono Verde Protector)",
+          "rol": "secundario_suelo",
+          "color": "#047857",
+          "humedad_ia": 53.0,
+          "fuerza_suelo": 76,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 16,
+          "mes_nombre": "Ago",
+          "cultivo": "Mucuna Negra (Abono Verde Protector)",
+          "rol": "secundario_suelo",
+          "color": "#047857",
+          "humedad_ia": 51.7,
+          "fuerza_suelo": 81,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 17,
+          "mes_nombre": "Sep",
+          "cultivo": "Mucuna Negra (Abono Verde Protector)",
+          "rol": "secundario_suelo",
+          "color": "#047857",
+          "humedad_ia": 52.5,
+          "fuerza_suelo": 86,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        },
+        {
+          "step": 18,
+          "mes_nombre": "Oct",
+          "cultivo": "Mucuna Negra (Abono Verde Protector)",
+          "rol": "secundario_suelo",
+          "color": "#047857",
+          "humedad_ia": 52.8,
+          "fuerza_suelo": 91,
+          "alerta": "Aliado cubriendo el lote: guarda frescura y mejora la tierra."
+        }
+      ],
+      "pasos": [
+        {
+          "orden": "1. Aliado Fijador",
+          "planta": "Mucuna Negra (Abono Verde Protector)",
+          "duracion": "95 días",
+          "detalle": "Aprovecha humedad tras cosechar arroz e inyecta abono natural."
+        },
+        {
+          "orden": "2. Aliado Limpiador",
+          "planta": "Sorgo Granífero / Forrajero (Aliado Rústico)",
+          "duracion": "100 días",
+          "detalle": "Limpia plagas del suelo antes del próximo invierno."
+        },
+        {
+          "orden": "3. ★ Tu Arroz Principal",
+          "planta": "Arroz (Cultivo eje)",
+          "duracion": "125 días",
+          "detalle": "Regresa en invierno sobre tierra suelta y fertilizada."
+        }
+      ],
+      "tecnico_nasa": {
+        "humedad_verano": 52.8,
+        "margen_error": 4.1,
+        "confianza_ia": 87,
+        "historial": "Favorable en 18 de los últimos 20 años (NASA POWER)",
+        "evidencia": [
+          "NASA SMAP (Pimocha (Bajial)): Humedad proyectada (52.8% ± 4.1%) permite germinación sin inundar.",
+          "INIAP Pichilingue & MAG: Sucesión Leguminosa → Gramínea corta ciclos de Pyricularia y sogata."
+        ],
+        "honestidad": "Los satélites no miden pH puntual ni precios diarios de piladora; confirmar semilla INIAP en Babahoyo."
+      },
+      "guias": [
+        {
+          "planta": "Mucuna Negra (Cobertura y Abono Verde)",
+          "rol_arroz": "No es para vender grano: es un manto vivo que cubre la poza en verano, ahoga malezas difíciles (como el arroz rojo) e inyecta ~3.5 sacos de úrea natural.",
+          "preparacion": "Siembra al voleo o espeque sin maquinaria sobre la poza húmeda tras cosechar el arroz.",
+          "siembra": "80 cm x 50 cm (2 semillas por sitio); en 35 días cubre todo el suelo protegiéndolo del sol.",
+          "cuidados": "Mantenimiento casi nulo; aguanta todo el verano seco sin bombas de agua.",
+          "cosecha": "Se chapia e incorpora al suelo a los 90 días, 3 semanas antes de preparar la poza para tu arroz."
+        },
+        {
+          "planta": "Sorgo Granífero / Forrajero",
+          "rol_arroz": "Reemplaza al maíz en bajiales o veranos secos; limpia plagas del suelo y deja abundante pasto/grano antes de volver al arroz.",
+          "preparacion": "Pase superficial de rastra o siembra directa tras la leguminosa.",
+          "siembra": "60 cm entre surcos a chorro continuo (12-15 kg semilla/ha).",
+          "cuidados": "Alta resistencia tanto a sequía como a humedad temporal; bajo costo de insumos.",
+          "cosecha": "A los 95-100 días para venta de grano o corte de forraje para ganado."
+        }
+      ]
+    }
+  ],
+  "modo": "demo"
+}

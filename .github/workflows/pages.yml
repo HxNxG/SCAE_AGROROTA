@@ -1,0 +1,39 @@
+name: BioTinder Pages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: biotinder-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Preparar demostración estática
+        run: |
+          frontend=proyecto-agricultura-ia/frontend
+          mkdir -p _site/src/components _site/src/services _site/src/vendor
+          cp "$frontend"/pages/* _site/
+          cp "$frontend/src/styles.css" _site/src/
+          cp "$frontend/src/components/recommendations.js" _site/src/components/
+          cp "$frontend/src/services/aiApi.js" _site/src/services/
+          cp "$frontend"/src/vendor/pico.* _site/src/vendor/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4
